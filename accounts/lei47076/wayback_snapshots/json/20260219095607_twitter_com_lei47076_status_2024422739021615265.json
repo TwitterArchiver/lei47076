@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2024331253898674687",
+    "created_at": "2026-02-19T09:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024422739021615265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830775691375218688",
+          "start": 0,
+          "username": "YunoQiu56649"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024422739021615265",
+    "in_reply_to_user_id": "1830775691375218688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024331253898674687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunoQiu56649 当中国人怎么了欸？芙兰看不懂的说。⊙▽⊙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2388,
+        "media_key": "3_2024331189847543813",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfefeabUAU_9C1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2388,
+        "media_key": "3_2024331189847543810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfefeabUAI6RAr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2024331253898674687",
+        "created_at": "2026-02-19T09:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024422739021615265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830775691375218688",
+              "start": 0,
+              "username": "YunoQiu56649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024422739021615265",
+        "in_reply_to_user_id": "1830775691375218688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024331253898674687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunoQiu56649 当中国人怎么了欸？芙兰看不懂的说。⊙▽⊙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024331189847543813",
+            "3_2024331189847543810"
+          ]
+        },
+        "author_id": "1830775691375218688",
+        "conversation_id": "2024331253898674687",
+        "created_at": "2026-02-19T03:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024331253898674687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkhvn2GSXV",
+              "end": 63,
+              "expanded_url": "https://x.com/YunoQiu56649/status/2024331253898674687/photo/1",
+              "media_key": "3_2024331189847543813",
+              "start": 40,
+              "url": "https://t.co/gkhvn2GSXV"
+            },
+            {
+              "display_url": "pic.x.com/gkhvn2GSXV",
+              "end": 63,
+              "expanded_url": "https://x.com/YunoQiu56649/status/2024331253898674687/photo/1",
+              "media_key": "3_2024331189847543810",
+              "start": 40,
+              "url": "https://t.co/gkhvn2GSXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024331253898674687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1966,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不键政不代表我不能骂傻逼，就这种一辈子只能当底层牛马的粉蛆就是容易破防拉黑🤣 https://t.co/gkhvn2GSXV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "唔？你是来找芙兰玩的吗？欢迎哦～\n只不过要注意安全哦～嘻（坏笑）\n为了防止你在芙兰这里做坏事我特地派一只小鹦鹉看着你哦～要乖乖的\n◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020175872347762692/krDJqg4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "username": "lei47076",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T01:13:22.000Z",
+        "description": "互fo求求了喵~🥺｜除了初始头像外无视成分回fo🤓锁推的回不了喵｜生产日期07.04.02｜拒绝键政😡搞性别对立的也滚😡｜HRT2026.1.12｜中焦 中抑｜如果感觉我的言论冒犯到了你 请和我说 我道歉🥹｜给这当QQ空间用了 QQ不能说的在这说 记录日常喵(负能量慎入)💤｜看我的帖不喜勿喷，喷我也要发😋",
+        "id": "1830775691375218688",
+        "location": "天堂",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥",
+        "pinned_tweet_id": "2008910689658966299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979282587441823744/rJVAp01e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 979,
+          "like_count": 4024,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 7051
+        },
+        "username": "YunoQiu56649",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2034255663971610977",
+    "created_at": "2026-03-18T14:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T15:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034270550722494637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835139537418567680",
+          "start": 0,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034270550722494637",
+    "in_reply_to_user_id": "1835139537418567680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034255663971610977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WellingtonPixel 芙兰不会讨厌你呀！\n抱抱你～~~O(∩_∩)O~~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2034255663971610977",
+        "created_at": "2026-03-18T14:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034270550722494637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835139537418567680",
+              "start": 0,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034270550722494637",
+        "in_reply_to_user_id": "1835139537418567680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034255663971610977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WellingtonPixel 芙兰不会讨厌你呀！\n抱抱你～~~O(∩_∩)O~~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835139537418567680",
+        "conversation_id": "2034255663971610977",
+        "created_at": "2026-03-18T13:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T14:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034255663971610977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034255663971610977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别Unfo呀🥺👉👈工作日由于学习情况，真的没法有很高的活跃度......不要讨厌我了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "唔？你是来找芙兰玩的吗？欢迎哦～\n只不过要注意安全哦～嘻（坏笑）\n因为芙兰不定时上线，所以为了防止你在芙兰这里做坏事我特地派一只小鹦鹉看着你哦～要乖乖的哦。\n◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 18,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 251
+        },
+        "username": "lei47076",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "IP:Mesa,Arizona\n键政|碎碎念\n工作日私信无法回复致歉\n联系我请使用Mail:WellingtonPixel@proton.me\n或Telegram：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wellingtonpixel",
+                "end": 23,
+                "expanded_url": "http://t.me/wellingtonpixel",
+                "start": 0,
+                "url": "https://t.co/C8XoVpu5DI"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Mesa, AZ",
+        "name": "🇹🇼Wellington † Pixel🪩",
+        "pinned_tweet_id": "2032502064715379026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033027919342383104/a6zqmx2s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1709,
+          "like_count": 6066,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 721
+        },
+        "url": "https://t.co/C8XoVpu5DI",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

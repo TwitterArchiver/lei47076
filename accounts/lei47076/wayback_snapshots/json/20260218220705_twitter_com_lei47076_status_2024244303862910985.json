@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024244301295996928"
+      ]
+    },
+    "author_id": "2020175811878481922",
+    "conversation_id": "2024244303862910985",
+    "created_at": "2026-02-18T22:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T23:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024244303862910985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GsNSmC2BJe",
+          "end": 56,
+          "expanded_url": "https://x.com/lei47076/status/2024244303862910985/photo/1",
+          "media_key": "3_2024244301295996928",
+          "start": 33,
+          "url": "https://t.co/GsNSmC2BJe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024244303862910985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唔姆.....那芙兰的声音属于什么？超绝烟嗓嘛c( O.O )ɔ https://t.co/GsNSmC2BJe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024244301295996928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBePd5VbUAA2v-K.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024244301295996928"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "conversation_id": "2024244303862910985",
+        "created_at": "2026-02-18T22:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T23:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024244303862910985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsNSmC2BJe",
+              "end": 56,
+              "expanded_url": "https://x.com/lei47076/status/2024244303862910985/photo/1",
+              "media_key": "3_2024244301295996928",
+              "start": 33,
+              "url": "https://t.co/GsNSmC2BJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024244303862910985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔姆.....那芙兰的声音属于什么？超绝烟嗓嘛c( O.O )ɔ https://t.co/GsNSmC2BJe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "唔？你是来找芙兰玩的吗？欢迎哦～\n只不过要注意安全哦～嘻（坏笑）\n为了防止你在芙兰这里做坏事我特地派一只小鹦鹉看着你哦～要乖乖的\n◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020175872347762692/krDJqg4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "username": "lei47076",
+        "verified": false
+      }
+    ]
+  }
+}

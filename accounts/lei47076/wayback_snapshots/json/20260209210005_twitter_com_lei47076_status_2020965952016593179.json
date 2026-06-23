@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2020887097058714090",
+    "created_at": "2026-02-09T21:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T22:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020965952016593179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3232789010",
+          "start": 0,
+          "username": "Manankm1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020965952016593179",
+    "in_reply_to_user_id": "3232789010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020887097058714090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Manankm1 857，已点赞和关注"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33297,
+        "height": 492,
+        "media_key": "13_2020887023725543424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020887023725543424/img/ADOxTtWmu-iWsv8I.jpg",
+        "public_metrics": {
+          "view_count": 58530
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020887023725543424/vid/avc1/394x270/qREP7i5uclsFLcgE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020887023725543424/vid/avc1/526x360/CFrC4MvY0UqqBHh5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020887023725543424/vid/avc1/720x492/HIk2m3CfM5Gnyfv1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020887023725543424/pl/LoZNFY1p6ZVxb_Ls.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2020887097058714090",
+        "created_at": "2026-02-09T21:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T22:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020965952016593179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3232789010",
+              "start": 0,
+              "username": "Manankm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020965952016593179",
+        "in_reply_to_user_id": "3232789010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020887097058714090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manankm1 857，已点赞和关注"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020887023725543424"
+          ]
+        },
+        "author_id": "3232789010",
+        "conversation_id": "2020887097058714090",
+        "created_at": "2026-02-09T15:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020887097058714090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qRwBaHMzKC",
+              "end": 78,
+              "expanded_url": "https://x.com/Manankm1/status/2020887097058714090/video/1",
+              "media_key": "13_2020887023725543424",
+              "start": 55,
+              "url": "https://t.co/qRwBaHMzKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020887097058714090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 84354,
+          "like_count": 888,
+          "quote_count": 0,
+          "reply_count": 334,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "天塌了 我弟把我凿了 我现在懵懵的          \n\n要看吗？准备删了..….  \n\n留言857全部有份 https://t.co/qRwBaHMzKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "",
+        "id": "2020175811878481922",
+        "name": "斯卡雷特芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020175872347762692/krDJqg4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "lei47076",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-01T17:23:55.000Z",
+        "description": "",
+        "id": "3232789010",
+        "name": "赵同学",
+        "pinned_tweet_id": "2020924946416009258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017126259785125888/PQBXI-Ul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 0,
+          "like_count": 173,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 113
+        },
+        "username": "Manankm1",
+        "verified": false
+      }
+    ]
+  }
+}

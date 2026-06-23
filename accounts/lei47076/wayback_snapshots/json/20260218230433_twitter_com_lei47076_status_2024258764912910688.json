@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2023972139171270865",
+    "created_at": "2026-02-18T23:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T00:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024258764912910688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001821328584929280",
+          "start": 0,
+          "username": "cwmgdnn0305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024258764912910688",
+    "in_reply_to_user_id": "2001821328584929280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023972139171270865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cwmgdnn0305 欸，朋友，虽然芙兰不知道你怎么了，但是芙兰决定给你一个抱抱，所以\n抱抱～\n~~O(∩_∩)O~~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2023972139171270865",
+        "created_at": "2026-02-18T23:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T00:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024258764912910688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001821328584929280",
+              "start": 0,
+              "username": "cwmgdnn0305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024258764912910688",
+        "in_reply_to_user_id": "2001821328584929280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023972139171270865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cwmgdnn0305 欸，朋友，虽然芙兰不知道你怎么了，但是芙兰决定给你一个抱抱，所以\n抱抱～\n~~O(∩_∩)O~~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001821328584929280",
+        "conversation_id": "2023972139171270865",
+        "created_at": "2026-02-18T04:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023972139171270865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023972139171270865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1726,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我应该死在去年才对…为什么所有人都是这样的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "唔？你是来找芙兰玩的吗？欢迎哦～\n只不过要注意安全哦～嘻（坏笑）\n为了防止你在芙兰这里做坏事我特地派一只小鹦鹉看着你哦～要乖乖的\n◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020175872347762692/krDJqg4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "username": "lei47076",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T01:06:51.000Z",
+        "description": "餐券女   日常是一个非常温良的妹子可以随便找我倾诉哦   可以称呼我为楠楠   od💊喜欢右美（库存快没了，只能先o玉米片，虽然很苦但是解离带来的升天感好喜欢）感康（虽然很难受不过它给我的幻觉是难以想象的，喜欢）白兔，pr80（比较喜欢的，好幸福）你喜欢我＝我喜欢你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cwmgdnn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cwmgdnn",
+                "start": 0,
+                "url": "https://t.co/jtBG6h7WY2"
+              }
+            ]
+          }
+        },
+        "id": "2001821328584929280",
+        "location": "Tokyo-to, Japan",
+        "name": "…",
+        "pinned_tweet_id": "2022170822077722927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021498682844315648/hNPyW2zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 150,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/jtBG6h7WY2",
+        "username": "cwmgdnn0305",
+        "verified": false
+      }
+    ]
+  }
+}

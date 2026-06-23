@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2066659303470322114",
+    "created_at": "2026-06-17T15:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067266699880284272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692126961446137856",
+          "start": 0,
+          "username": "mxioln852719882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067266699880284272",
+    "in_reply_to_user_id": "1692126961446137856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066846513696055527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mxioln852719882 嗯呢嗯呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2066659303470322114",
+        "created_at": "2026-06-17T15:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067266699880284272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692126961446137856",
+              "start": 0,
+              "username": "mxioln852719882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067266699880284272",
+        "in_reply_to_user_id": "1692126961446137856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066846513696055527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxioln852719882 嗯呢嗯呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692126961446137856",
+        "conversation_id": "2066659303470322114",
+        "created_at": "2026-06-16T11:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066846513696055527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066846513696055527",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066749983597179089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 谢谢！ 其实早上都是一样的 特别是下雨的时候"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "唔？你是来找芙兰玩的吗？欢迎哦～\n只不过要注意安全哦～嘻（坏笑）\n因为芙兰不定时上线，所以为了防止你在芙兰这里做坏事我特地派一只小鹦鹉看着你哦～要乖乖的哦。\n◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 24,
+          "like_count": 743,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 512
+        },
+        "username": "lei47076",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T10:51:36.000Z",
+        "description": "高敏感人格 + 复杂性创伤后应激障碍 + 触发性抑郁症 + 有点回避型人格\n( 对别人的 咳嗽声 + 吐口水声 + 辱骂声 比较敏感 ）+ 一点点社交恐惧症\n24岁 刷到那些死去女友的录音 死亡妻回忆录 自杀者的遗言 我哭了一顿",
+        "id": "1692126961446137856",
+        "name": "莫小兰",
+        "pinned_tweet_id": "2043993341885591953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041620849644728321/i0BMHp_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 4482,
+          "like_count": 7826,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 822
+        },
+        "username": "mxioln852719882",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2023536152989315315",
+    "created_at": "2026-02-18T23:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T00:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024259538053222702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1903099585129816064",
+          "start": 0,
+          "username": "tokerumaisurii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024259538053222702",
+    "in_reply_to_user_id": "1903099585129816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023536152989315315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokerumaisurii 这些是什么欸，芙兰看不懂，但是芙兰感觉这些东西不是很好的说。\n唔，我觉得还是不接触这些东西比较好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2023536152989315315",
+        "created_at": "2026-02-18T23:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T00:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024259538053222702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024259538053222702",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023536152989315315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 这些是什么欸，芙兰看不懂，但是芙兰感觉这些东西不是很好的说。\n唔，我觉得还是不接触这些东西比较好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2023536152989315315",
+        "created_at": "2026-02-16T23:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T00:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023536152989315315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/salviaswc/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/salviaswc/status/2022575536736764018",
+              "start": 141,
+              "url": "https://t.co/Na0KAbiRgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023536152989315315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1021,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022575536736764018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我简直是禁毒圣体：兴奋剂基本没有兴趣，致幻剂很恐惧那种不适，抑制剂的话，酒精担忧伤身且副作用体感最明显（指宿醉，虽然不代表伤害最大），阿片类不知何时起失效了还会诱导噩梦，苯二氮䓬类是舒服但我不想给自己留下很多烂摊子，巴比妥类和Z药纯净睡觉，加巴喷丁还行但不是最能让自己软和松弛的。 https://t.co/Na0KAbiRgz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "唔？你是来找芙兰玩的吗？欢迎哦～\n只不过要注意安全哦～嘻（坏笑）\n为了防止你在芙兰这里做坏事我特地派一只小鹦鹉看着你哦～要乖乖的\n◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020175872347762692/krDJqg4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "username": "lei47076",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 268,
+          "like_count": 78537,
+          "listed_count": 7,
+          "media_count": 1049,
+          "tweet_count": 14905
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

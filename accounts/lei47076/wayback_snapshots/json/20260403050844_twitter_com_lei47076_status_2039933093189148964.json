@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2039933093189148964",
+    "created_at": "2026-04-03T05:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T06:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039933093189148964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "163cn.link/4qAKqXf",
+          "end": 40,
+          "expanded_url": "http://163cn.link/4qAKqXf",
+          "start": 17,
+          "status": 200,
+          "unwound_url": "https://y.music.163.com/m/song?id=2064507907&uct2=13%2B1PzQIyVgm4YgtCzAmdA%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t3&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=5623502&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.67&sc=wm&tn=",
+          "url": "https://t.co/FRnyDlIa3G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039933093189148964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享凯桑的单曲《孙杰克李杰克》: https://t.co/FRnyDlIa3G (来自@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2039933093189148964",
+        "created_at": "2026-04-03T05:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039933093189148964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "163cn.link/4qAKqXf",
+              "end": 40,
+              "expanded_url": "http://163cn.link/4qAKqXf",
+              "start": 17,
+              "status": 200,
+              "unwound_url": "https://y.music.163.com/m/song?id=2064507907&uct2=13%2B1PzQIyVgm4YgtCzAmdA%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t3&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=5623502&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.67&sc=wm&tn=",
+              "url": "https://t.co/FRnyDlIa3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039933093189148964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享凯桑的单曲《孙杰克李杰克》: https://t.co/FRnyDlIa3G (来自@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "唔？你是来找芙兰玩的吗？欢迎哦～\n只不过要注意安全哦～嘻（坏笑）\n因为芙兰不定时上线，所以为了防止你在芙兰这里做坏事我特地派一只小鹦鹉看着你哦～要乖乖的哦。\n◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 26,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 318
+        },
+        "username": "lei47076",
+        "verified": false
+      }
+    ]
+  }
+}

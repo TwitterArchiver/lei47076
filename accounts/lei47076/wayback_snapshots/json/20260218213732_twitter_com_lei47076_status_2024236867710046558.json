@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2024236845950021632"
+      ]
+    },
+    "author_id": "2020175811878481922",
+    "conversation_id": "2024236867710046558",
+    "created_at": "2026-02-18T21:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T22:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024236867710046558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yNVRsRf22h",
+          "end": 48,
+          "expanded_url": "https://x.com/lei47076/status/2024236867710046558/photo/1",
+          "media_key": "16_2024236845950021632",
+          "start": 25,
+          "url": "https://t.co/yNVRsRf22h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024236867710046558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我已经三分钟没有听到大只切的故事了....... https://t.co/yNVRsRf22h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 466,
+        "media_key": "16_2024236845950021632",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBeIr8AbsAAckzp.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBeIr8AbsAAckzp.mp4"
+          }
+        ],
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2024236845950021632"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "conversation_id": "2024236867710046558",
+        "created_at": "2026-02-18T21:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T22:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024236867710046558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yNVRsRf22h",
+              "end": 48,
+              "expanded_url": "https://x.com/lei47076/status/2024236867710046558/photo/1",
+              "media_key": "16_2024236845950021632",
+              "start": 25,
+              "url": "https://t.co/yNVRsRf22h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024236867710046558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经三分钟没有听到大只切的故事了....... https://t.co/yNVRsRf22h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "唔？你是来找芙兰玩的吗？欢迎哦～\n只不过要注意安全哦～嘻（坏笑）\n为了防止你在芙兰这里做坏事我特地派一只小鹦鹉看着你哦～要乖乖的\n◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020175872347762692/krDJqg4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "lei47076",
+        "verified": false
+      }
+    ]
+  }
+}
