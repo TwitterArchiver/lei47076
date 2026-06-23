@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-06-23T17:32:38",
+  "last_updated": "2026-06-23T17:33:02",
   "html": {
     "https://web.archive.org/web/20260218213732if_/https://twitter.com/lei47076/status/2024236867710046558": {
       "status": "done",
@@ -3324,9 +3324,9 @@
         "20260311181643_twitter_com_lei47076_status_2031796477086089366.json",
         "20260311181833_twitter_com_lei47076_status_2031796938841210994.json"
       ],
-      "last_updated": "2026-06-23T16:38:33",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260311181643/https://video.twimg.com/amplify_video/2029159710746877952/vid/avc1/1280x720/GX641XTLuveT_Txf.mp4?tag=14",
-      "miss_count": 6
+      "last_updated": "2026-06-23T17:33:02",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260311181640/https://video.twimg.com/amplify_video/2029159710746877952/vid/avc1/1280x720/GX641XTLuveT_Txf.mp4?tag=14",
+      "miss_count": 7
     },
     "https://video.twimg.com/amplify_video/2036347405617057792/vid/avc1/364x640/CuwVvP761ZOD1yBA.mp4": {
       "status": "done",
