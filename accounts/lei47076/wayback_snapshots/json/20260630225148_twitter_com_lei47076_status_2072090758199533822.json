@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072090754546298880"
+      ]
+    },
+    "author_id": "2020175811878481922",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1971131911528648983",
+    "created_at": "2026-06-30T22:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T23:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072090758199533822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1971130225619763202",
+          "start": 0,
+          "username": "hajite516461"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kFLupbUJkV",
+          "end": 56,
+          "expanded_url": "https://x.com/lei47076/status/2072090758199533822/photo/1",
+          "media_key": "3_2072090754546298880",
+          "start": 33,
+          "url": "https://t.co/kFLupbUJkV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072090758199533822",
+    "in_reply_to_user_id": "1971130225619763202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971131911528648983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajite516461 哈基白，你这家伙...\n真是爆赞啊！ https://t.co/kFLupbUJkV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_2072090754546298880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGLkBcacAAqljh.jpg",
+        "width": 640
+      },
+      {
+        "height": 4000,
+        "media_key": "3_1971131859078971392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1rd-3nbgAAkwgu.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072090754546298880"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1971131911528648983",
+        "created_at": "2026-06-30T22:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T23:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072090758199533822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1971130225619763202",
+              "start": 0,
+              "username": "hajite516461"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kFLupbUJkV",
+              "end": 56,
+              "expanded_url": "https://x.com/lei47076/status/2072090758199533822/photo/1",
+              "media_key": "3_2072090754546298880",
+              "start": 33,
+              "url": "https://t.co/kFLupbUJkV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072090758199533822",
+        "in_reply_to_user_id": "1971130225619763202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971131911528648983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajite516461 哈基白，你这家伙...\n真是爆赞啊！ https://t.co/kFLupbUJkV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971131859078971392"
+          ]
+        },
+        "author_id": "1971130225619763202",
+        "conversation_id": "1971131911528648983",
+        "created_at": "2025-09-25T08:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T09:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971131911528648983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GiPU2UKfaf",
+              "end": 31,
+              "expanded_url": "https://x.com/hajite516461/status/1971131911528648983/photo/1",
+              "media_key": "3_1971131859078971392",
+              "start": 8,
+              "url": "https://t.co/GiPU2UKfaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971131911528648983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会有人喜欢吗… https://t.co/GiPU2UKfaf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "唔？你是来找芙兰玩的吗？欢迎哦～\n只不过要注意安全哦～嘻（坏笑）\n因为芙兰不定时上线，所以为了防止你在芙兰这里做坏事我特地派一只小鹦鹉看着你哦～要乖乖的哦。\n◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 24,
+          "like_count": 840,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 553
+        },
+        "url": "",
+        "username": "lei47076",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T08:31:07.000Z",
+        "description": "一个屑屑的寄术玩家～不时长在线捏\n最好的朋友：@Ghost_yiiiii\n欢迎大家来关注这位可爱男娘捏～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "Ghost_yiiiii"
+              }
+            ]
+          }
+        },
+        "id": "1971130225619763202",
+        "name": "哈基白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971130742341320704/MHXheTyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 122,
+          "like_count": 470,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "hajite516461",
+        "verified": false
+      }
+    ]
+  }
+}
