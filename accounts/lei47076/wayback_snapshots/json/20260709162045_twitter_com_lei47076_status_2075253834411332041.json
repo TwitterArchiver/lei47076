@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2073413365003948211",
+    "created_at": "2026-07-09T16:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075253834411332041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1971130225619763202",
+          "start": 0,
+          "username": "hajite516461"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075253834411332041",
+    "in_reply_to_user_id": "1971130225619763202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073413365003948211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajite516461 不赤谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_2073413063529873408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMY-MiRaQAAOKiJ.jpg",
+        "width": 720
+      },
+      {
+        "height": 1612,
+        "media_key": "3_2073413063550869504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMY-MiWaoAAmedA.jpg",
+        "width": 720
+      },
+      {
+        "height": 1612,
+        "media_key": "3_2073413063525711872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMY-MiQawAAPQ5c.jpg",
+        "width": 720
+      },
+      {
+        "height": 556,
+        "media_key": "3_2073413155804557312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMY-R6BaMAAI0D5.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2073413365003948211",
+        "created_at": "2026-07-09T16:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075253834411332041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1971130225619763202",
+              "start": 0,
+              "username": "hajite516461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075253834411332041",
+        "in_reply_to_user_id": "1971130225619763202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073413365003948211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajite516461 不赤谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073413063529873408",
+            "3_2073413063550869504",
+            "3_2073413063525711872",
+            "3_2073413155804557312"
+          ]
+        },
+        "author_id": "1971130225619763202",
+        "conversation_id": "2073413365003948211",
+        "created_at": "2026-07-04T14:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073413365003948211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/va7fvx2apl",
+              "end": 58,
+              "expanded_url": "https://x.com/hajite516461/status/2073413365003948211/photo/1",
+              "media_key": "3_2073413063529873408",
+              "start": 35,
+              "url": "https://t.co/va7fvx2apl"
+            },
+            {
+              "display_url": "pic.x.com/va7fvx2apl",
+              "end": 58,
+              "expanded_url": "https://x.com/hajite516461/status/2073413365003948211/photo/1",
+              "media_key": "3_2073413063550869504",
+              "start": 35,
+              "url": "https://t.co/va7fvx2apl"
+            },
+            {
+              "display_url": "pic.x.com/va7fvx2apl",
+              "end": 58,
+              "expanded_url": "https://x.com/hajite516461/status/2073413365003948211/photo/1",
+              "media_key": "3_2073413063525711872",
+              "start": 35,
+              "url": "https://t.co/va7fvx2apl"
+            },
+            {
+              "display_url": "pic.x.com/va7fvx2apl",
+              "end": 58,
+              "expanded_url": "https://x.com/hajite516461/status/2073413365003948211/photo/1",
+              "media_key": "3_2073413155804557312",
+              "start": 35,
+              "url": "https://t.co/va7fvx2apl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073413365003948211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还在等什么呢想好领域名字了吗\n😡\n🤘🤛\n领域\n展开·赤石雅座庭！！！ https://t.co/va7fvx2apl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "唔？你是来找芙兰玩的吗？欢迎哦～\n只不过要注意安全哦～嘻（坏笑）\n因为芙兰不定时上线，所以为了防止你在芙兰这里做坏事我特地派一只小鹦鹉看着你哦～要乖乖的哦。\n◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 26,
+          "like_count": 918,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "lei47076",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T08:31:07.000Z",
+        "description": "一个屑屑的寄术玩家～不时长在线捏\n最好的朋友：@Ghost_yiiiii\n欢迎大家来关注这位可爱男娘捏～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "Ghost_yiiiii"
+              }
+            ]
+          }
+        },
+        "id": "1971130225619763202",
+        "name": "哈基白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971130742341320704/MHXheTyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 137,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "hajite516461",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075254269746581504"
+      ]
+    },
+    "author_id": "2020175811878481922",
+    "conversation_id": "2075196685530362146",
+    "created_at": "2026-07-09T16:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075254278747504679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1971130225619763202",
+          "start": 0,
+          "username": "hajite516461"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OHd2mFcc4s",
+          "end": 60,
+          "expanded_url": "https://x.com/lei47076/status/2075254278747504679/photo/1",
+          "media_key": "3_2075254269746581504",
+          "start": 37,
+          "url": "https://t.co/OHd2mFcc4s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075254278747504679",
+    "in_reply_to_user_id": "1971130225619763202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075196685530362146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajite516461 吾乃兽君，若汝观此戏而仍绷，万斤银两即赠予汝 https://t.co/OHd2mFcc4s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1228,
+        "media_key": "3_2075254269746581504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzIw17bkAAHMpt.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2075196086927642624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyT2KCaUAAn38B.jpg",
+        "width": 488
+      },
+      {
+        "height": 996,
+        "media_key": "3_2075196358550818816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyUF96bEAAwA3I.jpg",
+        "width": 1280
+      },
+      {
+        "height": 656,
+        "media_key": "3_2075196358513115136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyUF9xbwAAv5y9.jpg",
+        "width": 1035
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075254269746581504"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "conversation_id": "2075196685530362146",
+        "created_at": "2026-07-09T16:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075254278747504679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1971130225619763202",
+              "start": 0,
+              "username": "hajite516461"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OHd2mFcc4s",
+              "end": 60,
+              "expanded_url": "https://x.com/lei47076/status/2075254278747504679/photo/1",
+              "media_key": "3_2075254269746581504",
+              "start": 37,
+              "url": "https://t.co/OHd2mFcc4s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075254278747504679",
+        "in_reply_to_user_id": "1971130225619763202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075196685530362146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajite516461 吾乃兽君，若汝观此戏而仍绷，万斤银两即赠予汝 https://t.co/OHd2mFcc4s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075196086927642624",
+            "3_2075196358550818816",
+            "3_2075196358513115136"
+          ]
+        },
+        "author_id": "1971130225619763202",
+        "conversation_id": "2075196685530362146",
+        "created_at": "2026-07-09T12:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075196685530362146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mpx6rgMkSF",
+              "end": 83,
+              "expanded_url": "https://x.com/hajite516461/status/2075196685530362146/photo/1",
+              "media_key": "3_2075196086927642624",
+              "start": 60,
+              "url": "https://t.co/Mpx6rgMkSF"
+            },
+            {
+              "display_url": "pic.x.com/Mpx6rgMkSF",
+              "end": 83,
+              "expanded_url": "https://x.com/hajite516461/status/2075196685530362146/photo/1",
+              "media_key": "3_2075196358550818816",
+              "start": 60,
+              "url": "https://t.co/Mpx6rgMkSF"
+            },
+            {
+              "display_url": "pic.x.com/Mpx6rgMkSF",
+              "end": 83,
+              "expanded_url": "https://x.com/hajite516461/status/2075196685530362146/photo/1",
+              "media_key": "3_2075196358513115136",
+              "start": 60,
+              "url": "https://t.co/Mpx6rgMkSF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075196685530362146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽不行了\n布瑠部，由良由良。\n八握剑，异界神将魔虚罗！！\n一刻也没有为五条悟而哀悼，立刻赶往战场的是——小白小白小！ https://t.co/Mpx6rgMkSF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "唔？你是来找芙兰玩的吗？欢迎哦～\n只不过要注意安全哦～嘻（坏笑）\n因为芙兰不定时上线，所以为了防止你在芙兰这里做坏事我特地派一只小鹦鹉看着你哦～要乖乖的哦。\n◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 26,
+          "like_count": 919,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 607
+        },
+        "url": "",
+        "username": "lei47076",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T08:31:07.000Z",
+        "description": "一个屑屑的寄术玩家～不时长在线捏\n最好的朋友：@Ghost_yiiiii\n欢迎大家来关注这位可爱男娘捏～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "Ghost_yiiiii"
+              }
+            ]
+          }
+        },
+        "id": "1971130225619763202",
+        "name": "哈基白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971130742341320704/MHXheTyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 137,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "hajite516461",
+        "verified": false
+      }
+    ]
+  }
+}

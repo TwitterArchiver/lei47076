@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075494417574850560"
+      ]
+    },
+    "author_id": "2020175811878481922",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075494424461902198",
+    "created_at": "2026-07-10T08:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075494424461902198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BHgvtR3Bug",
+          "end": 49,
+          "expanded_url": "https://x.com/lei47076/status/2075494424461902198/photo/1",
+          "media_key": "3_2075494417574850560",
+          "start": 26,
+          "url": "https://t.co/BHgvtR3Bug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075494424461902198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "得吃得吃，暗区真好玩～\n诶嘿嘿嘿～\n↖(^ω^)↗ https://t.co/BHgvtR3Bug"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2075494417574850560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2jLSTa8AAImRF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075494417574850560"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075494424461902198",
+        "created_at": "2026-07-10T08:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075494424461902198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BHgvtR3Bug",
+              "end": 49,
+              "expanded_url": "https://x.com/lei47076/status/2075494424461902198/photo/1",
+              "media_key": "3_2075494417574850560",
+              "start": 26,
+              "url": "https://t.co/BHgvtR3Bug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075494424461902198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "得吃得吃，暗区真好玩～\n诶嘿嘿嘿～\n↖(^ω^)↗ https://t.co/BHgvtR3Bug"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "唔？你是来找芙兰玩的吗？欢迎哦～\n只不过要注意安全哦～嘻（坏笑）\n因为芙兰不定时上线，所以为了防止你在芙兰这里做坏事我特地派一只小鹦鹉看着你哦～要乖乖的哦。\n◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 26,
+          "like_count": 940,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 618
+        },
+        "url": "",
+        "username": "lei47076",
+        "verified": false
+      }
+    ]
+  }
+}
