@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086320589044903936"
+      ]
+    },
+    "author_id": "2020175811878481922",
+    "conversation_id": "2085420697673670723",
+    "created_at": "2026-08-09T05:16:06.000Z",
+    "display_text_range": [
+      11,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T06:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086320594241647044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2078332008728838145",
+          "start": 0,
+          "username": "pai3434334"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lCVfEZc5b7",
+          "end": 35,
+          "expanded_url": "https://x.com/lei47076/status/2086320594241647044/photo/1",
+          "media_key": "3_2086320589044903936",
+          "start": 12,
+          "url": "https://t.co/lCVfEZc5b7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086320594241647044",
+    "in_reply_to_user_id": "2078332008728838145",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2086320589044903936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086319444855554157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pai3434334 https://t.co/lCVfEZc5b7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 654,
+        "media_key": "3_2086320589044903936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQZhZ2a8AAcB9J.jpg",
+        "width": 1024
+      },
+      {
+        "height": 762,
+        "media_key": "3_2086319437855219712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQYeZVaYAASXCg.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086320589044903936"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "conversation_id": "2085420697673670723",
+        "created_at": "2026-08-09T05:16:06.000Z",
+        "display_text_range": [
+          11,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086320594241647044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2078332008728838145",
+              "start": 0,
+              "username": "pai3434334"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCVfEZc5b7",
+              "end": 35,
+              "expanded_url": "https://x.com/lei47076/status/2086320594241647044/photo/1",
+              "media_key": "3_2086320589044903936",
+              "start": 12,
+              "url": "https://t.co/lCVfEZc5b7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086320594241647044",
+        "in_reply_to_user_id": "2078332008728838145",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2086320589044903936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086319444855554157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pai3434334 https://t.co/lCVfEZc5b7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086319437855219712"
+          ]
+        },
+        "author_id": "2078332008728838145",
+        "conversation_id": "2085420697673670723",
+        "created_at": "2026-08-09T05:11:32.000Z",
+        "display_text_range": [
+          9,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086319444855554157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fLy7gbgkoY",
+              "end": 33,
+              "expanded_url": "https://x.com/pai3434334/status/2086319444855554157/photo/1",
+              "media_key": "3_2086319437855219712",
+              "start": 10,
+              "url": "https://t.co/fLy7gbgkoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086319444855554157",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2086319437855219712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086318853307699402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 https://t.co/fLy7gbgkoY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2086320594241647044",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 7,
+          "like_count": 1094,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T04:20:31.000Z",
+        "description": "世界的调律者即将苏醒",
+        "id": "2078332008728838145",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086320234630148249",
+        "name": "调律者：加里翁",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085709965264818176/RZXDTvbu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 7,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "pai3434334",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

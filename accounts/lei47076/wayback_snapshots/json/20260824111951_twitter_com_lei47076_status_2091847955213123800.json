@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2091844010138833273",
+    "created_at": "2026-08-24T11:19:51.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T12:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091847955213123800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2060338627302072321",
+          "start": 0,
+          "username": "yugencjb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091847955213123800",
+    "in_reply_to_user_id": "2060338627302072321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091846889796997304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yugencjb 那就去吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2091844010138833273",
+        "created_at": "2026-08-24T11:19:51.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T12:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091847955213123800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2060338627302072321",
+              "start": 0,
+              "username": "yugencjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091847955213123800",
+        "in_reply_to_user_id": "2060338627302072321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091846889796997304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yugencjb 那就去吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060338627302072321",
+        "conversation_id": "2091844010138833273",
+        "created_at": "2026-08-24T11:15:37.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T12:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091846889796997304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091846889796997304",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091844010138833273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 我应该去看看外面的世界呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。\nMy soul’s companion：@hathawaybk56",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "hathawaybk56"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2091847955213123800",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 12,
+          "like_count": 1488,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 651
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-29T12:36:17.000Z",
+        "description": "不参与国政，不反感任何人，尽量真心对待每个人，我食个男人，认识就是朋友\n喜欢陌生人，喜欢朋友，喜欢熟人，喜欢男人，喜欢女人，喜欢猫娘（只含人类）\n不割，不吸，不敏感，不赌博（好色🤤）\n正在努力做自己😎😎\n失联请联系：yugen1949@gmail.com",
+        "id": "2060338627302072321",
+        "is_identity_verified": false,
+        "location": "羽根的家",
+        "most_recent_tweet_id": "2091846889796997304",
+        "name": "我比坏人好一点",
+        "pinned_tweet_id": "2088736771593113601",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060338627302072321/1785071923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081368323485552640/JpFIQkhj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 97,
+          "like_count": 3270,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 731
+        },
+        "url": "",
+        "username": "yugencjb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

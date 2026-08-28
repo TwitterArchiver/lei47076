@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "card_uri": "https://t.co/L8V2mHmv6b",
+    "conversation_id": "2086537292894875684",
+    "created_at": "2026-08-09T19:37:11.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T20:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086537292894875684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《La gloire à mes genoux》，别名《荣耀向我俯首》，由 Côme 演唱，收录于《Le rouge et le noir - L’Opéra Rock》专辑中，《La gloire à mes genoux》下载，《La gloire à mes genoux》在线试听，更多La gloire à mes genoux相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/bcLwh433",
+          "end": 36,
+          "expanded_url": "https://163cn.tv/bcLwh433",
+          "start": 13,
+          "status": 200,
+          "title": "La gloire à mes genoux（荣耀向我俯首） - Côme - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=428649319&uct2=13%2B1PzQIyVgm4YgtCzAmdA%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t3&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=5623502&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.61&sc=wm&tn=",
+          "url": "https://t.co/L8V2mHmv6b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086537292894875684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我所渴望的究竟是什么呢？\nhttps://t.co/L8V2mHmv6b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "card_uri": "https://t.co/L8V2mHmv6b",
+        "conversation_id": "2086537292894875684",
+        "created_at": "2026-08-09T19:37:11.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T20:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086537292894875684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《La gloire à mes genoux》，别名《荣耀向我俯首》，由 Côme 演唱，收录于《Le rouge et le noir - L’Opéra Rock》专辑中，《La gloire à mes genoux》下载，《La gloire à mes genoux》在线试听，更多La gloire à mes genoux相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/bcLwh433",
+              "end": 36,
+              "expanded_url": "https://163cn.tv/bcLwh433",
+              "start": 13,
+              "status": 200,
+              "title": "La gloire à mes genoux（荣耀向我俯首） - Côme - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=428649319&uct2=13%2B1PzQIyVgm4YgtCzAmdA%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t3&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=5623502&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.61&sc=wm&tn=",
+              "url": "https://t.co/L8V2mHmv6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086537292894875684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我所渴望的究竟是什么呢？\nhttps://t.co/L8V2mHmv6b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2086537292894875684",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 7,
+          "like_count": 1119,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

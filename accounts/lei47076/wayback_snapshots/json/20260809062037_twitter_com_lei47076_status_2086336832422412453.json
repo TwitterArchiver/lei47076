@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2086048313678368914",
+    "created_at": "2026-08-09T06:20:37.000Z",
+    "display_text_range": [
+      14,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T07:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086336832422412453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797535583096733696",
+          "start": 0,
+          "username": "LoneStar6072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086336832422412453",
+    "in_reply_to_user_id": "1797535583096733696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086335723855323584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoneStar6072 继续加油哦，小姐姐你很厉害呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2086048313678368914",
+        "created_at": "2026-08-09T06:20:37.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086336832422412453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797535583096733696",
+              "start": 0,
+              "username": "LoneStar6072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086336832422412453",
+        "in_reply_to_user_id": "1797535583096733696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086335723855323584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoneStar6072 继续加油哦，小姐姐你很厉害呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797535583096733696",
+        "conversation_id": "2086048313678368914",
+        "created_at": "2026-08-09T06:16:13.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086335723855323584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086335723855323584",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086308472824770708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 (((o(*ﾟ▽ﾟ*)o)))"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2086336832422412453",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 8,
+          "like_count": 1100,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-03T07:47:52.000Z",
+        "description": "18｜無證含糖跨女🏳️‍⚧️/同類互fo｜是一隻仙鶴🎋\nHRT💊24.10.6-至今\n吃貨｜攝影｜日常｜喜歡ボカロ｜喜歡劍道/弓道｜高版本Minecraf pvper｜只關注感興趣的人\n最好的姐姐@sengonzen24174\n最好的妹妹@SakuraAmesaki\n小徒弟@MingQiSJDY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 98,
+                "username": "sengonzen24174"
+              },
+              {
+                "end": 133,
+                "start": 119,
+                "username": "SakuraAmesaki"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "username": "MingQiSJDY"
+              }
+            ]
+          }
+        },
+        "id": "1797535583096733696",
+        "is_identity_verified": false,
+        "location": "白粧都",
+        "most_recent_tweet_id": "2086336600087343485",
+        "name": "櫻井 安久🍥",
+        "pinned_tweet_id": "1942580159233544656",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797535583096733696/1779970363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059971072506699776/-KcqeiZy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 206,
+          "like_count": 1267,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "LoneStar6072",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

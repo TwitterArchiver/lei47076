@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2084293397825958335",
+    "created_at": "2026-08-03T15:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084293397825958335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《the loser》，由 zach farache 演唱，收录于《the loser》专辑中，《the loser》下载，《the loser》在线试听，更多the loser相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/bckVcTAa",
+          "end": 38,
+          "expanded_url": "https://163cn.tv/bckVcTAa",
+          "images": [
+            {
+              "height": 500,
+              "url": "https://pbs.twimg.com/news_img/2084293408550756352/zWHO2Iyw?format=jpg&name=orig",
+              "width": 500
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2084293408550756352/zWHO2Iyw?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 15,
+          "status": 200,
+          "title": "the loser - zach farache - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=451981268&uct2=13%2B1PzQIyVgm4YgtCzAmdA%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t3&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=5623502&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.67&sc=wm&tn=",
+          "url": "https://t.co/IVq0ESB0yj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084293397825958335",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "I just want...\nhttps://t.co/IVq0ESB0yj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2084293397825958335",
+        "created_at": "2026-08-03T15:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084293397825958335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《the loser》，由 zach farache 演唱，收录于《the loser》专辑中，《the loser》下载，《the loser》在线试听，更多the loser相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/bckVcTAa",
+              "end": 38,
+              "expanded_url": "https://163cn.tv/bckVcTAa",
+              "images": [
+                {
+                  "height": 500,
+                  "url": "https://pbs.twimg.com/news_img/2084293408550756352/zWHO2Iyw?format=jpg&name=orig",
+                  "width": 500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2084293408550756352/zWHO2Iyw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "the loser - zach farache - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=451981268&uct2=13%2B1PzQIyVgm4YgtCzAmdA%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t3&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=5623502&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.67&sc=wm&tn=",
+              "url": "https://t.co/IVq0ESB0yj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084293397825958335",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I just want...\nhttps://t.co/IVq0ESB0yj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 894,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 339
+        },
+        "url": "",
+        "username": "lei47076",
+        "verified": false
+      }
+    ]
+  }
+}

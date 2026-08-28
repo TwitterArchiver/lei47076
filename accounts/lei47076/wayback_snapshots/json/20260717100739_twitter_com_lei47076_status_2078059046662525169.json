@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2078059046662525169",
+    "created_at": "2026-07-17T10:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T11:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078059046662525169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《Клетка》，别名《牢笼》，由 Molchat Doma 演唱，收录于《Этажи》专辑中，《Клетка》下载，《Клетка》在线试听，更多Клетка相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/bbdEUUG4",
+          "end": 55,
+          "expanded_url": "https://163cn.tv/bbdEUUG4",
+          "start": 32,
+          "status": 200,
+          "title": "Клетка（牢笼） - Molchat Doma - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=1413481295&uct2=13%2B1PzQIyVgm4YgtCzAmdA%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t3&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=5623502&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.67&sc=wm&tn=",
+          "url": "https://t.co/0KtZ0eYTxW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078059046662525169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享Molchat Doma的单曲《Клетка (牢笼)》: https://t.co/0KtZ0eYTxW (来自@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2078059046662525169",
+        "created_at": "2026-07-17T10:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078059046662525169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《Клетка》，别名《牢笼》，由 Molchat Doma 演唱，收录于《Этажи》专辑中，《Клетка》下载，《Клетка》在线试听，更多Клетка相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/bbdEUUG4",
+              "end": 55,
+              "expanded_url": "https://163cn.tv/bbdEUUG4",
+              "start": 32,
+              "status": 200,
+              "title": "Клетка（牢笼） - Molchat Doma - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=1413481295&uct2=13%2B1PzQIyVgm4YgtCzAmdA%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t3&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=5623502&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.67&sc=wm&tn=",
+              "url": "https://t.co/0KtZ0eYTxW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078059046662525169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享Molchat Doma的单曲《Клетка (牢笼)》: https://t.co/0KtZ0eYTxW (来自@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "唔？你是来找芙兰玩的吗？欢迎哦～\n只不过要注意安全哦～嘻（坏笑）\n因为芙兰不定时上线，所以为了防止你在芙兰这里做坏事我特地派一只小鹦鹉看着你哦～要乖乖的哦。\n◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 28,
+          "like_count": 1058,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 647
+        },
+        "url": "",
+        "username": "lei47076",
+        "verified": false
+      }
+    ]
+  }
+}

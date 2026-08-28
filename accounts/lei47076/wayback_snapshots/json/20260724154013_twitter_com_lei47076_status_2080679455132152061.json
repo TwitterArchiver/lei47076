@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2078058905952010721",
+    "created_at": "2026-07-24T15:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080679455132152061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2076213440448770048",
+          "start": 0,
+          "username": "ShenMiDeMan78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080679455132152061",
+    "in_reply_to_user_id": "2076213440448770048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078394373134238043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShenMiDeMan78 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2078058905952010721",
+        "created_at": "2026-07-24T15:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080679455132152061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2076213440448770048",
+              "start": 0,
+              "username": "ShenMiDeMan78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080679455132152061",
+        "in_reply_to_user_id": "2076213440448770048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078394373134238043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShenMiDeMan78 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076213440448770048",
+        "conversation_id": "2078058905952010721",
+        "created_at": "2026-07-18T08:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078394373134238043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078394373134238043",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078058905952010721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 战斗爽，相比三角洲确实是暗区这种沉浸式的战斗更好玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "唔？你是来找芙兰玩的吗？欢迎哦～\n只不过要注意安全哦～嘻（坏笑）\n因为芙兰不定时上线，所以为了防止你在芙兰这里做坏事我特地派一只小鹦鹉看着你哦～要乖乖的哦。\n◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 31,
+          "like_count": 1205,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 659
+        },
+        "url": "",
+        "username": "lei47076",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T07:54:43.000Z",
+        "description": "恭喜你发现了推特最神秘的男子\n对线生活\n正在从-1到0前进中｜📭https://t.co/1VHdJb979p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link",
+                "end": 55,
+                "expanded_url": "https://ngl.link/",
+                "start": 32,
+                "url": "https://t.co/1VHdJb979p"
+              }
+            ]
+          }
+        },
+        "id": "2076213440448770048",
+        "location": "风里雨里",
+        "name": "神秘奇男子",
+        "pinned_tweet_id": "2080506966481252476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077078995972001792/v_S27oSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 18,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 689
+        },
+        "url": "",
+        "username": "ShenMiDeMan78",
+        "verified": false
+      }
+    ]
+  }
+}

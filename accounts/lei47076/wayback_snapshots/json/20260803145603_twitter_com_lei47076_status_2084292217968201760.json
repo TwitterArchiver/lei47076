@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084292193951563777"
+      ]
+    },
+    "author_id": "2020175811878481922",
+    "conversation_id": "2084292217968201760",
+    "created_at": "2026-08-03T14:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084292217968201760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rc2AA60rrx",
+          "end": 98,
+          "expanded_url": "https://x.com/lei47076/status/2084292217968201760/photo/1",
+          "media_key": "3_2084292193951563777",
+          "start": 75,
+          "url": "https://t.co/Rc2AA60rrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084292217968201760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的痛苦淹没了我。\n我...哭了很久..很久...\n\n所言是：\n\n天上落雨路又滑，\n自己跌倒自己爬，\n自己忧愁自己解，\n自流眼泪自抹干。\n\n我累了。 https://t.co/Rc2AA60rrx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2084292193951563777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzktRSaQAEmoW1.jpg",
+        "width": 1115
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084292193951563777"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "conversation_id": "2084292217968201760",
+        "created_at": "2026-08-03T14:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084292217968201760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rc2AA60rrx",
+              "end": 98,
+              "expanded_url": "https://x.com/lei47076/status/2084292217968201760/photo/1",
+              "media_key": "3_2084292193951563777",
+              "start": 75,
+              "url": "https://t.co/Rc2AA60rrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084292217968201760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的痛苦淹没了我。\n我...哭了很久..很久...\n\n所言是：\n\n天上落雨路又滑，\n自己跌倒自己爬，\n自己忧愁自己解，\n自流眼泪自抹干。\n\n我累了。 https://t.co/Rc2AA60rrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 894,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "lei47076",
+        "verified": false
+      }
+    ]
+  }
+}

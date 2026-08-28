@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087065855456907265"
+      ]
+    },
+    "author_id": "2020175811878481922",
+    "conversation_id": "2087065859802145015",
+    "created_at": "2026-08-11T06:37:31.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087065859802145015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N3nn89BCVc",
+          "end": 81,
+          "expanded_url": "https://x.com/lei47076/status/2087065859802145015/photo/1",
+          "media_key": "3_2087065855456907265",
+          "start": 58,
+          "url": "https://t.co/N3nn89BCVc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087065859802145015",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087065855456907265"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊哈，思考那些什么工作，未来，人生理想什么的！太繁琐了！\n吾选择把身体交给情绪！然后去听歌！沉浸在音乐的世界里面！ https://t.co/N3nn89BCVc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "3_2087065855456907265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPa_VnlbEAEUfaW.jpg",
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087065855456907265"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "conversation_id": "2087065859802145015",
+        "created_at": "2026-08-11T06:37:31.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087065859802145015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N3nn89BCVc",
+              "end": 81,
+              "expanded_url": "https://x.com/lei47076/status/2087065859802145015/photo/1",
+              "media_key": "3_2087065855456907265",
+              "start": 58,
+              "url": "https://t.co/N3nn89BCVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087065859802145015",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087065855456907265"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊哈，思考那些什么工作，未来，人生理想什么的！太繁琐了！\n吾选择把身体交给情绪！然后去听歌！沉浸在音乐的世界里面！ https://t.co/N3nn89BCVc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2087065859802145015",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 8,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 484
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

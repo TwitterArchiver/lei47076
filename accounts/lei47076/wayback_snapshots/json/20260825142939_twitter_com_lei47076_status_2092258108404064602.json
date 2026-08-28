@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2092245465123426313",
+    "created_at": "2026-08-25T14:29:39.000Z",
+    "display_text_range": [
+      9,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T15:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092258108404064602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2057831680308920320",
+          "start": 0,
+          "username": "Wrin520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092258108404064602",
+    "in_reply_to_user_id": "2057831680308920320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092245465123426313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wrin520 如果是拼多多可以退的，其他的我不知道，反正拼多多可以呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2092245465123426313",
+        "created_at": "2026-08-25T14:29:39.000Z",
+        "display_text_range": [
+          9,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092258108404064602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2057831680308920320",
+              "start": 0,
+              "username": "Wrin520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092258108404064602",
+        "in_reply_to_user_id": "2057831680308920320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092245465123426313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wrin520 如果是拼多多可以退的，其他的我不知道，反正拼多多可以呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057831680308920320",
+        "conversation_id": "2092245465123426313",
+        "created_at": "2026-08-25T13:39:25.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092245465123426313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092245465123426313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 54,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收货地址写的家里但是没钱回家，我已疾苦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。\nMy soul’s companion：@hathawaybk56",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "hathawaybk56"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2092258108404064602",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 12,
+          "like_count": 1570,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 690
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T14:31:45.000Z",
+        "description": "简介不知道写什么喵\n我是Wrin\n纯日常帖\n希望得到关心谢谢喵",
+        "id": "2057831680308920320",
+        "is_identity_verified": false,
+        "location": "NY",
+        "most_recent_tweet_id": "2092250506932674687",
+        "name": "Wrin🍥✝️❤️🔞🚾0️⃣🩸💊💣",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057831680308920320/1781621617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074642025744662528/Fk9dt44z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 332,
+          "like_count": 241,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "Wrin520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

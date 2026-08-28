@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2091937066712207562",
+    "created_at": "2026-08-24T17:13:57.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T18:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091937066712207562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《вандализм》，别名《自残》，由 культодиночества 演唱，收录于《вандализм》专辑中，《вандализм》下载，《вандализм》在线试听，更多вандализм相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/bdM3Yybr",
+          "end": 40,
+          "expanded_url": "https://163cn.tv/bdM3Yybr",
+          "images": [
+            {
+              "height": 1500,
+              "url": "https://pbs.twimg.com/news_img/2091937076006768641/RCie7dXX?format=jpg&name=orig",
+              "width": 1500
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2091937076006768641/RCie7dXX?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "вандализм（自残） - культодиночества - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=2057607726&uct2=13%2B1PzQIyVgm4YgtCzAmdA%3D%3D&fx-wechatnew=t1&fx-wxqd=&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=5623502&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.61&sc=wm&tn=",
+          "url": "https://t.co/VYsdP4HxXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091937066712207562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个是后朋克，芙兰挺喜欢听的呢～\nhttps://t.co/VYsdP4HxXI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2091937066712207562",
+        "created_at": "2026-08-24T17:13:57.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091937066712207562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《вандализм》，别名《自残》，由 культодиночества 演唱，收录于《вандализм》专辑中，《вандализм》下载，《вандализм》在线试听，更多вандализм相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/bdM3Yybr",
+              "end": 40,
+              "expanded_url": "https://163cn.tv/bdM3Yybr",
+              "images": [
+                {
+                  "height": 1500,
+                  "url": "https://pbs.twimg.com/news_img/2091937076006768641/RCie7dXX?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2091937076006768641/RCie7dXX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "вандализм（自残） - культодиночества - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=2057607726&uct2=13%2B1PzQIyVgm4YgtCzAmdA%3D%3D&fx-wechatnew=t1&fx-wxqd=&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=5623502&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.61&sc=wm&tn=",
+              "url": "https://t.co/VYsdP4HxXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091937066712207562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是后朋克，芙兰挺喜欢听的呢～\nhttps://t.co/VYsdP4HxXI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。\nMy soul’s companion：@hathawaybk56",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "hathawaybk56"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2091937066712207562",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 12,
+          "like_count": 1517,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 669
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

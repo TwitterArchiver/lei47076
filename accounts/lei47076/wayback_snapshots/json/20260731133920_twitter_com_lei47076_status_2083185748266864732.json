@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "1828349449451586002",
+    "created_at": "2026-07-31T13:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083185748266864732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1826301904856776707",
+          "start": 0,
+          "username": "kanata0327_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083185748266864732",
+    "in_reply_to_user_id": "1826301904856776707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828349449451586002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanata0327_ 不错？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 106622,
+        "height": 590,
+        "media_key": "7_1828349307134640128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1828349307134640128/pu/img/pv9dIOsa9sD7U8mo.jpg",
+        "public_metrics": {
+          "view_count": 80
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828349307134640128/pu/vid/avc1/584x270/Tl_qdIKWAzMfwfUh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828349307134640128/pu/vid/avc1/780x360/j54XAUvXVcsLMGJi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828349307134640128/pu/vid/avc1/1280x590/mxJ-N0gIZB-O0P1S.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1828349307134640128/pu/pl/d7bSNwEfIsR3EC2C.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "1828349449451586002",
+        "created_at": "2026-07-31T13:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083185748266864732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1826301904856776707",
+              "start": 0,
+              "username": "kanata0327_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083185748266864732",
+        "in_reply_to_user_id": "1826301904856776707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828349449451586002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanata0327_ 不错？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1828349307134640128"
+          ]
+        },
+        "author_id": "1826301904856776707",
+        "conversation_id": "1828349449451586002",
+        "created_at": "2024-08-27T08:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T09:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828349449451586002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bdDFXO5nrk",
+              "end": 73,
+              "expanded_url": "https://x.com/kanata0327_/status/1828349449451586002/video/1",
+              "media_key": "7_1828349307134640128",
+              "start": 50,
+              "url": "https://t.co/bdDFXO5nrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828349449451586002",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【flm】SP！Dusttale-Final：Posthumous（kanata's cover） https://t.co/bdDFXO5nrk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "唔？你是来找芙兰玩的吗？欢迎哦～\n只不过要注意安全哦～嘻（坏笑）\n因为芙兰不定时上线，所以为了防止你在芙兰这里做坏事我特地派一只小鹦鹉看着你哦～要乖乖的哦。\n◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 30,
+          "like_count": 1293,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 682
+        },
+        "url": "",
+        "username": "lei47076",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T16:54:51.000Z",
+        "description": "我是彼方",
+        "id": "1826301904856776707",
+        "name": "是彼方不是南梁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826302020871131136/HhCVUGil_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 18,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "kanata0327_",
+        "verified": false
+      }
+    ]
+  }
+}

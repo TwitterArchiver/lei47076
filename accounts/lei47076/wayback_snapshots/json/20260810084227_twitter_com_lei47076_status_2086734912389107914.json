@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2086481695805743466",
+    "created_at": "2026-08-10T08:42:27.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T09:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086734912389107914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906356680511950848",
+          "start": 0,
+          "username": "TSKrwglq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086734912389107914",
+    "in_reply_to_user_id": "1906356680511950848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086481695805743466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSKrwglq 对的呢，你是，你永远都是哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2086481695805743466",
+        "created_at": "2026-08-10T08:42:27.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T09:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086734912389107914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906356680511950848",
+              "start": 0,
+              "username": "TSKrwglq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086734912389107914",
+        "in_reply_to_user_id": "1906356680511950848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086481695805743466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSKrwglq 对的呢，你是，你永远都是哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906356680511950848",
+        "conversation_id": "2086481695805743466",
+        "created_at": "2026-08-09T15:56:15.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086481695805743466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HhcvhW18221/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/HhcvhW18221/status/2086439984601383349",
+              "start": 16,
+              "url": "https://t.co/iAO7APM9gC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086481695805743466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086439984601383349",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是女的😡，各位也永远是女的😡 https://t.co/iAO7APM9gC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2086734912389107914",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 6,
+          "like_count": 1138,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 433
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T14:45:23.000Z",
+        "description": "无证含糖|绪山真寻厨|操作系统爱好者|生产日期：2011/3/9|HRT日期：2025/8/9|已出柜|双性恋",
+        "id": "1906356680511950848",
+        "is_identity_verified": false,
+        "location": "山东精神卫生中心",
+        "most_recent_tweet_id": "2086687983021998457",
+        "name": "霜月🏳️‍⚧️（互fo）",
+        "pinned_tweet_id": "2065811906338914663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906356680511950848/1777478126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443187303981057/53w6BrZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 590,
+          "like_count": 2130,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 537
+        },
+        "url": "",
+        "username": "TSKrwglq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

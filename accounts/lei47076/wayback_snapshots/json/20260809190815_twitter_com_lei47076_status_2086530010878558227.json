@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2086494604619309133",
+    "created_at": "2026-08-09T19:08:15.000Z",
+    "display_text_range": [
+      8,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T20:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086530010878558227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2083431637027823616",
+          "start": 0,
+          "username": "oczicl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086530010878558227",
+    "in_reply_to_user_id": "2083431637027823616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086494604619309133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oczicl 会有人喜欢的，有些人的包容是很宽广的，再说了喜欢不需要理由。\n能遇到的，这只是一个时间问题。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2086494604619309133",
+        "created_at": "2026-08-09T19:08:15.000Z",
+        "display_text_range": [
+          8,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T20:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086530010878558227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2083431637027823616",
+              "start": 0,
+              "username": "oczicl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086530010878558227",
+        "in_reply_to_user_id": "2083431637027823616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086494604619309133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oczicl 会有人喜欢的，有些人的包容是很宽广的，再说了喜欢不需要理由。\n能遇到的，这只是一个时间问题。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083431637027823616",
+        "conversation_id": "2086494604619309133",
+        "created_at": "2026-08-09T16:47:33.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T17:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086494604619309133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Murong_WangKez…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Murong_WangKezi/status/2086280839227388119",
+              "start": 38,
+              "url": "https://t.co/mk4XMdDgQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086494604619309133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086280839227388119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到这个问题，我反而会想，这样的我真的会有人喜欢吗？我真的能遇到爱的人吗？ https://t.co/mk4XMdDgQq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2086530010878558227",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 7,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T05:57:25.000Z",
+        "description": "出厂日期2008.7.9|🍥2026.6.3|希望能够互fo|性取向男|受虐倾向m|MTF|巨蟹座|无证含糖|身高168体重108肩宽38穿37|不抽烟不喝酒的好孩子🤓一个制造有文采大便的小说家\n🐧3866066283",
+        "id": "2083431637027823616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086506426978238521",
+        "name": "𝓠𝓲𝓷𝓰𝓺𝓾月下知清秋🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083431637027823616/1785587926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086095343209652224/BE5bgTny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 134,
+          "like_count": 231,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "oczicl",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

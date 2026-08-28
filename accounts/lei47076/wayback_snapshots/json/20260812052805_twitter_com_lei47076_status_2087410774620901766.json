@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2087199605234749587",
+    "created_at": "2026-08-12T05:28:05.000Z",
+    "display_text_range": [
+      14,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T06:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087410774620901766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2004456046295973888",
+          "start": 0,
+          "username": "kohoshitsumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087410774620901766",
+    "in_reply_to_user_id": "2004456046295973888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087199605234749587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kohoshitsumu 蓝色诶...蓝色有一种深深的忧郁感呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2087199605234749587",
+        "created_at": "2026-08-12T05:28:05.000Z",
+        "display_text_range": [
+          14,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087410774620901766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004456046295973888",
+              "start": 0,
+              "username": "kohoshitsumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087410774620901766",
+        "in_reply_to_user_id": "2004456046295973888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087199605234749587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohoshitsumu 蓝色诶...蓝色有一种深深的忧郁感呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004456046295973888",
+        "conversation_id": "2087199605234749587",
+        "created_at": "2026-08-11T15:28:58.000Z",
+        "display_text_range": [
+          0,
+          176
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087199605234749587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087199605234749587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "「目を閉じて 耳を澄ませば」\n「何処へでも 羽ばたいていける」\n「冷たい雨の日も 風の日も晴れの日も」\n「空の真ん中 咲く花」\n「そっと、花びらに乗って」\n「Let's get on deep blue」\n「空も海も分からない程」\n「Let's get on deep dream」\n「深く 青に溶けてしまいそう」\n「Let's get on deep blue」\n「朝も夜も分からない程」\n「It's the last flower」\n「何処までも飛んでいく」\n「どうしてなの? 泣きたくなるの」\n「白い花 枯れる季節には」\n「夢を見たみたい」\n「ずっと夢を見てたの」\n「鳥カゴの中 翼を無くした鳥の夢」\n「Let's get on deep blue」\n「今日も明日も分からない程」\n「Let's get on deep dream」\n「深く 青に溶けてしまいたい」\n「Let's get on deep blue」\n「時の波に流されるまま」\n「It's the last flower...」\n「何処へでもいける」\n「散りゆく...」\n「運命の命」\n「咲き誇れ」\n「私らしく」\n「It's the last flower...」\n「Let's get on deep blue」\n「空も海も分からない程」\n「Let's get on deep dream」\n「深く 青に溶けてしまいそう」\n「Let's get on deep blue」\n「朝も夜も分からない程」\n「It's the last flower...」\n「何処までも飛んでいく」\n「Let's get on deep blue...」"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「目を閉じて 耳を澄ませば」\n「何処へでも 羽ばたいていける」\n「冷たい雨の日も 風の日も晴れの日も」\n「空の真ん中 咲く花」\n「そっと、花びらに乗って」\n「Let's get on deep blue」\n「空も海も分からない程」\n「Let's get on deep dream」\n「深く 青に溶けてしまいそう」\n「Let's get on deep"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2087410774620901766",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 10,
+          "like_count": 1224,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 495
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T07:35:49.000Z",
+        "description": "｜女｜生产日期：𝟚𝟘𝟙𝟙/𝟘𝟜/𝟚𝟘｜猫🐈｜🚫🏫休学🎒🚫｜❤️💻𝙄𝙉𝙏𝙀𝙍𝙉𝙀𝙏重度依赖💻❤️｜社恐｜自闭｜抑郁｜焦虑｜双相｜画渣｜学渣｜人生目标达成度：-𝟒𝟎𝟒%/𝟏𝟎𝟎%｜陪我玩回𝚏𝚘｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kohoshitsumu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kohoshitsumu",
+                "start": 0,
+                "url": "https://t.co/Qk6Y5IYAxK"
+              }
+            ]
+          }
+        },
+        "id": "2004456046295973888",
+        "is_identity_verified": false,
+        "location": "只想永居于梦",
+        "most_recent_tweet_id": "2087404824157651078",
+        "name": "小星紡ーこほしつむ",
+        "pinned_tweet_id": "2082824480762872031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004456046295973888/1784463809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078476911836086272/XWUEOnTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 326,
+          "like_count": 22952,
+          "listed_count": 0,
+          "media_count": 613,
+          "tweet_count": 2178
+        },
+        "url": "https://t.co/Qk6Y5IYAxK",
+        "username": "kohoshitsumu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

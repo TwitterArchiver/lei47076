@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2090779303822995871",
+    "created_at": "2026-08-22T11:55:50.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T12:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091132233750876571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1713161866053292032",
+          "start": 0,
+          "username": "pater1832861"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091132233750876571",
+    "in_reply_to_user_id": "1713161866053292032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090779303822995871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pater1832861 看不懂呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2090778877966860288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPwT-UawAAja75.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2090779238790238208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPwo-fakAANqxR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2090779278795542528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPwrThbEAAWeAq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2090779303822995871",
+        "created_at": "2026-08-22T11:55:50.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091132233750876571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1713161866053292032",
+              "start": 0,
+              "username": "pater1832861"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091132233750876571",
+        "in_reply_to_user_id": "1713161866053292032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090779303822995871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pater1832861 看不懂呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090778877966860288",
+            "3_2090779238790238208",
+            "3_2090779278795542528"
+          ]
+        },
+        "author_id": "1713161866053292032",
+        "conversation_id": "2090779303822995871",
+        "created_at": "2026-08-21T12:33:25.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090779303822995871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ugGOEKv9ND",
+              "end": 58,
+              "expanded_url": "https://x.com/pater1832861/status/2090779303822995871/photo/1",
+              "media_key": "3_2090778877966860288",
+              "start": 35,
+              "url": "https://t.co/ugGOEKv9ND"
+            },
+            {
+              "display_url": "pic.x.com/ugGOEKv9ND",
+              "end": 58,
+              "expanded_url": "https://x.com/pater1832861/status/2090779303822995871/photo/1",
+              "media_key": "3_2090779238790238208",
+              "start": 35,
+              "url": "https://t.co/ugGOEKv9ND"
+            },
+            {
+              "display_url": "pic.x.com/ugGOEKv9ND",
+              "end": 58,
+              "expanded_url": "https://x.com/pater1832861/status/2090779303822995871/photo/1",
+              "media_key": "3_2090779278795542528",
+              "start": 35,
+              "url": "https://t.co/ugGOEKv9ND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090779303822995871",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090778877966860288"
+          },
+          {
+            "media_key": "3_2090779238790238208"
+          },
+          {
+            "media_key": "3_2090779278795542528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备写一个galgame\n叫Cien anos de soledad https://t.co/ugGOEKv9ND"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。\nMy soul’s companion：@hathawaybk56",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "hathawaybk56"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2091132233750876571",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 11,
+          "like_count": 1399,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 591
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-14T11:56:43.000Z",
+        "description": "やってみなきゃわからない",
+        "id": "1713161866053292032",
+        "is_identity_verified": false,
+        "location": "Chuo-ku, Tokyo",
+        "most_recent_tweet_id": "2091076516721688779",
+        "name": "Hanako(second edition)",
+        "pinned_tweet_id": "2090961024078016918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1713161866053292032/1782686096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034042728846409728/rvxpTveI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 1191,
+          "like_count": 10890,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 807
+        },
+        "url": "",
+        "username": "pater1832861",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

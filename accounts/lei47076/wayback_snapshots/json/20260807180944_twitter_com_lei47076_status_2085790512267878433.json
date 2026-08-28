@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085790482454732800"
+      ]
+    },
+    "author_id": "2020175811878481922",
+    "conversation_id": "2085790512267878433",
+    "created_at": "2026-08-07T18:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085790512267878433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zSEeJcOJ8k",
+          "end": 40,
+          "expanded_url": "https://x.com/lei47076/status/2085790512267878433/video/1",
+          "media_key": "13_2085790482454732800",
+          "start": 17,
+          "url": "https://t.co/zSEeJcOJ8k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085790512267878433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天都喜欢听歌的时候看着桌面发呆 https://t.co/zSEeJcOJ8k"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13018,
+        "height": 1280,
+        "media_key": "13_2085790482454732800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085790482454732800/img/EuxV3aJ2_vmKI7zR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085790482454732800/vid/avc1/320x710/tUDFegnrOcXx-Nvy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085790482454732800/vid/avc1/480x1066/TkQszgdNs7IqfUGE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085790482454732800/vid/avc1/576x1280/i75LUK91czUHmBfz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085790482454732800/pl/clHID2uVi9kS0whi.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085790482454732800"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "conversation_id": "2085790512267878433",
+        "created_at": "2026-08-07T18:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085790512267878433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zSEeJcOJ8k",
+              "end": 40,
+              "expanded_url": "https://x.com/lei47076/status/2085790512267878433/video/1",
+              "media_key": "13_2085790482454732800",
+              "start": 17,
+              "url": "https://t.co/zSEeJcOJ8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085790512267878433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天都喜欢听歌的时候看着桌面发呆 https://t.co/zSEeJcOJ8k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 8,
+          "like_count": 1052,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "lei47076",
+        "verified": false
+      }
+    ]
+  }
+}
