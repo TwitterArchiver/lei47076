@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097335133623992712",
+    "created_at": "2026-09-09T03:17:49.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T04:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097524852773253235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "357539288",
+          "start": 0,
+          "username": "rin917_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097524852773253235",
+    "in_reply_to_user_id": "357539288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097335133623992712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rin917_8964 （盯～）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097335133623992712",
+        "created_at": "2026-09-09T03:17:49.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097524852773253235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "357539288",
+              "start": 0,
+              "username": "rin917_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097524852773253235",
+        "in_reply_to_user_id": "357539288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097335133623992712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rin917_8964 （盯～）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "357539288",
+        "conversation_id": "2097335133623992712",
+        "created_at": "2026-09-08T14:43:57.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097335133623992712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097335133623992712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人看得见我吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097524852773253235",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 21,
+          "like_count": 3250,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1684
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk，拿了我的钱还这样我他妈的\n同类互fo🤤\n🚪52开放朋友圈不线下\n爱大家喵\n被爆大号@IiRin_00917_QwQ\n里号@yumumu_msknb\n😹🫶@woaiuai0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "IiRin_00917_QwQ"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 94,
+                "start": 82,
+                "username": "woaiuai0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/WT9iFGe2NG"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "is_identity_verified": false,
+        "location": "msk身后",
+        "most_recent_tweet_id": "2097503238581092555",
+        "name": "传奇病娇18.霖",
+        "pinned_tweet_id": "2097332760834875902",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357539288/1783618658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079816271148023808/1pDQllIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 364,
+          "like_count": 2359,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1503
+        },
+        "url": "https://t.co/WT9iFGe2NG",
+        "username": "rin917_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

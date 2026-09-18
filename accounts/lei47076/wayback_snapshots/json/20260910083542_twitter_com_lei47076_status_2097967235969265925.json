@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097926450078974126",
+    "created_at": "2026-09-10T08:35:42.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097967235969265925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097967235969265925",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097926450078974126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya 拍拍你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2097926440167845888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1U-2casAA7fih.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097926450078974126",
+        "created_at": "2026-09-10T08:35:42.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097967235969265925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097967235969265925",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097926450078974126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097926440167845888"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2097926450078974126",
+        "created_at": "2026-09-10T05:53:37.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097926450078974126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3bSrXyJ8P",
+              "end": 32,
+              "expanded_url": "https://x.com/bghtnya/status/2097926450078974126/photo/1",
+              "media_key": "3_2097926440167845888",
+              "start": 9,
+              "url": "https://t.co/s3bSrXyJ8P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097926450078974126",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097926440167845888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1143,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "正在注入爱国基因 https://t.co/s3bSrXyJ8P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097967235969265925",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 24,
+          "like_count": 3543,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1947
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2097963622370861510",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10971,
+          "following_count": 2341,
+          "like_count": 185704,
+          "listed_count": 21,
+          "media_count": 4210,
+          "tweet_count": 50975
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

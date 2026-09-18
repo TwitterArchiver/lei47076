@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2099684853285577059",
+    "created_at": "2026-09-15T16:27:03.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T17:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099897797512474755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2088186677177290753",
+          "start": 0,
+          "username": "NeuxIce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099897797512474755",
+    "in_reply_to_user_id": "2088186677177290753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099684853285577059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeuxIce 拍拍你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2099684853285577059",
+        "created_at": "2026-09-15T16:27:03.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099897797512474755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2088186677177290753",
+              "start": 0,
+              "username": "NeuxIce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099897797512474755",
+        "in_reply_to_user_id": "2088186677177290753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099684853285577059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeuxIce 拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088186677177290753",
+        "conversation_id": "2099684853285577059",
+        "created_at": "2026-09-15T02:20:53.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T03:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099684853285577059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099684853285577059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活成现在这样\n全都是我的错吗\n为什么创伤都回忆不起来了呢\n那些人真的伤害过我吗\n.........\n明明可以什么都不用拥有 什么都不用做到的\n............\n他们口中的爱究竟是什么\n我又在做什么\n回忆消失了\n我无法再憎恨着谁 埋怨谁 即使真的是他们的错\n到最后 \n这也只是我需要承担的结果罢了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2099897797512474755",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2099115813945172238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 34,
+          "like_count": 4220,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2602
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T08:56:07.000Z",
+        "description": "里推....我会用来发大量的负能内容.....打扰到你了那就非常抱歉....\n可以关注@NeInflux....\n一般会回Fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "NeInflux"
+              }
+            ]
+          }
+        },
+        "id": "2088186677177290753",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099761267716350069",
+        "name": "NEUX",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088188288192634880/5ITZRtvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 41,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "NeuxIce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

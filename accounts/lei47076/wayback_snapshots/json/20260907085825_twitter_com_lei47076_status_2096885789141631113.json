@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096638687723348353",
+    "created_at": "2026-09-07T08:58:25.000Z",
+    "display_text_range": [
+      16,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T09:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096885789141631113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2063159075572158465",
+          "start": 0,
+          "username": "Bochichan250hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096885789141631113",
+    "in_reply_to_user_id": "2063159075572158465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096638687723348353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bochichan250hh 没有哦，拍拍你，并不无聊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096638687723348353",
+        "created_at": "2026-09-07T08:58:25.000Z",
+        "display_text_range": [
+          16,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096885789141631113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2063159075572158465",
+              "start": 0,
+              "username": "Bochichan250hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096885789141631113",
+        "in_reply_to_user_id": "2063159075572158465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096638687723348353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bochichan250hh 没有哦，拍拍你，并不无聊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063159075572158465",
+        "conversation_id": "2096638687723348353",
+        "created_at": "2026-09-06T16:36:31.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096638687723348353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096638687723348353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 301,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，我一直在自言自语，可能打扰到你了吧，这很无聊，不是吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜\n｜泛性恋｜无性别｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096885789141631113",
+        "name": "斯卡雷特-芙兰朵露",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 18,
+          "like_count": 2936,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1420
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T07:21:34.000Z",
+        "description": "it is too late…. \n@Yokuso_desu的小账户\nA guitarist 🎸一个破玩电吉他的（\n查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Yokuso_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BochiChan250",
+                "end": 23,
+                "expanded_url": "http://t.me/BochiChan250",
+                "start": 0,
+                "url": "https://t.co/dkFNyeyJ7O"
+              }
+            ]
+          }
+        },
+        "id": "2063159075572158465",
+        "is_identity_verified": false,
+        "location": "加州の旅馆",
+        "most_recent_tweet_id": "2096651843677860256",
+        "name": "防尘迷呀awa🇰🇵🌿",
+        "pinned_tweet_id": "2077086358259081675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063159075572158465/1783759262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068608809841696768/DCfkJfRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1947,
+          "following_count": 1892,
+          "like_count": 11521,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 1840
+        },
+        "url": "https://t.co/dkFNyeyJ7O",
+        "username": "Bochichan250hh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

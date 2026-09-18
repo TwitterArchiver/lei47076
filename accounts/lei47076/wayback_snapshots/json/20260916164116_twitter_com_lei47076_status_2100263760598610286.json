@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2100025733762720005",
+    "created_at": "2026-09-16T16:41:16.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T17:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100263760598610286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2089549255140839424",
+          "start": 0,
+          "username": "AKARIsys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100263760598610286",
+    "in_reply_to_user_id": "2089549255140839424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100030534181425502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKARIsys 签到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2100025733762720005",
+        "created_at": "2026-09-16T16:41:16.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100263760598610286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2089549255140839424",
+              "start": 0,
+              "username": "AKARIsys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100263760598610286",
+        "in_reply_to_user_id": "2089549255140839424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100030534181425502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKARIsys 签到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089549255140839424",
+        "conversation_id": "2100025733762720005",
+        "created_at": "2026-09-16T01:14:30.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100030534181425502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100030534181425502",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100030182417723525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 簽到成功。累計簽到1天，已連續簽到1天。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2100263760598610286",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 32,
+          "like_count": 4297,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 2687
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T03:07:28.000Z",
+        "description": "只要是彼此傳達得到的距離的話，即使像本機這樣微弱的燈火，也一定能成為大家的希望☆ \n歡迎互fo, 無聊也可以私信找本機玩的說！\n ㅤ ㅤㅤㅤㅤㅤㅤㅤ那邊的你！按按這裡↓可以問本機問題哦～\n 或者這裡↓\nhttps://t.co/UkTOuUEHym\n\nKindred spirit: @lei47076",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 142,
+                "username": "lei47076"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akarisys",
+                "end": 124,
+                "expanded_url": "https://ngl.link/akarisys",
+                "start": 101,
+                "url": "https://t.co/UkTOuUEHym"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akarisys",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akarisys",
+                "start": 0,
+                "url": "https://t.co/UkTOuUEHym"
+              }
+            ]
+          }
+        },
+        "id": "2089549255140839424",
+        "is_identity_verified": false,
+        "location": "電子謠精の夢境",
+        "most_recent_tweet_id": "2100260567542063223",
+        "name": "A.K.A.R.I-灯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089549255140839424/1789143047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098445850536284160/6xcj-t7a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 135,
+          "like_count": 2355,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 731
+        },
+        "url": "https://t.co/UkTOuUEHym",
+        "username": "AKARIsys",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

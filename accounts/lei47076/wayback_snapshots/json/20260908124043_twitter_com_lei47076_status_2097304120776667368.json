@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097285888590201009",
+    "created_at": "2026-09-08T12:40:43.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T13:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097304120776667368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1842497337362612224",
+          "start": 0,
+          "username": "asd6368995359"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097304120776667368",
+    "in_reply_to_user_id": "1842497337362612224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097285888590201009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asd6368995359 那芙兰进不了群了呢。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2466,
+        "media_key": "3_2097285686424743936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsOOEvbsAAWXVo.jpg",
+        "width": 1387
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097285888590201009",
+        "created_at": "2026-09-08T12:40:43.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097304120776667368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1842497337362612224",
+              "start": 0,
+              "username": "asd6368995359"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097304120776667368",
+        "in_reply_to_user_id": "1842497337362612224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097285888590201009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asd6368995359 那芙兰进不了群了呢。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097285686424743936"
+          ]
+        },
+        "author_id": "1842497337362612224",
+        "conversation_id": "2097285888590201009",
+        "created_at": "2026-09-08T11:28:16.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097285888590201009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aADec5Ghq3",
+              "end": 48,
+              "expanded_url": "https://x.com/asd6368995359/status/2097285888590201009/photo/1",
+              "media_key": "3_2097285686424743936",
+              "start": 25,
+              "url": "https://t.co/aADec5Ghq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097285888590201009",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097285686424743936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同类进喵(进群需审核，可能会慢一点，见谅一下喵) https://t.co/aADec5Ghq3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097304120776667368",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 20,
+          "like_count": 3183,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1638
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:31:09.000Z",
+        "description": "|hrt:2026.06.15|172cm.61kg|高二\n同类互fo |性格内向|09.9.26|\n不键政!|\n想找对象",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+z6DiSxDZEx04N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+z6DiSxDZEx04NWY1",
+                "start": 0,
+                "url": "https://t.co/6ImNgJpVpd"
+              }
+            ]
+          }
+        },
+        "id": "1842497337362612224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097285888590201009",
+        "name": "雲🍥🏳️‍⚧",
+        "pinned_tweet_id": "2097268395737817568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842497337362612224/1788750414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086031805225078784/DN6pGgWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 166,
+          "like_count": 2071,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/6ImNgJpVpd",
+        "username": "asd6368995359",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

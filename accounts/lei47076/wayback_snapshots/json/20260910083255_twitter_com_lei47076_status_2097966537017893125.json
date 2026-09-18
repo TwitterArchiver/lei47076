@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097918111165084097",
+    "created_at": "2026-09-10T08:32:55.000Z",
+    "display_text_range": [
+      11,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097966537017893125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1418942200457662477",
+          "start": 0,
+          "username": "Rikka_Ela"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097966537017893125",
+    "in_reply_to_user_id": "1418942200457662477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097918111165084097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikka_Ela （抱紧）\n会有的，总有一天会有的。\n加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097918111165084097",
+        "created_at": "2026-09-10T08:32:55.000Z",
+        "display_text_range": [
+          11,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097966537017893125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097966537017893125",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097918111165084097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela （抱紧）\n会有的，总有一天会有的。\n加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2097918111165084097",
+        "created_at": "2026-09-10T05:20:29.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097918111165084097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2097915542669500887",
+              "start": 124,
+              "url": "https://t.co/PyCGY9pDJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097918111165084097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 801,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097915542669500887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被人抱在怀里，蹭着对方的身体，呼吸着对方的味道，享受着对方的温度，这样地联结着，究竟是一种什么样的感觉呢？我好想要知道。我会是一个合格的、不被抛弃的等身抱枕吗？假如可以被喜欢、被倾注感情的话，哪怕平凡的等身抱枕也就有了灵魂。我会拥有那样的一天吗？ https://t.co/PyCGY9pDJg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097966537017893125",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 24,
+          "like_count": 3538,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1942
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "is_identity_verified": false,
+        "location": "France",
+        "most_recent_tweet_id": "2097962223717228863",
+        "name": "Rika☁️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418942200457662477/1700665945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6778,
+          "following_count": 3766,
+          "like_count": 86465,
+          "listed_count": 8,
+          "media_count": 467,
+          "tweet_count": 10318
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

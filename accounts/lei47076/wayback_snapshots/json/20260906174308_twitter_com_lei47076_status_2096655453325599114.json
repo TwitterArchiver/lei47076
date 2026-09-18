@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096632079194960323",
+    "created_at": "2026-09-06T17:43:08.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T18:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096655453325599114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2089299881433448448",
+          "start": 0,
+          "username": "tingzi_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096655453325599114",
+    "in_reply_to_user_id": "2089299881433448448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096632079194960323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingzi_love 晚安安啦～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 231,
+        "media_key": "3_2096632072903520256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi7wwoa8AAw38D.jpg",
+        "width": 196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096632079194960323",
+        "created_at": "2026-09-06T17:43:08.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T18:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096655453325599114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2089299881433448448",
+              "start": 0,
+              "username": "tingzi_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096655453325599114",
+        "in_reply_to_user_id": "2089299881433448448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096632079194960323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingzi_love 晚安安啦～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096632072903520256"
+          ]
+        },
+        "author_id": "2089299881433448448",
+        "conversation_id": "2096632079194960323",
+        "created_at": "2026-09-06T16:10:15.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096632079194960323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yI8e21LgqZ",
+              "end": 135,
+              "expanded_url": "https://x.com/tingzi_love/status/2096632079194960323/photo/1",
+              "media_key": "3_2096632072903520256",
+              "start": 112,
+              "url": "https://t.co/yI8e21LgqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096632079194960323",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096632072903520256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安，世界\nGood night，everyone，Good dream。\n虽然和大家说了晚安\n但其实还想和某人说晚安\n虽然他好像完全不在意我？\n没事，我在意他就行啦o(´^｀)o\n不过也无所谓了，还是Good night https://t.co/yI8e21LgqZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜\n｜泛性恋｜无性别｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096655453325599114",
+        "name": "斯卡雷特-芙兰朵露",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 16,
+          "like_count": 2860,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1359
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T10:35:55.000Z",
+        "description": "我爱我遇见的每个人\nhttps://t.co/USUYiZ7VbZ\n嗯，我是小町子，听起来像女生的名字，不过戏访嘛别在意\n林檎被自欺欺人者气走了，但我还在，生活依旧\n我想回来",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qinlin52771",
+                "end": 33,
+                "expanded_url": "https://ngl.link/qinlin52771",
+                "start": 10,
+                "url": "https://t.co/USUYiZ7VbZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "不想做这个可以放pbl页面设计吗.com",
+                "end": 23,
+                "expanded_url": "http://xn--pbl-628d7es0ct4ew3koka601is4jm89i0kag40c6q1ay0d.com",
+                "start": 0,
+                "url": "https://t.co/w4d1vcFtPw"
+              }
+            ]
+          }
+        },
+        "id": "2089299881433448448",
+        "is_identity_verified": false,
+        "location": "某店前台打瞌睡，被迫看店，有小蛋糕趁我睡着放桌上谢谢",
+        "most_recent_tweet_id": "2096632079194960323",
+        "name": "林檎k",
+        "pinned_tweet_id": "2089376990805778819",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089299881433448448/1788595627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096152007619014656/zmYAyND4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 50,
+          "like_count": 1435,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/w4d1vcFtPw",
+        "username": "tingzi_love",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

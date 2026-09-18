@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2100062675237749191",
+    "created_at": "2026-09-16T03:40:54.000Z",
+    "display_text_range": [
+      10,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T04:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100067377178374531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987402138667130881",
+          "start": 0,
+          "username": "jkiesoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100067377178374531",
+    "in_reply_to_user_id": "1987402138667130881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100062675237749191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkiesoft 吃得开心呀，好好休息吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2100062646791966720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTr2cQaEAAPoTN.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2100062675237749191",
+        "created_at": "2026-09-16T03:40:54.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100067377178374531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987402138667130881",
+              "start": 0,
+              "username": "jkiesoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100067377178374531",
+        "in_reply_to_user_id": "1987402138667130881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100062675237749191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkiesoft 吃得开心呀，好好休息吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100062646791966720"
+          ]
+        },
+        "author_id": "1987402138667130881",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2100062675237749191",
+        "created_at": "2026-09-16T03:22:13.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100062675237749191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GqcwgOtLvy",
+              "end": 34,
+              "expanded_url": "https://x.com/jkiesoft/status/2100062675237749191/photo/1",
+              "media_key": "3_2100062646791966720",
+              "start": 11,
+              "url": "https://t.co/GqcwgOtLvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100062675237749191",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100062646791966720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "庆祝🎉军训结束886 https://t.co/GqcwgOtLvy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2100067377178374531",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2099115813945172238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 32,
+          "like_count": 4253,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2634
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-09T06:10:21.000Z",
+        "description": "二号机:@koysov2022\n非人哉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "koysov2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120069949",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120069949",
+                "start": 0,
+                "url": "https://t.co/MYZgVAViyV"
+              }
+            ]
+          }
+        },
+        "id": "1987402138667130881",
+        "is_identity_verified": false,
+        "location": "电波研究所",
+        "most_recent_tweet_id": "2100064897954721879",
+        "name": "kia",
+        "pinned_tweet_id": "2040333516790243786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987402138667130881/1789367389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043260826774392832/Mu52LJKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 722,
+          "like_count": 19518,
+          "listed_count": 0,
+          "media_count": 603,
+          "tweet_count": 9239
+        },
+        "url": "https://t.co/MYZgVAViyV",
+        "username": "jkiesoft",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

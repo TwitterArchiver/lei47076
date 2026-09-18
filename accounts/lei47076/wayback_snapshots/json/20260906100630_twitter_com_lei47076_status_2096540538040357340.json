@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096535549582696454",
+    "created_at": "2026-09-06T10:06:30.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096540538040357340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1626802370066911232",
+          "start": 0,
+          "username": "Freewing339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096540538040357340",
+    "in_reply_to_user_id": "1626802370066911232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096535549582696454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freewing339 辛苦你啦～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096535549582696454",
+        "created_at": "2026-09-06T10:06:30.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096540538040357340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1626802370066911232",
+              "start": 0,
+              "username": "Freewing339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096540538040357340",
+        "in_reply_to_user_id": "1626802370066911232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096535549582696454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freewing339 辛苦你啦～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626802370066911232",
+        "conversation_id": "2096535549582696454",
+        "created_at": "2026-09-06T09:46:41.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096535549582696454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096535549582696454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又要去学校了T^T周末过得好快"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096540538040357340",
+        "name": "斯卡雷特-芙兰朵露",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 16,
+          "like_count": 2835,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1335
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-18T04:34:53.000Z",
+        "description": "实事求是｜自由派｜现代自由主义｜宪政民主｜人权\n09｜男｜友跨｜理科生｜高三生备考中｜目标留德🇩🇪（我一定要出去!）\n\"有些鸟儿是关不住的，它们的每一片羽毛都闪耀着自由的光辉\"\n欢迎同类找我聊天喵！一般每天都会上线的\n避难所：@EiderHans38928",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 113,
+                "username": "EiderHans38928"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhoxiojn8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhoxiojn8",
+                "start": 0,
+                "url": "https://t.co/3Xi0uznVeK"
+              }
+            ]
+          }
+        },
+        "id": "1626802370066911232",
+        "is_identity_verified": false,
+        "location": "德国北莱茵-威斯特法伦州",
+        "most_recent_tweet_id": "2096536932948050002",
+        "name": "青羽",
+        "pinned_tweet_id": "2089610560518373623",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626802370066911232/1788682360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088980788511739904/HNxqmoE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 320,
+          "like_count": 3270,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/3Xi0uznVeK",
+        "username": "Freewing339",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

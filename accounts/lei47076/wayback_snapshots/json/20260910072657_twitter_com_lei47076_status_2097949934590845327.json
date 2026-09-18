@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097744038564933663",
+    "created_at": "2026-09-10T07:26:57.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097949934590845327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2085668508915118080",
+          "start": 0,
+          "username": "qinlin_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097949934590845327",
+    "in_reply_to_user_id": "2085668508915118080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097744038564933663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qinlin_love 拍拍你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2097744010018492416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyvEBLbEAAFOv8.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2670,
+        "media_key": "3_2097744021578022912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyvEsPbgAAdHdX.jpg",
+        "width": 1200
+      },
+      {
+        "height": 192,
+        "media_key": "3_2097744033250738176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyvFXubAAAZhrr.jpg",
+        "width": 197
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097744038564933663",
+        "created_at": "2026-09-10T07:26:57.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097949934590845327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085668508915118080",
+              "start": 0,
+              "username": "qinlin_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097949934590845327",
+        "in_reply_to_user_id": "2085668508915118080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097744038564933663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinlin_love 拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097744010018492416",
+            "3_2097744021578022912",
+            "3_2097744033250738176"
+          ]
+        },
+        "author_id": "2085668508915118080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097744038564933663",
+        "created_at": "2026-09-09T17:48:47.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097744038564933663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pjuaIoLDMG",
+              "end": 164,
+              "expanded_url": "https://x.com/qinlin_love/status/2097744038564933663/photo/1",
+              "media_key": "3_2097744010018492416",
+              "start": 141,
+              "url": "https://t.co/pjuaIoLDMG"
+            },
+            {
+              "display_url": "pic.x.com/pjuaIoLDMG",
+              "end": 164,
+              "expanded_url": "https://x.com/qinlin_love/status/2097744038564933663/photo/1",
+              "media_key": "3_2097744021578022912",
+              "start": 141,
+              "url": "https://t.co/pjuaIoLDMG"
+            },
+            {
+              "display_url": "pic.x.com/pjuaIoLDMG",
+              "end": 164,
+              "expanded_url": "https://x.com/qinlin_love/status/2097744038564933663/photo/1",
+              "media_key": "3_2097744033250738176",
+              "start": 141,
+              "url": "https://t.co/pjuaIoLDMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097744038564933663",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097744010018492416"
+          },
+          {
+            "media_key": "3_2097744021578022912"
+          },
+          {
+            "media_key": "3_2097744033250738176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个这个，guiano是天籁来的，结果被QQ音乐一些人吐槽不该出声……服了\n还有迷子专辑里猫屋敷演唱的这些，完全天籁\n不过算音乐分享了\n其他的话则是喜欢水星（不知道是谁提起的，但后来去找了下所以喜欢他的旋律）\n卡农也好，小时候玩钢琴块爱上的\n最后一个求推荐？想听听你最想听的ᗜ֊ᗜ https://t.co/pjuaIoLDMG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097949934590845327",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 24,
+          "like_count": 3506,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1906
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T10:05:46.000Z",
+        "description": "嘶，写点啥呢？我看其他人都好文雅啊\n@tingzi_love\n questions?https://t.co/AIQ7Ig68iV\n“林檎似赤柰，亦名黑檎。”\n“一名来禽，言味甘，熟则来禽也。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "tingzi_love"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/qinlin52771",
+                "end": 65,
+                "expanded_url": "https://ngl.link/qinlin52771",
+                "start": 42,
+                "url": "https://t.co/AIQ7Ig68iV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "等过几天看看.com",
+                "end": 23,
+                "expanded_url": "http://xn--h9q80pz50aa045cly9a.com",
+                "start": 0,
+                "url": "https://t.co/woREa2hurR"
+              }
+            ]
+          }
+        },
+        "id": "2085668508915118080",
+        "is_identity_verified": false,
+        "location": "你所想的地方",
+        "most_recent_tweet_id": "2097942351700525245",
+        "name": "林檎",
+        "pinned_tweet_id": "2096849409585897493",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085668508915118080/1786183301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092083333308248064/C759O-Hy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 142,
+          "like_count": 7547,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 1808
+        },
+        "url": "https://t.co/woREa2hurR",
+        "username": "qinlin_love",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

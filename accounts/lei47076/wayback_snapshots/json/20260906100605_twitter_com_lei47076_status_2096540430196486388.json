@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096533579144769833",
+    "created_at": "2026-09-06T10:06:05.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096540430196486388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880979169297022976",
+          "start": 0,
+          "username": "Wesley10032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096540430196486388",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096533579144769833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Wesley10032 好看呢～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096533553484042240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhiKLMakAAq0xD.jpg",
+        "width": 1959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096533579144769833",
+        "created_at": "2026-09-06T10:06:05.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096540430196486388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096540430196486388",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096533579144769833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Wesley10032 好看呢～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096533553484042240"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096533579144769833",
+        "created_at": "2026-09-06T09:38:51.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096533579144769833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bkk5bI8oS3",
+              "end": 31,
+              "expanded_url": "https://x.com/Wesley10032/status/2096533579144769833/photo/1",
+              "media_key": "3_2096533553484042240",
+              "start": 8,
+              "url": "https://t.co/Bkk5bI8oS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096533579144769833",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096533553484042240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "路边的龙猫绘画 https://t.co/Bkk5bI8oS3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096540430196486388",
+        "name": "斯卡雷特-芙兰朵露",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 16,
+          "like_count": 2834,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1333
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096535150893097122",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 1819,
+          "like_count": 24795,
+          "listed_count": 2,
+          "media_count": 506,
+          "tweet_count": 3783
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

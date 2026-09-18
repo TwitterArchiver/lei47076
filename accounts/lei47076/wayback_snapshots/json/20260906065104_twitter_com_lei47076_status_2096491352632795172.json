@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096487369042231550",
+    "created_at": "2026-09-06T06:51:04.000Z",
+    "display_text_range": [
+      27,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T07:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096491352632795172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677270742705270784",
+          "start": 0,
+          "username": "GEACPS1940629"
+        },
+        {
+          "end": 26,
+          "id": "1943361769814261760",
+          "start": 15,
+          "username": "sadsadcatc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096491352632795172",
+    "in_reply_to_user_id": "1677270742705270784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096487369042231550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GEACPS1940629 @sadsadcatc 拍拍你。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15817,
+        "height": 1280,
+        "media_key": "13_2096487320493207552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096487320493207552/img/HTLNRxMB_YMuVIe4.jpg",
+        "public_metrics": {
+          "view_count": 32
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096487320493207552/vid/avc1/320x700/9RRZwuBFJnFK4Jew.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096487320493207552/vid/avc1/480x1052/r_BF5s1EwE8RMfjn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096487320493207552/vid/avc1/584x1280/bsVh1DqKz6YaA9Hd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096487320493207552/pl/fAuQBqx-YCTjuB-j.m3u8"
+          }
+        ],
+        "width": 584
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096487357927358464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRg4JPVbgAAf_5w.jpg",
+        "width": 1863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096487369042231550",
+        "created_at": "2026-09-06T06:51:04.000Z",
+        "display_text_range": [
+          27,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096491352632795172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677270742705270784",
+              "start": 0,
+              "username": "GEACPS1940629"
+            },
+            {
+              "end": 26,
+              "id": "1943361769814261760",
+              "start": 15,
+              "username": "sadsadcatc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096491352632795172",
+        "in_reply_to_user_id": "1677270742705270784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096487369042231550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GEACPS1940629 @sadsadcatc 拍拍你。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096487320493207552",
+            "3_2096487357927358464"
+          ]
+        },
+        "author_id": "1677270742705270784",
+        "conversation_id": "2096487369042231550",
+        "created_at": "2026-09-06T06:35:14.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096487369042231550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 133,
+              "id": "1943361769814261760",
+              "start": 122,
+              "username": "sadsadcatc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/apuITNUM8I",
+              "end": 157,
+              "expanded_url": "https://x.com/GEACPS1940629/status/2096487369042231550/video/1",
+              "media_key": "13_2096487320493207552",
+              "start": 134,
+              "url": "https://t.co/apuITNUM8I"
+            },
+            {
+              "display_url": "pic.x.com/apuITNUM8I",
+              "end": 157,
+              "expanded_url": "https://x.com/GEACPS1940629/status/2096487369042231550/video/1",
+              "media_key": "3_2096487357927358464",
+              "start": 134,
+              "url": "https://t.co/apuITNUM8I"
+            },
+            {
+              "display_url": "x.com/GEACPS1940629/…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/GEACPS1940629/status/2096486864287150144",
+              "start": 158,
+              "url": "https://t.co/HI4TcXQfHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096487369042231550",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096487320493207552"
+          },
+          {
+            "media_key": "3_2096487357927358464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096486864287150144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且我尋思，色圖不是你自己先在推特上發出來的嗎；\n\n我就是看到你不但發了圖，跟你聊這個你也能接上話題的時候，我才繼續跟你聊下去的；\n\n而且我跟你強調，不喜歡聊就要跟我講一聲的時候，你一直“阿巴阿巴”擱那裝傻，你不說出來，誰知道你喜不喜歡聊？\n\n@sadsadcatc https://t.co/apuITNUM8I https://t.co/HI4TcXQfHm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096491352632795172",
+        "name": "斯卡雷特-芙兰朵露",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 16,
+          "like_count": 2814,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1317
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-07T10:58:18.000Z",
+        "description": "@撐雨傘的湯普尼🇺🇸🇪🇺🇺🇦 的小號丨不談政治，鍵政人請遠離｜心理狀態很糟糕，想讓人安慰，Telegram的鏈接就放在這了，和我聊聊天吧🥺\n\n小號：@TenpennyL62429\n\n提問箱：https://t.co/zN1fnV0uNx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "TenpennyL62429"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny2",
+                "end": 118,
+                "expanded_url": "https://ngl.link/mr.tenpenny2",
+                "start": 95,
+                "url": "https://t.co/zN1fnV0uNx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://telegram.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/qNSceYpy5B"
+              }
+            ]
+          }
+        },
+        "id": "1677270742705270784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096487738853974173",
+        "name": "Mr.湯普尼▐┛",
+        "pinned_tweet_id": "1954982607738847246",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677270742705270784/1737476278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003522899798269952/v4chWipq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 6735,
+          "like_count": 107097,
+          "listed_count": 3,
+          "media_count": 4394,
+          "tweet_count": 11999
+        },
+        "url": "https://t.co/qNSceYpy5B",
+        "username": "GEACPS1940629",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-10T17:28:55.000Z",
+        "description": "This story is not end yet,because only you are in the loop of infinity\n2004 mtf 持证含糖 长居武汉 \n想交朋友\n我是精神病，接受不了直接划走，讨厌健全b",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadsadcatc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sadsadcatc",
+                "start": 0,
+                "url": "https://t.co/xH3r8cmXv2"
+              }
+            ]
+          }
+        },
+        "id": "1943361769814261760",
+        "is_identity_verified": false,
+        "location": "月球背面的漩涡之中 花与阳之都",
+        "most_recent_tweet_id": "2096483787416990078",
+        "name": "転生きのこ🏳️‍⚧️",
+        "pinned_tweet_id": "2096175141629915486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943361769814261760/1752591890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054887710725484544/mXCHCwKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 1488,
+          "like_count": 23663,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 7783
+        },
+        "url": "https://t.co/xH3r8cmXv2",
+        "username": "sadsadcatc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

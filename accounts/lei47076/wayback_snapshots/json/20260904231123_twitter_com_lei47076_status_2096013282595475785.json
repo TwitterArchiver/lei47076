@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2095874892130623606",
+    "created_at": "2026-09-04T23:11:23.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T00:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096013282595475785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822167103673143296",
+          "start": 0,
+          "username": "zau743598828677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096013282595475785",
+    "in_reply_to_user_id": "1822167103673143296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095874892130623606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zau743598828677 拍拍你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2095874892130623606",
+        "created_at": "2026-09-04T23:11:23.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T00:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096013282595475785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822167103673143296",
+              "start": 0,
+              "username": "zau743598828677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096013282595475785",
+        "in_reply_to_user_id": "1822167103673143296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095874892130623606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zau743598828677 拍拍你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822167103673143296",
+        "conversation_id": "2095874892130623606",
+        "created_at": "2026-09-04T14:01:28.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095874892130623606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095874892130623606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "脑雾好严重"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096013282595475785",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 16,
+          "like_count": 2657,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1200
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-10T07:04:52.000Z",
+        "description": "摄影爱好者📷，ins账号如下💕请关注💕                      。—⚠️负面警告⚠️—@GLaDOS8964 的转生，老号被人搞丢了—本人脾气极好，随时随地无聊中，欢迎来骚扰，🌈友好，tg：https://t.co/DqaXKntrrj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 52,
+                "username": "GLaDOS8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/GLaDOSlove",
+                "end": 127,
+                "expanded_url": "http://t.me/GLaDOSlove",
+                "start": 104,
+                "url": "https://t.co/DqaXKntrrj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gladoslove?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/gladoslove?igsh=OXdrOGJ0dzViaGE1",
+                "start": 0,
+                "url": "https://t.co/at0RBxE0ea"
+              }
+            ]
+          }
+        },
+        "id": "1822167103673143296",
+        "is_identity_verified": false,
+        "location": "河南郑州",
+        "most_recent_tweet_id": "2095917738581721306",
+        "name": "GLaDOS📷",
+        "pinned_tweet_id": "2084967071583281639",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822167103673143296/1784163150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092810884716617728/Dwh5IXro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 327,
+          "like_count": 3750,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 2702
+        },
+        "url": "https://t.co/at0RBxE0ea",
+        "username": "zau743598828677",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097524625098055896",
+    "created_at": "2026-09-09T13:24:52.000Z",
+    "display_text_range": [
+      17,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T14:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097677621366755782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862367692021538817",
+          "start": 0,
+          "username": "Richie_sss27812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097677621366755782",
+    "in_reply_to_user_id": "1862367692021538817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097524625098055896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Richie_sss27812 很可爱，很好看呀～\n拍拍你～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097524455467806720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvnYQvacAAJVA2.jpg",
+        "width": 1614
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097524601266040832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvngv4a8AA0I99.jpg",
+        "width": 1884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097524625098055896",
+        "created_at": "2026-09-09T13:24:52.000Z",
+        "display_text_range": [
+          17,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097677621366755782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862367692021538817",
+              "start": 0,
+              "username": "Richie_sss27812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097677621366755782",
+        "in_reply_to_user_id": "1862367692021538817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097524625098055896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Richie_sss27812 很可爱，很好看呀～\n拍拍你～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097524455467806720",
+            "3_2097524601266040832"
+          ]
+        },
+        "author_id": "1862367692021538817",
+        "conversation_id": "2097524625098055896",
+        "created_at": "2026-09-09T03:16:55.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097524625098055896"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "白丝"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "白厚"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "白裤袜"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "芭蕾大袜"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "男孩子"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "宿舍"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "bottom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GyInDvCzmH",
+              "end": 68,
+              "expanded_url": "https://x.com/Richie_sss27812/status/2097524625098055896/photo/1",
+              "media_key": "3_2097524455467806720",
+              "start": 45,
+              "url": "https://t.co/GyInDvCzmH"
+            },
+            {
+              "display_url": "pic.x.com/GyInDvCzmH",
+              "end": 68,
+              "expanded_url": "https://x.com/Richie_sss27812/status/2097524625098055896/photo/1",
+              "media_key": "3_2097524601266040832",
+              "start": 45,
+              "url": "https://t.co/GyInDvCzmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097524625098055896",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097524455467806720"
+          },
+          {
+            "media_key": "3_2097524601266040832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2776,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "宿舍没人野一下😉\n#白丝 #白厚 #白裤袜 #芭蕾大袜 #男孩子 #宿舍 #bottom https://t.co/GyInDvCzmH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097677621366755782",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 21,
+          "like_count": 3341,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 1763
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-29T05:27:22.000Z",
+        "description": "喜丝男大 白裤袜/白丝为主\n🍠Richie瑞琰（Richie_baisi333）有对象\n175/70 正在努力健身🐶",
+        "id": "1862367692021538817",
+        "is_identity_verified": false,
+        "location": "鄂东南 闽南",
+        "most_recent_tweet_id": "2097524625098055896",
+        "name": "Richie 瑞琰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862367692021538817/1786646814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088706550445871104/SXnJEtjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 129,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "Richie_sss27812",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

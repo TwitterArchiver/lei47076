@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2098386575377732048",
+    "created_at": "2026-09-11T16:16:25.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T17:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098445568431583541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066487415678918657",
+          "start": 0,
+          "username": "danshuishuimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098445568431583541",
+    "in_reply_to_user_id": "2066487415678918657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098386575377732048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@danshuishuimu 拍拍你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2098386575377732048",
+        "created_at": "2026-09-11T16:16:25.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098445568431583541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066487415678918657",
+              "start": 0,
+              "username": "danshuishuimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098445568431583541",
+        "in_reply_to_user_id": "2066487415678918657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098386575377732048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@danshuishuimu 拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066487415678918657",
+        "conversation_id": "2098386575377732048",
+        "created_at": "2026-09-11T12:22:00.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098386575377732048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098386575377732048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 869,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最后是x17自己\n我把所有的爱都留给了所有人\n可是当我需要你们的时候\n你们都抛弃了我\n所有的钱给了tyw然后被嫌弃的删掉了\n钱给了魈诺，用光的花呗额度，欠众筹所有人的钱，守在ICU和酒店经历只换来一句“骗子”\n每个人都是自顾自的正义\n17\n只不过是\n垃圾"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2098445568431583541",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 29,
+          "like_count": 3778,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 2142
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T11:49:41.000Z",
+        "description": "不再是心理委员，但是依然爱着你/此账号为个人账号\n离世日期已定\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/大号@17nuun\n频道链接https://t.co/fH6wssz2c5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "17nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 122,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 99,
+                "url": "https://t.co/fH6wssz2c5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/3JPf2UoHaa"
+              }
+            ]
+          }
+        },
+        "id": "2066487415678918657",
+        "is_identity_verified": false,
+        "location": "正在抱住你",
+        "most_recent_tweet_id": "2098386575377732048",
+        "name": "海月淡水水母x17🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066487415678918657/1787578119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116790475296768/Qu3Pj1bB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 375,
+          "like_count": 715,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 478
+        },
+        "url": "https://t.co/3JPf2UoHaa",
+        "username": "danshuishuimu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

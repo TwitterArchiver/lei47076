@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097710161687388298",
+    "created_at": "2026-09-10T20:08:19.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T21:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098141538652160338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2067769435675578368",
+          "start": 0,
+          "username": "yuanren0130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098141538652160338",
+    "in_reply_to_user_id": "2067769435675578368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097717341857743029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanren0130 拍拍你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097710161687388298",
+        "created_at": "2026-09-10T20:08:19.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T21:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098141538652160338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2067769435675578368",
+              "start": 0,
+              "username": "yuanren0130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098141538652160338",
+        "in_reply_to_user_id": "2067769435675578368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097717341857743029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanren0130 拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067769435675578368",
+        "conversation_id": "2097710161687388298",
+        "created_at": "2026-09-09T16:02:42.000Z",
+        "display_text_range": [
+          10,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097717341857743029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097717341857743029",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097716549306233327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 那算了我还是不适合，我讨厌清醒，还是药物能让我更沉沦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2098141538652160338",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 25,
+          "like_count": 3614,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 2010
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-19T00:41:21.000Z",
+        "description": "叫我渊人就好\n恋人Noa @hathawaybk56\n💜朝比奈真冬激推💜\n💗友跨｜17岁｜正在尝试戒掉od？（失败）｜休学中｜不键政\n是个超级精神病？\n头像是朋友画的\n可以当树洞，或者找我倾述\n希望大家都能获得幸福，活的幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "hathawaybk56"
+              }
+            ]
+          }
+        },
+        "id": "2067769435675578368",
+        "is_identity_verified": false,
+        "location": "方寸之距   天上宗后山",
+        "most_recent_tweet_id": "2098128106838217103",
+        "name": "渊人zzz",
+        "pinned_tweet_id": "2091182723163406517",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067769435675578368/1782766030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088291289200750593/vZvPZkqT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 106,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "yuanren0130",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

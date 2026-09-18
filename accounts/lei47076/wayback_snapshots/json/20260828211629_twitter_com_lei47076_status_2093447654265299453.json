@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2093320722215207335",
+    "created_at": "2026-08-28T21:16:29.000Z",
+    "display_text_range": [
+      12,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T22:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093447654265299453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1798319428360433664",
+          "start": 0,
+          "username": "Lensicaste"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093447654265299453",
+    "in_reply_to_user_id": "1798319428360433664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093320903040127167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lensicaste 芙兰不会这样想哦，你只是没遇到合适的人，相信自己可以的啦。\n加加油，你可以拥有的啦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2093320722215207335",
+        "created_at": "2026-08-28T21:16:29.000Z",
+        "display_text_range": [
+          12,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T22:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093447654265299453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1798319428360433664",
+              "start": 0,
+              "username": "Lensicaste"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093447654265299453",
+        "in_reply_to_user_id": "1798319428360433664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093320903040127167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lensicaste 芙兰不会这样想哦，你只是没遇到合适的人，相信自己可以的啦。\n加加油，你可以拥有的啦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798319428360433664",
+        "conversation_id": "2093320722215207335",
+        "created_at": "2026-08-28T12:52:49.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093320903040127167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093320903040127167",
+        "in_reply_to_user_id": "1798319428360433664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093320722215207335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家總是希望自己的伴侶、自己愛的人、愛自己的人，是漂亮的好看的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2093447654265299453",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 12,
+          "like_count": 1911,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 845
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-05T11:43:10.000Z",
+        "description": "想喫黃桃罐頭",
+        "id": "1798319428360433664",
+        "is_identity_verified": false,
+        "location": "Tentsuno",
+        "most_recent_tweet_id": "2093320903040127167",
+        "name": "璃霜Areyoco",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798319428360433664/1717588819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798320338142736384/txuPsrCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 95,
+          "like_count": 2,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 394
+        },
+        "url": "",
+        "username": "Lensicaste",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

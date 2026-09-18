@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2098100064858378464",
+    "created_at": "2026-09-11T08:48:27.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T09:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098332833689501846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677270742705270784",
+          "start": 0,
+          "username": "GEACPS1940629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098332833689501846",
+    "in_reply_to_user_id": "1677270742705270784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098100064858378464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GEACPS1940629 还好喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2098100055345647616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3y4lYa0AA9KfX.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2098100064858378464",
+        "created_at": "2026-09-11T08:48:27.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098332833689501846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677270742705270784",
+              "start": 0,
+              "username": "GEACPS1940629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098332833689501846",
+        "in_reply_to_user_id": "1677270742705270784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098100064858378464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GEACPS1940629 还好喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098100055345647616"
+          ]
+        },
+        "author_id": "1677270742705270784",
+        "conversation_id": "2098100064858378464",
+        "created_at": "2026-09-10T17:23:30.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098100064858378464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9kfv93umHN",
+              "end": 49,
+              "expanded_url": "https://x.com/GEACPS1940629/status/2098100064858378464/photo/1",
+              "media_key": "3_2098100055345647616",
+              "start": 26,
+              "url": "https://t.co/9kfv93umHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098100064858378464",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098100055345647616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安，你喜歡在一些奇怪的地方塗鴉嗎，比如在炮彈上🥰 https://t.co/9kfv93umHN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2098332833689501846",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 29,
+          "like_count": 3725,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 2083
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-07T10:58:18.000Z",
+        "description": "@撐雨傘的湯普尼🇺🇸🇪🇺🇺🇦 的小號丨不談政治，鍵政人請遠離｜心理狀態很糟糕，想讓人安慰，Telegram的鏈接就放在這了，和我聊聊天吧🥺\n\n小號：@TenpennyL62429\n\n提問箱：https://t.co/zN1fnV0uNx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "TenpennyL62429"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny2",
+                "end": 118,
+                "expanded_url": "https://ngl.link/mr.tenpenny2",
+                "start": 95,
+                "url": "https://t.co/zN1fnV0uNx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://telegram.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/qNSceYpy5B"
+              }
+            ]
+          }
+        },
+        "id": "1677270742705270784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098295948539781588",
+        "name": "Mr.湯普尼▐┛",
+        "pinned_tweet_id": "1954982607738847246",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677270742705270784/1737476278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003522899798269952/v4chWipq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 6813,
+          "like_count": 109633,
+          "listed_count": 3,
+          "media_count": 4474,
+          "tweet_count": 12256
+        },
+        "url": "https://t.co/qNSceYpy5B",
+        "username": "GEACPS1940629",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

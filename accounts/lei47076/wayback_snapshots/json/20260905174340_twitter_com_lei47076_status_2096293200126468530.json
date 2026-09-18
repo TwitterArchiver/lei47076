@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096283377834070252",
+    "created_at": "2026-09-05T17:43:40.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T18:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096293200126468530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2089299881433448448",
+          "start": 0,
+          "username": "tingzi_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096293200126468530",
+    "in_reply_to_user_id": "2089299881433448448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096283377834070252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingzi_love 晚安安啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096283377834070252",
+        "created_at": "2026-09-05T17:43:40.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096293200126468530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2089299881433448448",
+              "start": 0,
+              "username": "tingzi_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096293200126468530",
+        "in_reply_to_user_id": "2089299881433448448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096283377834070252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingzi_love 晚安安啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089299881433448448",
+        "conversation_id": "2096283377834070252",
+        "created_at": "2026-09-05T17:04:38.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096283377834070252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096283377834070252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一点了，不熄灯，彻夜通明，但还是该晚安了\nGood night，the world"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096293200126468530",
+        "name": "斯卡雷特-芙兰朵露",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 17,
+          "like_count": 2792,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1298
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T10:35:55.000Z",
+        "description": "我爱我遇见的每个人\nhttps://t.co/USUYiZ7VbZ\n嗯，我是小町子，听起来像女生的名字，不过戏访嘛别在意\n林檎被自欺欺人者气走了，但我还在，生活依旧\n我想回来",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qinlin52771",
+                "end": 33,
+                "expanded_url": "https://ngl.link/qinlin52771",
+                "start": 10,
+                "url": "https://t.co/USUYiZ7VbZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "不想做这个可以放pbl页面设计吗.com",
+                "end": 23,
+                "expanded_url": "http://xn--pbl-628d7es0ct4ew3koka601is4jm89i0kag40c6q1ay0d.com",
+                "start": 0,
+                "url": "https://t.co/w4d1vcFtPw"
+              }
+            ]
+          }
+        },
+        "id": "2089299881433448448",
+        "is_identity_verified": false,
+        "location": "某店前台打瞌睡，被迫看店，有小蛋糕趁我睡着放桌上谢谢",
+        "most_recent_tweet_id": "2096283377834070252",
+        "name": "林檎k",
+        "pinned_tweet_id": "2089376990805778819",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089299881433448448/1788595627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096152007619014656/zmYAyND4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 44,
+          "like_count": 1179,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/w4d1vcFtPw",
+        "username": "tingzi_love",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

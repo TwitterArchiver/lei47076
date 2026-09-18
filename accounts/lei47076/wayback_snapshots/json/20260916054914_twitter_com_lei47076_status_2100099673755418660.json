@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100099660866273280",
+        "3_2100099667619151872"
+      ]
+    },
+    "author_id": "2020175811878481922",
+    "conversation_id": "2100099673755418660",
+    "created_at": "2026-09-16T05:49:14.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T06:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100099673755418660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3tDnbcZW1p",
+          "end": 66,
+          "expanded_url": "https://x.com/lei47076/status/2100099673755418660/photo/1",
+          "media_key": "3_2100099660866273280",
+          "start": 43,
+          "url": "https://t.co/3tDnbcZW1p"
+        },
+        {
+          "display_url": "pic.x.com/3tDnbcZW1p",
+          "end": 66,
+          "expanded_url": "https://x.com/lei47076/status/2100099673755418660/photo/1",
+          "media_key": "3_2100099667619151872",
+          "start": 43,
+          "url": "https://t.co/3tDnbcZW1p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100099673755418660",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100099660866273280"
+      },
+      {
+        "media_key": "3_2100099667619151872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近一般不怎么在线了，芙兰要去捣鼓自己的小软件了，大概长这样，感兴趣的等我好消息哦～ https://t.co/3tDnbcZW1p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2100099660866273280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUNg8baQAAsbMK.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2100099667619151872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUNhVlbAAAKZB3.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100099660866273280",
+            "3_2100099667619151872"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "conversation_id": "2100099673755418660",
+        "created_at": "2026-09-16T05:49:14.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T06:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100099673755418660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3tDnbcZW1p",
+              "end": 66,
+              "expanded_url": "https://x.com/lei47076/status/2100099673755418660/photo/1",
+              "media_key": "3_2100099660866273280",
+              "start": 43,
+              "url": "https://t.co/3tDnbcZW1p"
+            },
+            {
+              "display_url": "pic.x.com/3tDnbcZW1p",
+              "end": 66,
+              "expanded_url": "https://x.com/lei47076/status/2100099673755418660/photo/1",
+              "media_key": "3_2100099667619151872",
+              "start": 43,
+              "url": "https://t.co/3tDnbcZW1p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100099673755418660",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100099660866273280"
+          },
+          {
+            "media_key": "3_2100099667619151872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近一般不怎么在线了，芙兰要去捣鼓自己的小软件了，大概长这样，感兴趣的等我好消息哦～ https://t.co/3tDnbcZW1p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2100099673755418660",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2099115813945172238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 32,
+          "like_count": 4258,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2640
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

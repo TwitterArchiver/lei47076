@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096602756005978143",
+    "created_at": "2026-09-09T13:14:06.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T14:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097674910089048254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1731824568065732608",
+          "start": 0,
+          "username": "GREAT1076348"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097674910089048254",
+    "in_reply_to_user_id": "1731824568065732608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097654584156246197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GREAT1076348 （喵喵喵）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096602756005978143",
+        "created_at": "2026-09-09T13:14:06.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097674910089048254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1731824568065732608",
+              "start": 0,
+              "username": "GREAT1076348"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097674910089048254",
+        "in_reply_to_user_id": "1731824568065732608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097654584156246197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GREAT1076348 （喵喵喵）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731824568065732608",
+        "conversation_id": "2096602756005978143",
+        "created_at": "2026-09-09T11:53:20.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097654584156246197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097654584156246197",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097643448522133921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 （咪咪咪）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097674910089048254",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 21,
+          "like_count": 3322,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 1749
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-04T23:55:36.000Z",
+        "description": "一枝狗尾巴花｜mtx|海产|向南|画画练习|焦虑｜地不缚灵|欢迎私信｜家里人@mihuanhuanhuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "mihuanhuanhuan"
+              }
+            ]
+          }
+        },
+        "id": "1731824568065732608",
+        "is_identity_verified": false,
+        "location": "白日团圆",
+        "most_recent_tweet_id": "2097654584156246197",
+        "name": "黑塔🍥",
+        "pinned_tweet_id": "2064448166502752720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1731824568065732608/1786818332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052481591465906176/UxPpMGze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 562,
+          "like_count": 1120,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "GREAT1076348",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

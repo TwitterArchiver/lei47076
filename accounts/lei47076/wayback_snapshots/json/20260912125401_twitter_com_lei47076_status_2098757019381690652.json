@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2098757019381690652",
+    "created_at": "2026-09-12T12:54:01.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T13:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098757019381690652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lei47076/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/lei47076/status/2096818480675004641",
+          "start": 36,
+          "url": "https://t.co/dY2QXBcyhg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098757019381690652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096818480675004641",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "芙兰的理念再次受到考验...\n\n               『坚定』 https://t.co/dY2QXBcyhg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2098757019381690652",
+        "created_at": "2026-09-12T12:54:01.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098757019381690652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lei47076/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/lei47076/status/2096818480675004641",
+              "start": 36,
+              "url": "https://t.co/dY2QXBcyhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098757019381690652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096818480675004641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "芙兰的理念再次受到考验...\n\n               『坚定』 https://t.co/dY2QXBcyhg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096818480675004641",
+        "created_at": "2026-09-07T04:30:57.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096818480675004641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096818480675004641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "芙兰的理念正在受到考验..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2098757019381690652",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 32,
+          "like_count": 3934,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2314
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

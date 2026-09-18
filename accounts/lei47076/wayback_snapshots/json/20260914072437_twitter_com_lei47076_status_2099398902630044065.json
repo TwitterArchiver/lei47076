@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2099139375003287680",
+    "created_at": "2026-09-14T07:24:37.000Z",
+    "display_text_range": [
+      12,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T08:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099398902630044065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1361516790040330241",
+          "start": 0,
+          "username": "wuwuwuwu_u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099398902630044065",
+    "in_reply_to_user_id": "1361516790040330241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099139375003287680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuwuwuwu_u （抱紧）\n撑不住就靠着芙兰睡一觉吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2099139375003287680",
+        "created_at": "2026-09-14T07:24:37.000Z",
+        "display_text_range": [
+          12,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T08:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099398902630044065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1361516790040330241",
+              "start": 0,
+              "username": "wuwuwuwu_u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099398902630044065",
+        "in_reply_to_user_id": "1361516790040330241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099139375003287680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuwuwuwu_u （抱紧）\n撑不住就靠着芙兰睡一觉吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361516790040330241",
+        "conversation_id": "2099139375003287680",
+        "created_at": "2026-09-13T14:13:21.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099139375003287680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099139375003287680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发病又来了，我好痛苦，想死😖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2099398902630044065",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2099115813945172238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 34,
+          "like_count": 4136,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2512
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-16T03:24:43.000Z",
+        "description": "没想到用什么作为我的简介",
+        "id": "1361516790040330241",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099362970996539863",
+        "name": "呜呜呜🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2050017999202246994",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1361516790040330241/1788426406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901760221296619521/AUFLZMIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 489,
+          "like_count": 1584,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 561
+        },
+        "url": "",
+        "username": "wuwuwuwu_u",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

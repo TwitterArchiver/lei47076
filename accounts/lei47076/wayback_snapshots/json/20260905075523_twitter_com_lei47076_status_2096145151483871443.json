@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2095911527069163887",
+    "created_at": "2026-09-05T07:55:23.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T08:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096145151483871443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1856374549736239106",
+          "start": 0,
+          "username": "xunxiaoxiao81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096145151483871443",
+    "in_reply_to_user_id": "1856374549736239106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095911527069163887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xunxiaoxiao81 拍拍你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2095911527069163887",
+        "created_at": "2026-09-05T07:55:23.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096145151483871443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1856374549736239106",
+              "start": 0,
+              "username": "xunxiaoxiao81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096145151483871443",
+        "in_reply_to_user_id": "1856374549736239106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095911527069163887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xunxiaoxiao81 拍拍你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856374549736239106",
+        "conversation_id": "2095911527069163887",
+        "created_at": "2026-09-04T16:27:02.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T17:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095911527069163887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095911527069163887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就知道我根本撑不了一周。我又爆炸了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096145151483871443",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 16,
+          "like_count": 2741,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1262
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-12T16:33:08.000Z",
+        "description": "MtF/X  墙内熟人太多，推上发电专用（）/欢迎互fo，我爱大家/一辈子最爱最爱的好妹妹：@Lim_Rain_Bow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "Lim_Rain_Bow"
+              }
+            ]
+          }
+        },
+        "id": "1856374549736239106",
+        "is_identity_verified": false,
+        "location": "Shinjuku-ku, Tokyo",
+        "most_recent_tweet_id": "2095913197215863098",
+        "name": "寻小小🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059265211140628480/H5bnzVuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 53,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "xunxiaoxiao81",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097209855354482747",
+    "created_at": "2026-09-08T08:36:11.000Z",
+    "display_text_range": [
+      10,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T09:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097242582522957857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1819295775673012225",
+          "start": 0,
+          "username": "ackuapel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097242582522957857",
+    "in_reply_to_user_id": "1819295775673012225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097209855354482747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ackuapel 哇！好可爱，好漂亮诶！\n体重没事的啦～芙兰觉得你很好看呢，拍拍你。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3967,
+        "media_key": "3_2097209502869438464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrI7m4bQAAV0Uh.jpg",
+        "width": 1898
+      },
+      {
+        "height": 3565,
+        "media_key": "3_2097209502999379968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrI7nXaAAAEf-F.jpg",
+        "width": 1679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097209855354482747",
+        "created_at": "2026-09-08T08:36:11.000Z",
+        "display_text_range": [
+          10,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097242582522957857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1819295775673012225",
+              "start": 0,
+              "username": "ackuapel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097242582522957857",
+        "in_reply_to_user_id": "1819295775673012225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097209855354482747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ackuapel 哇！好可爱，好漂亮诶！\n体重没事的啦～芙兰觉得你很好看呢，拍拍你。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097209502869438464",
+            "3_2097209502999379968"
+          ]
+        },
+        "author_id": "1819295775673012225",
+        "conversation_id": "2097209855354482747",
+        "created_at": "2026-09-08T06:26:08.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097209855354482747"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "Kazusa"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "杏山和纱"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "碧蓝档案"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "男娘"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "伪娘"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "女装子"
+            },
+            {
+              "end": 66,
+              "start": 51,
+              "tag": "cosplayㅤㅤㅤㅤㅤㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9DnvFe4LJ",
+              "end": 90,
+              "expanded_url": "https://x.com/ackuapel/status/2097209855354482747/photo/1",
+              "media_key": "3_2097209502869438464",
+              "start": 67,
+              "url": "https://t.co/b9DnvFe4LJ"
+            },
+            {
+              "display_url": "pic.x.com/b9DnvFe4LJ",
+              "end": 90,
+              "expanded_url": "https://x.com/ackuapel/status/2097209855354482747/photo/1",
+              "media_key": "3_2097209502999379968",
+              "start": 67,
+              "url": "https://t.co/b9DnvFe4LJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097209855354482747",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097209502869438464"
+          },
+          {
+            "media_key": "3_2097209502999379968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 484,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识 这只大肥猫有足足150斤。\n#Kazusa #杏山和纱 #碧蓝档案 #男娘 #伪娘 #女装子 #cosplayㅤㅤㅤㅤㅤㅤㅤ https://t.co/b9DnvFe4LJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097242582522957857",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 20,
+          "like_count": 3110,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1571
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-02T08:55:00.000Z",
+        "description": "原汁原味男娘一枚 常驻029 超级e人 不定期涩涩\n私信开放喵 欢迎来找推主聊天喵",
+        "id": "1819295775673012225",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097209855354482747",
+        "name": "阿夸佩洛不是社畜",
+        "pinned_tweet_id": "1907716302510399709",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819295775673012225/1724060962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882129728347549696/o7B0kc8L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 340,
+          "like_count": 1209,
+          "listed_count": 6,
+          "media_count": 50,
+          "tweet_count": 206
+        },
+        "url": "",
+        "username": "ackuapel",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

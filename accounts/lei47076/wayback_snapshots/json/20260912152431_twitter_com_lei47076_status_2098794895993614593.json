@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2098793293194903985",
+    "created_at": "2026-09-12T15:24:31.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098794895993614593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559445629004300290",
+          "start": 0,
+          "username": "nomi9724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098794895993614593",
+    "in_reply_to_user_id": "1559445629004300290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098793293194903985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nomi9724 拍拍你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2098793293194903985",
+        "created_at": "2026-09-12T15:24:31.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098794895993614593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559445629004300290",
+              "start": 0,
+              "username": "nomi9724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098794895993614593",
+        "in_reply_to_user_id": "1559445629004300290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098793293194903985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomi9724 拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559445629004300290",
+        "conversation_id": "2098793293194903985",
+        "created_at": "2026-09-12T15:18:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098793293194903985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nomi9724/statu…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/nomi9724/status/2098790487507566889",
+              "start": 141,
+              "url": "https://t.co/3aSOL9lY7b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098793293194903985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098790487507566889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的大部分烦恼可以和他们说，可以彼此开玩笑，他们担心我缺少爱好、缺钱…他们希望我好好发展。能有这样的父母是非常幸运的。不过，我曾隐晦地谈及跨性别的话题，他们都感到完全无法承受…我完全没有理由说这有问题，站在他们所处的环境上，他们已经做到为人父母的最好了。我不想伤害他们…(2/2) https://t.co/3aSOL9lY7b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2098794895993614593",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 32,
+          "like_count": 3952,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2332
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-16T07:43:26.000Z",
+        "description": "05年生/任意代词/自恨顺男/计划当顺男活一辈子/希望自己是mtf/疑似AuDHD/INFJ/不墙内不线下/碎片化n手哲学受众/畏惧自己命运之人/擅长妥协拖延和逃避/\n\n天堂必须是倒置的\n即使身处夹缝之中，也有资格获得位置与幸福，也必须获得位置与幸福\n\n匿名信箱：https://t.co/sjR6C4qPyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nomi9742",
+                "end": 155,
+                "expanded_url": "https://ngl.link/nomi9742",
+                "start": 132,
+                "url": "https://t.co/sjR6C4qPyb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/wrSlQRG6DK"
+              }
+            ]
+          }
+        },
+        "id": "1559445629004300290",
+        "is_identity_verified": false,
+        "location": "墙内",
+        "most_recent_tweet_id": "2098793293194903985",
+        "name": "Nomi9724🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096667984488255488/Y2xe4aJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 221,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 82
+        },
+        "url": "https://t.co/wrSlQRG6DK",
+        "username": "nomi9724",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

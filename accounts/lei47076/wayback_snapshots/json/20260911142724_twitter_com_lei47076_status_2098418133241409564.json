@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098418123829616640"
+      ]
+    },
+    "author_id": "2020175811878481922",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098418133241409564",
+    "created_at": "2026-09-11T14:27:24.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T15:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098418133241409564"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P8XYOmOvvQ",
+          "end": 138,
+          "expanded_url": "https://x.com/lei47076/status/2098418133241409564/photo/1",
+          "media_key": "3_2098418123829616640",
+          "start": 115,
+          "url": "https://t.co/P8XYOmOvvQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098418133241409564",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098418123829616640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "芙兰会想重新建立秩序，我们人类不是野兽，我们有人类独属的「文明」。\n如果没有文明与秩序，那么我们与野兽有什么区别？没有。\n只要人类还存在，文明与秩序是必然的。\n人类不需要暴力与发泄，人类需要的是成长与前进，我们的目标是星辰大海。 https://t.co/P8XYOmOvvQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2098418123829616640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8UKm0bIAAmx23.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098418123829616640"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098418133241409564",
+        "created_at": "2026-09-11T14:27:24.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098418133241409564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8XYOmOvvQ",
+              "end": 138,
+              "expanded_url": "https://x.com/lei47076/status/2098418133241409564/photo/1",
+              "media_key": "3_2098418123829616640",
+              "start": 115,
+              "url": "https://t.co/P8XYOmOvvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098418133241409564",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098418123829616640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "芙兰会想重新建立秩序，我们人类不是野兽，我们有人类独属的「文明」。\n如果没有文明与秩序，那么我们与野兽有什么区别？没有。\n只要人类还存在，文明与秩序是必然的。\n人类不需要暴力与发泄，人类需要的是成长与前进，我们的目标是星辰大海。 https://t.co/P8XYOmOvvQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2098418133241409564",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 29,
+          "like_count": 3764,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 2127
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

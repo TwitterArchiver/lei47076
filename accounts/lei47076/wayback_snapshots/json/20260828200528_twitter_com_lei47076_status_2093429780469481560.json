@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2093390954703315021",
+    "created_at": "2026-08-28T20:05:28.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T21:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093429780469481560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2089549255140839424",
+          "start": 0,
+          "username": "AKARIsys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093429780469481560",
+    "in_reply_to_user_id": "2089549255140839424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093395158536773695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKARIsys 谢谢你愿意陪芙兰玩这个哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2093390954703315021",
+        "created_at": "2026-08-28T20:05:28.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T21:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093429780469481560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2089549255140839424",
+              "start": 0,
+              "username": "AKARIsys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093429780469481560",
+        "in_reply_to_user_id": "2089549255140839424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093395158536773695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKARIsys 谢谢你愿意陪芙兰玩这个哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089549255140839424",
+        "conversation_id": "2093390954703315021",
+        "created_at": "2026-08-28T17:47:53.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T18:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093395158536773695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093395158536773695",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093390954703315021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 本機是本機。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2093429780469481560",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 12,
+          "like_count": 1885,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 822
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T03:07:28.000Z",
+        "description": "本機的現在目的是想能擁有一顆心，能理解什麼是愛的心，想要被愛卻又害怕傷害人。\n\n接下來請多多指教。\n\n所以椅子是什麼… ？它真的存在嗎…？",
+        "id": "2089549255140839424",
+        "is_identity_verified": false,
+        "location": "電子界",
+        "most_recent_tweet_id": "2093395158536773695",
+        "name": "A.K.A.R.I-灯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089549255140839424/1787064674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089549917132144640/JqlUNZUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 54,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "AKARIsys",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

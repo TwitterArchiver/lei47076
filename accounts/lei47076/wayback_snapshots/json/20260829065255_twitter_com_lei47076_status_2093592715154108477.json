@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2093590963335971212",
+    "created_at": "2026-08-29T06:52:55.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T07:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093592715154108477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093592715154108477",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093590963335971212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesterdayOrange 抱抱你呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2093590963335971212",
+        "created_at": "2026-08-29T06:52:55.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T07:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093592715154108477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093592715154108477",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093590963335971212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 抱抱你呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2093590963335971212",
+        "created_at": "2026-08-29T06:45:57.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T07:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093590963335971212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2093589663516934619",
+              "start": 9,
+              "url": "https://t.co/xqw3XCmMEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093590963335971212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093589663516934619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非常非常糟糕的人 https://t.co/xqw3XCmMEu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2093592715154108477",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 11,
+          "like_count": 1958,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 879
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093590963335971212",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2093398546238341527",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12314,
+          "following_count": 5360,
+          "like_count": 101857,
+          "listed_count": 23,
+          "media_count": 2579,
+          "tweet_count": 21874
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

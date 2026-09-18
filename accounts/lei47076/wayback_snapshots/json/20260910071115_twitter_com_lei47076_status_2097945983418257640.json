@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097883370898530448",
+    "created_at": "2026-09-10T07:11:15.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097945983418257640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863821756932472832",
+          "start": 0,
+          "username": "shuo_zi27516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097945983418257640",
+    "in_reply_to_user_id": "1863821756932472832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097883370898530448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuo_zi27516 拍拍你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3076,
+        "media_key": "3_2097883274551111680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0tuR_aMAAsLsD.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2250,
+        "media_key": "3_2097883349713059840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0typ_agAAteMe.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097883370898530448",
+        "created_at": "2026-09-10T07:11:15.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097945983418257640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863821756932472832",
+              "start": 0,
+              "username": "shuo_zi27516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097945983418257640",
+        "in_reply_to_user_id": "1863821756932472832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097883370898530448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuo_zi27516 拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097883274551111680",
+            "3_2097883349713059840"
+          ]
+        },
+        "author_id": "1863821756932472832",
+        "conversation_id": "2097883370898530448",
+        "created_at": "2026-09-10T03:02:27.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T04:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097883370898530448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q1M2HAWzbC",
+              "end": 28,
+              "expanded_url": "https://x.com/shuo_zi27516/status/2097883370898530448/photo/1",
+              "media_key": "3_2097883274551111680",
+              "start": 5,
+              "url": "https://t.co/q1M2HAWzbC"
+            },
+            {
+              "display_url": "pic.x.com/q1M2HAWzbC",
+              "end": 28,
+              "expanded_url": "https://x.com/shuo_zi27516/status/2097883370898530448/photo/1",
+              "media_key": "3_2097883349713059840",
+              "start": 5,
+              "url": "https://t.co/q1M2HAWzbC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097883370898530448",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097883274551111680"
+          },
+          {
+            "media_key": "3_2097883349713059840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌夜班 https://t.co/q1M2HAWzbC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097945995007193172",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 23,
+          "like_count": 3492,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1892
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-03T05:45:42.000Z",
+        "description": "",
+        "id": "1863821756932472832",
+        "is_identity_verified": false,
+        "location": "无锡",
+        "most_recent_tweet_id": "2097887779514617911",
+        "name": "宫笙 🏳‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863821756932472832/1733721823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037233533962645504/5JsW2QOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 434,
+          "like_count": 72,
+          "listed_count": 6,
+          "media_count": 41,
+          "tweet_count": 1133
+        },
+        "url": "",
+        "username": "shuo_zi27516",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

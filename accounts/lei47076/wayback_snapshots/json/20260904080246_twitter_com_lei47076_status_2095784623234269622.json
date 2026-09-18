@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2095782100972765404",
+    "created_at": "2026-09-04T08:02:46.000Z",
+    "display_text_range": [
+      11,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T09:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095784623234269622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1755853048277331968",
+          "start": 0,
+          "username": "miaodeisu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095784623234269622",
+    "in_reply_to_user_id": "1755853048277331968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095782106425381001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaodeisu 芙兰也是会切断联系，能理解你哦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2095782100972765404",
+        "created_at": "2026-09-04T08:02:46.000Z",
+        "display_text_range": [
+          11,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095784623234269622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1755853048277331968",
+              "start": 0,
+              "username": "miaodeisu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095784623234269622",
+        "in_reply_to_user_id": "1755853048277331968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095782106425381001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaodeisu 芙兰也是会切断联系，能理解你哦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755853048277331968",
+        "conversation_id": "2095782100972765404",
+        "created_at": "2026-09-04T07:52:46.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095782106425381001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095782106425381001",
+        "in_reply_to_user_id": "1755853048277331968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095782100972765404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对过去的一切是逃避的，每到一个新阶段我会对过去那个阶段的所有人断开联系，我也不知道为什么我会这样（xd但是我也没那么讨厌自己这样，因为我的精力很有限维持不了那么多的本质无所谓的关系，我只需要认真维系好我真正在乎的朋友就好了( ´▽｀)一些同学或者上阶段的人以后或许一辈子都不会有交集了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2095784623234269622",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 16,
+          "like_count": 2578,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1150
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-09T07:16:20.000Z",
+        "description": "(｡･ω･｡)互fo请私信｜不喜欢闲聊非必要请不要私信我\n請不要注意我的垃圾｜⬇️提问箱｜想认识有趣的朋友讨论有趣的话题( ´▽｀)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iceee_r_kkeca",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iceee_r_kkeca",
+                "start": 0,
+                "url": "https://t.co/f2NVo3yXfq"
+              }
+            ]
+          }
+        },
+        "id": "1755853048277331968",
+        "is_identity_verified": false,
+        "location": "天國",
+        "most_recent_tweet_id": "2095782718261047718",
+        "name": "だんだん食べる",
+        "pinned_tweet_id": "2093762741861487078",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755853048277331968/1788331110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095036290354102272/xer_x6QC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 126,
+          "like_count": 1912,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1141
+        },
+        "url": "https://t.co/f2NVo3yXfq",
+        "username": "miaodeisu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

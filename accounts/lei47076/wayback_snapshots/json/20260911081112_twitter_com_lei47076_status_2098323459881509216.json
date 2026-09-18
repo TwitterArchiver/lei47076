@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2098320352204173412",
+    "created_at": "2026-09-11T08:11:12.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T09:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098323459881509216"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2098323459881509216",
+    "in_reply_to_user_id": "2020175811878481922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098320352204173412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太多的温暖，\n驱赶开我生来就携带的阴郁和黑暗。\n谢谢你们。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2098320344671297536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR67PHEboAAFzoA.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2098320352204173412",
+        "created_at": "2026-09-11T08:11:12.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098323459881509216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098323459881509216",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098320352204173412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太多的温暖，\n驱赶开我生来就携带的阴郁和黑暗。\n谢谢你们。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098320344671297536"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "conversation_id": "2098320352204173412",
+        "created_at": "2026-09-11T07:58:51.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T08:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098320352204173412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ME6S9V1qrM",
+              "end": 165,
+              "expanded_url": "https://x.com/lei47076/status/2098320352204173412/photo/1",
+              "media_key": "3_2098320344671297536",
+              "start": 142,
+              "url": "https://t.co/ME6S9V1qrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098320352204173412",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098320344671297536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚开始来到这里的时候，芙兰并没有想过会有这么多人看着我。\n芙兰只是随便说些话，分享喜欢的东西，和遇见的人聊聊天，把一些当下的想法留在这里。\n有些东西很快就忘了，有些东西却意外地留下来。\n时间一点一点流逝，不知不觉中就有 100 个人愿意看着芙兰了。\n 谢谢大家，芙兰喜欢你们所有人。 https://t.co/ME6S9V1qrM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2098323459881509216",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 29,
+          "like_count": 3720,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 2078
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

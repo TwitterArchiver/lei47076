@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2099580447340859703",
+    "created_at": "2026-09-15T05:57:51.000Z",
+    "display_text_range": [
+      16,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T06:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099739452419744140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2098257724895350784",
+          "start": 0,
+          "username": "ice_cakiiiirkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099739452419744140",
+    "in_reply_to_user_id": "2098257724895350784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099580447340859703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ice_cakiiiirkk 快速推进也好，慢慢熟悉也罢，我觉得开心就好，随心所欲就好咯。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2099580447340859703].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2099580447340859703",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2099580447340859703"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2099580447340859703",
+        "created_at": "2026-09-15T05:57:51.000Z",
+        "display_text_range": [
+          16,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099739452419744140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2098257724895350784",
+              "start": 0,
+              "username": "ice_cakiiiirkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099739452419744140",
+        "in_reply_to_user_id": "2098257724895350784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099580447340859703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ice_cakiiiirkk 快速推进也好，慢慢熟悉也罢，我觉得开心就好，随心所欲就好咯。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2099739452419744140",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2099115813945172238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 34,
+          "like_count": 4206,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2585
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-11T03:51:26.000Z",
+        "description": "不知道是誰在使用的賬號",
+        "id": "2098257724895350784",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2098291716919119931",
+        "name": "憂鬱な日々を抜け出して",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098257724895350784/1789281484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098258341206327296/jvpipGuO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 12,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "ice_cakiiiirkk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

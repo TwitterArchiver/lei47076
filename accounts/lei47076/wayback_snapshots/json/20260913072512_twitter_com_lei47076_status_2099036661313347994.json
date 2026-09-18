@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2099006725349384275",
+    "created_at": "2026-09-13T07:25:12.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T08:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099036661313347994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942111360420290561",
+          "start": 0,
+          "username": "credits18118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099036661313347994",
+    "in_reply_to_user_id": "1942111360420290561",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099006725349384275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@credits18118 （抱紧）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2099006725349384275",
+        "created_at": "2026-09-13T07:25:12.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099036661313347994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942111360420290561",
+              "start": 0,
+              "username": "credits18118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099036661313347994",
+        "in_reply_to_user_id": "1942111360420290561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099006725349384275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@credits18118 （抱紧）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942111360420290561",
+        "conversation_id": "2099006725349384275",
+        "created_at": "2026-09-13T05:26:15.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T06:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099006725349384275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099006725349384275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "更新状态。感觉从躁期回到郁期了，眼睛有点睁不开了，越来越困。而且感觉不热了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2099036661313347994",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 32,
+          "like_count": 4002,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2376
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T06:40:56.000Z",
+        "description": "10年高中在读丨INFP-T丨重抑中焦+双相二型治疗中丨不🚬/🍺/🔪/od/键政丨音游重度依赖丨指派性别男，性别认同探索中(或许是非二元偏女?丨萨福式取向丨人称代词所有都可丨可互fo看成分回关丨很内向但渴望能找到朋友 请私信找我聊天！",
+        "id": "1942111360420290561",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099029251995623709",
+        "name": "Phony",
+        "pinned_tweet_id": "2097107549623570562",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091115941690318848/bHlDpJb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 623,
+          "like_count": 4278,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 1092
+        },
+        "url": "",
+        "username": "credits18118",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

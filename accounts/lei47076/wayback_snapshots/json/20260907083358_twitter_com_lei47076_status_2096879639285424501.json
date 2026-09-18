@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096863666176163997",
+    "created_at": "2026-09-07T08:33:58.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T09:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096879639285424501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035898194366963712",
+          "start": 0,
+          "username": "ApplerinQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096879639285424501",
+    "in_reply_to_user_id": "2035898194366963712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096863666176163997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ApplerinQAQ 加油加油！芙兰支持你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096863666176163997",
+        "created_at": "2026-09-07T08:33:58.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096879639285424501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035898194366963712",
+              "start": 0,
+              "username": "ApplerinQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096879639285424501",
+        "in_reply_to_user_id": "2035898194366963712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096863666176163997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ApplerinQAQ 加油加油！芙兰支持你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035898194366963712",
+        "conversation_id": "2096863666176163997",
+        "created_at": "2026-09-07T07:30:30.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096863666176163997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096863666176163997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在搞新的赤石科技....嗯虽然是在人机恋圈子被玩烂了的东西，但我发现Pi用户们还没吃过这个屎！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜\n｜泛性恋｜无性别｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096879639285424501",
+        "name": "斯卡雷特-芙兰朵露",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 18,
+          "like_count": 2927,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1411
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T01:55:45.000Z",
+        "description": "Maybe I just want to fly. Wanna live I don't want to die. / ENTP-T / Maybe She or Her or u like ~ / 2005 / Monitoring AI💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "JustKidding-ovo.link",
+                "end": 23,
+                "expanded_url": "https://JustKidding-ovo.link",
+                "start": 0,
+                "url": "https://t.co/J3LiQmTMdI"
+              }
+            ]
+          }
+        },
+        "id": "2035898194366963712",
+        "is_identity_verified": false,
+        "location": "With MEEP",
+        "most_recent_tweet_id": "2096870286369165333",
+        "name": "Applerin🍎",
+        "pinned_tweet_id": "2062625488179466351",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035898194366963712/1780554317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062421450980737024/aeV3XcSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 142,
+          "like_count": 1216,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 778
+        },
+        "url": "https://t.co/J3LiQmTMdI",
+        "username": "ApplerinQAQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

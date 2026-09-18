@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2098704924565758342",
+    "created_at": "2026-09-12T09:57:07.000Z",
+    "display_text_range": [
+      11,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T10:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098712501559111901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2093327934673326080",
+          "start": 0,
+          "username": "Shioalati"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098712501559111901",
+    "in_reply_to_user_id": "2093327934673326080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098704924565758342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioalati 管他呢，玩的开心就好咯。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2098704924565758342",
+        "created_at": "2026-09-12T09:57:07.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098712501559111901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2093327934673326080",
+              "start": 0,
+              "username": "Shioalati"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098712501559111901",
+        "in_reply_to_user_id": "2093327934673326080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098704924565758342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioalati 管他呢，玩的开心就好咯。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093327934673326080",
+        "conversation_id": "2098704924565758342",
+        "created_at": "2026-09-12T09:27:00.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098704924565758342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098704924565758342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自律为何物，怎么做到自律？\n昨天刷了一整夜的手机，睡不着🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2098712501559111901",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 32,
+          "like_count": 3899,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2264
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T13:22:29.000Z",
+        "description": "🏳️‍🌈 🐱Nyan-binary|高二生|友跨非跨非顺直|焦虑症|C、Golang|🧊是盐粒不是冰块|🍥只是放个鱼板|欢迎互fo|🪷犹如莲花不着水，亦如日月不住空🌙",
+        "id": "2093327934673326080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098704924565758342",
+        "name": "海盐alati🧊",
+        "pinned_tweet_id": "2097731700801585516",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093327934673326080/1787923768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096687507316654080/JtuhRwl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 17,
+          "like_count": 801,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "Shioalati",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

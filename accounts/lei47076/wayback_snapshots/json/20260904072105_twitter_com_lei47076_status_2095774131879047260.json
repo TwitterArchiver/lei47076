@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2095721406046851081",
+    "created_at": "2026-09-04T07:21:05.000Z",
+    "display_text_range": [
+      17,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T08:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095774131879047260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "iityann19462957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095774131879047260",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095721406046851081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iityann19462957 很厉害诶！\n棒棒哒～\n加油哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2095721406046851081",
+        "created_at": "2026-09-04T07:21:05.000Z",
+        "display_text_range": [
+          17,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095774131879047260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "iityann19462957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095774131879047260",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095721406046851081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iityann19462957 很厉害诶！\n棒棒哒～\n加油哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035668415231492096",
+        "conversation_id": "2095721406046851081",
+        "created_at": "2026-09-04T03:51:34.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T04:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095721406046851081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095721406046851081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 413,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日體重減到惹138斤喵🐱🍥🏳️‍⚧️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2095774131879047260",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 16,
+          "like_count": 2573,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1149
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "一隻路過且無人愛的一醬喵😭🥹\n情感碎碎念\n無助\n需要被愛\n黃推一醬（？）\n接圓角喵\n負面情緒注意⚠️\n中焦重抑\n隨時亖亡（？）\n#NSFW原創\n官方：@mapo_q\n最好的閨蜜：@sukimiku0831\n最愛的妹妹：@Yuki_Mo_77",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 64,
+                "tag": "NSFW原創"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "mapo_q"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "sukimiku0831"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "Yuki_Mo_77"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "is_identity_verified": false,
+        "location": "機廳/音樂排練室",
+        "most_recent_tweet_id": "2095771933015216387",
+        "name": "不會打Maimai DX的いいちゃん😾😿",
+        "pinned_tweet_id": "2092284675264008645",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035668415231492096/1787386838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 1007,
+          "like_count": 4801,
+          "listed_count": 4,
+          "media_count": 234,
+          "tweet_count": 4722
+        },
+        "url": "",
+        "username": "iityann19462957",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

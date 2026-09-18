@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2094219570043314189",
+    "created_at": "2026-08-31T06:43:47.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T07:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094315195224965495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1462008003759161344",
+          "start": 0,
+          "username": "chord244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094315195224965495",
+    "in_reply_to_user_id": "1462008003759161344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094219570043314189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chord244 敲敲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2094219570043314189",
+        "created_at": "2026-08-31T06:43:47.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T07:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094315195224965495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1462008003759161344",
+              "start": 0,
+              "username": "chord244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094315195224965495",
+        "in_reply_to_user_id": "1462008003759161344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094219570043314189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chord244 敲敲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462008003759161344",
+        "conversation_id": "2094219570043314189",
+        "created_at": "2026-08-31T00:23:48.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T01:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094219570043314189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094219570043314189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "认真模式启动"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2094315195224965495",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 12,
+          "like_count": 2022,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T10:40:59.000Z",
+        "description": "he/him/他 ENTP ADHD 高敏HSP  颜文字大师\n带有女性气质但取向正常 \n大体善良比格，偶尔邪恶比格（真的是偶尔）\n也许你不相信，我喜欢有厚度的灵魂\n对精神的迷恋超过对肉体的迷恋\n欢迎来到我的自留地 有趣人类观察\n🚪一颗真心or超多的碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chord88751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chord88751",
+                "start": 0,
+                "url": "https://t.co/JBFE0eK8Kr"
+              }
+            ]
+          }
+        },
+        "id": "1462008003759161344",
+        "is_identity_verified": false,
+        "location": "孤魂野鬼飘来飘去",
+        "most_recent_tweet_id": "2094301520749895964",
+        "name": "chord",
+        "pinned_tweet_id": "2082287796480528750",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462008003759161344/1782192103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705505496491610112/IAtZgrae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 478,
+          "like_count": 10952,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1836
+        },
+        "url": "https://t.co/JBFE0eK8Kr",
+        "username": "chord244",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

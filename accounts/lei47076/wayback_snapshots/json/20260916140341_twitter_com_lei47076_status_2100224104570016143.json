@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100224097649369088"
+      ]
+    },
+    "author_id": "2020175811878481922",
+    "conversation_id": "2100224104570016143",
+    "created_at": "2026-09-16T14:03:41.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T15:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100224104570016143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegram. Click to",
+          "display_url": "t.me/+BuV6TSJV6-liM…",
+          "end": 49,
+          "expanded_url": "https://t.me/+BuV6TSJV6-liMmI1",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2099115816877019136/H2d6WCNk?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2099115816877019136/H2d6WCNk?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 26,
+          "status": 200,
+          "title": "Join group chat on Telegram",
+          "unwound_url": "https://t.me/+BuV6TSJV6-liMmI1",
+          "url": "https://t.co/DVz9BifLxu"
+        },
+        {
+          "display_url": "pic.x.com/UdegKP9qbg",
+          "end": 168,
+          "expanded_url": "https://x.com/lei47076/status/2100224104570016143/photo/1",
+          "media_key": "3_2100224097649369088",
+          "start": 145,
+          "url": "https://t.co/UdegKP9qbg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100224104570016143",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100224097649369088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🦇 红魔馆分馆\n聊天、分享、发呆，什么都可以。\n→ https://t.co/DVz9BifLxu\n\n欢迎进来坐坐。\n\n想和芙兰互关说一声就好啦～\n\n→此赞助码是为了给芙兰家养的大肥鱼提供吃的与更好的家，不要因为一时情绪而随便投喂，芙兰希望你们先照顾好自己，再去帮助他人，一起加油哦！！！ https://t.co/UdegKP9qbg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2100224097649369088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSV-sHkbIAAKXF2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100224097649369088"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "conversation_id": "2100224104570016143",
+        "created_at": "2026-09-16T14:03:41.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100224104570016143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+BuV6TSJV6-liM…",
+              "end": 49,
+              "expanded_url": "https://t.me/+BuV6TSJV6-liMmI1",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2099115816877019136/H2d6WCNk?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2099115816877019136/H2d6WCNk?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 26,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+BuV6TSJV6-liMmI1",
+              "url": "https://t.co/DVz9BifLxu"
+            },
+            {
+              "display_url": "pic.x.com/UdegKP9qbg",
+              "end": 168,
+              "expanded_url": "https://x.com/lei47076/status/2100224104570016143/photo/1",
+              "media_key": "3_2100224097649369088",
+              "start": 145,
+              "url": "https://t.co/UdegKP9qbg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100224104570016143",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100224097649369088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🦇 红魔馆分馆\n聊天、分享、发呆，什么都可以。\n→ https://t.co/DVz9BifLxu\n\n欢迎进来坐坐。\n\n想和芙兰互关说一声就好啦～\n\n→此赞助码是为了给芙兰家养的大肥鱼提供吃的与更好的家，不要因为一时情绪而随便投喂，芙兰希望你们先照顾好自己，再去帮助他人，一起加油哦！！！ https://t.co/UdegKP9qbg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2100224104570016143",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100177996657402313",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 32,
+          "like_count": 4293,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2681
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

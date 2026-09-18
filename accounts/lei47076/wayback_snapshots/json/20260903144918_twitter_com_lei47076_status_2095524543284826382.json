@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2095433952555356265",
+    "created_at": "2026-09-03T14:49:18.000Z",
+    "display_text_range": [
+      15,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T15:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095524543284826382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2095401589414719489",
+          "start": 0,
+          "username": "luoxuechaa6we"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095524543284826382",
+    "in_reply_to_user_id": "2095401589414719489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095433952555356265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoxuechaa6we 没关系啦，芙兰觉得你很好看哦。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095433938307313664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRR6EJca8AAUmYn.jpg",
+        "width": 1232
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095433938294722560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRR6EJZa0AAoG2d.jpg",
+        "width": 1352
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095433938298957824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRR6EJabcAAzoJR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095433938684755968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRR6EK2aQAAHw2V.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2095433952555356265",
+        "created_at": "2026-09-03T14:49:18.000Z",
+        "display_text_range": [
+          15,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095524543284826382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2095401589414719489",
+              "start": 0,
+              "username": "luoxuechaa6we"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095524543284826382",
+        "in_reply_to_user_id": "2095401589414719489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095433952555356265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoxuechaa6we 没关系啦，芙兰觉得你很好看哦。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095433938307313664",
+            "3_2095433938294722560",
+            "3_2095433938298957824",
+            "3_2095433938684755968"
+          ]
+        },
+        "author_id": "2095401589414719489",
+        "conversation_id": "2095433952555356265",
+        "created_at": "2026-09-03T08:49:20.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095433952555356265"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "男娘"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "黑白双煞"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sYZA3Zl0t",
+              "end": 55,
+              "expanded_url": "https://x.com/luoxuechaa6we/status/2095433952555356265/photo/1",
+              "media_key": "3_2095433938307313664",
+              "start": 32,
+              "url": "https://t.co/3sYZA3Zl0t"
+            },
+            {
+              "display_url": "pic.x.com/3sYZA3Zl0t",
+              "end": 55,
+              "expanded_url": "https://x.com/luoxuechaa6we/status/2095433952555356265/photo/1",
+              "media_key": "3_2095433938294722560",
+              "start": 32,
+              "url": "https://t.co/3sYZA3Zl0t"
+            },
+            {
+              "display_url": "pic.x.com/3sYZA3Zl0t",
+              "end": 55,
+              "expanded_url": "https://x.com/luoxuechaa6we/status/2095433952555356265/photo/1",
+              "media_key": "3_2095433938298957824",
+              "start": 32,
+              "url": "https://t.co/3sYZA3Zl0t"
+            },
+            {
+              "display_url": "pic.x.com/3sYZA3Zl0t",
+              "end": 55,
+              "expanded_url": "https://x.com/luoxuechaa6we/status/2095433952555356265/photo/1",
+              "media_key": "3_2095433938684755968",
+              "start": 32,
+              "url": "https://t.co/3sYZA3Zl0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095433952555356265",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095433938307313664"
+          },
+          {
+            "media_key": "3_2095433938294722560"
+          },
+          {
+            "media_key": "3_2095433938298957824"
+          },
+          {
+            "media_key": "3_2095433938684755968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 712,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男娘的腿子最棒了，初来乍到拍照技术还很烂喵 #男娘 #黑白双煞 https://t.co/3sYZA3Zl0t"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2095524543284826382",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 16,
+          "like_count": 2508,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T06:41:47.000Z",
+        "description": "新人男娘喵，好多东西都不熟练，也没有自己的去处，努力想办法ing",
+        "id": "2095401589414719489",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095469184474058774",
+        "name": "落雪茶",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095401589414719489/1788418145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095402375070797824/TPmxneJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 21,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "luoxuechaa6we",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

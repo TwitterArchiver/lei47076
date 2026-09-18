@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097196687551058205",
+    "created_at": "2026-09-08T10:13:19.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T11:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097267027488780670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1309718776611352576",
+          "start": 0,
+          "username": "qmR177QJG4ytP3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097267027488780670",
+    "in_reply_to_user_id": "1309718776611352576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097196687551058205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qmR177QJG4ytP3y 拍拍你。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2097196667653218304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRq9Qf-aYAAsGf8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2097196677589594112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRq9RE_bcAADYhp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097196687551058205",
+        "created_at": "2026-09-08T10:13:19.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097267027488780670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1309718776611352576",
+              "start": 0,
+              "username": "qmR177QJG4ytP3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097267027488780670",
+        "in_reply_to_user_id": "1309718776611352576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097196687551058205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qmR177QJG4ytP3y 拍拍你。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097196667653218304",
+            "3_2097196677589594112"
+          ]
+        },
+        "author_id": "1309718776611352576",
+        "conversation_id": "2097196687551058205",
+        "created_at": "2026-09-08T05:33:48.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097196687551058205"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "男の娘"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "足控"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cuXHRpZQhW",
+              "end": 55,
+              "expanded_url": "https://x.com/qmR177QJG4ytP3y/status/2097196687551058205/photo/1",
+              "media_key": "3_2097196667653218304",
+              "start": 32,
+              "url": "https://t.co/cuXHRpZQhW"
+            },
+            {
+              "display_url": "pic.x.com/cuXHRpZQhW",
+              "end": 55,
+              "expanded_url": "https://x.com/qmR177QJG4ytP3y/status/2097196687551058205/photo/1",
+              "media_key": "3_2097196677589594112",
+              "start": 32,
+              "url": "https://t.co/cuXHRpZQhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097196687551058205",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097196667653218304"
+          },
+          {
+            "media_key": "3_2097196677589594112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 788,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我受够总是自己拍照了！#可爱的男孩子 #男の娘 #足控 #男娘 https://t.co/cuXHRpZQhW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097267027488780670",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 20,
+          "like_count": 3141,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1601
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-26T04:57:54.000Z",
+        "description": "在下沐梓 可爱的中国男孩子 清水哦。172cm/55kg坦克歼击车一枚（误）。用爱发电，随缘更新。日本語ができます！希望大家好好相处！（发情会被拉黑哦）",
+        "id": "1309718776611352576",
+        "is_identity_verified": false,
+        "location": "Edogawa-ku, Tokyo",
+        "most_recent_tweet_id": "2097196687551058205",
+        "name": "嘬拉面的黄shu狼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309718776611352576/1617725153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796550382556221441/UxuZq9L3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 113,
+          "like_count": 174,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "qmR177QJG4ytP3y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

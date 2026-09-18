@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097649066775912875",
+    "created_at": "2026-09-09T11:31:24.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T12:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097649066775912875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LinQi_AWA/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/LinQi_AWA/status/2097560786042249704",
+          "start": 11,
+          "url": "https://t.co/rFCdyLhENG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097649066775912875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097560786042249704",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "芙兰也是这样想的呢。 https://t.co/rFCdyLhENG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097649066775912875",
+        "created_at": "2026-09-09T11:31:24.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097649066775912875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LinQi_AWA/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/LinQi_AWA/status/2097560786042249704",
+              "start": 11,
+              "url": "https://t.co/rFCdyLhENG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097649066775912875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097560786042249704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "芙兰也是这样想的呢。 https://t.co/rFCdyLhENG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088610517720158208",
+        "conversation_id": "2097560786042249704",
+        "created_at": "2026-09-09T05:40:36.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097560786042249704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097560786042249704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想去打擾已經有伴侶的朋友，原本我們的關係再怎麼好，從你們確定關係的那一刻起我們的關係就該降溫了\n是我無情嗎，或許是吧\n但我去打擾別人的幸福，莫過於過街老鼠罷了\n經營自己的社交真困難，廣泛交友的後果只會是對方都有那個依靠後不再聯繫的窘況\n再見"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097649066775912875",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 21,
+          "like_count": 3318,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1747
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T13:03:50.000Z",
+        "description": "|My Love:@LYX091128|草履蟲2.0|武漢城|♂️|林栖|花果山帝國元首|\n|妹妹@xian_zi17640|小妹妹@littletaomiao|\n|可愛弟弟：@a_username_owo|\n|姐姐@nekotanko_shiro|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "LYX091128"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "username": "xian_zi17640"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "littletaomiao"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "a_username_owo"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "nekotanko_shiro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/linqi_qaq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/linqi_qaq",
+                "start": 0,
+                "url": "https://t.co/WP8UVgjbvL"
+              }
+            ]
+          }
+        },
+        "id": "2088610517720158208",
+        "is_identity_verified": false,
+        "location": "冷雨心里",
+        "most_recent_tweet_id": "2097633883948818657",
+        "name": "LinQi",
+        "pinned_tweet_id": "2092629102939292144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088610517720158208/1786866913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097483103761580032/DC1w9hqc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 324,
+          "like_count": 5629,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 463
+        },
+        "url": "https://t.co/WP8UVgjbvL",
+        "username": "LinQi_AWA",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2099917360421593252",
+    "created_at": "2026-09-16T09:37:59.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T10:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100157238946283541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1991306862038544384",
+          "start": 0,
+          "username": "Wanda12300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100157238946283541",
+    "in_reply_to_user_id": "1991306862038544384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099917360421593252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wanda12300 （抱紧）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2099917360421593252",
+        "created_at": "2026-09-16T09:37:59.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100157238946283541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991306862038544384",
+              "start": 0,
+              "username": "Wanda12300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100157238946283541",
+        "in_reply_to_user_id": "1991306862038544384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099917360421593252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanda12300 （抱紧）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991306862038544384",
+        "conversation_id": "2099917360421593252",
+        "created_at": "2026-09-15T17:44:47.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T18:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099917360421593252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099917360421593252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 842,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己好像在做梦一样，周围的一切都变得好不真实，难道这一切都是我的幻觉吗，那一天我已经死了吗\n这几天的日子真的是我人生中最放松的日子了，什么都不考虑，和家人过着普通的生活\n这一切真的太幸福了，幸福到我开始怀疑是不是真的，就算不是也好想就一直这样下去啊，什么都不考虑，什么都不担心…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2100157238946283541",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2099115813945172238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 31,
+          "like_count": 4274,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2656
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-20T00:45:48.000Z",
+        "description": "185+超大只天残党/家长党MtF，已出柜，正在尝试RLE并攒钱SRS中；愿望是出门能被当成女孩子\n出厂日期：2006.10.26 HRT时间：2026.4.1\n不搞黄不键政，把推当朋友圈发，欢迎同类互fo，私信可能来不及回复，抱歉喵\nGitHub(正在建设)：https://t.co/kdNOs6dwBr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Wanda12300",
+                "end": 154,
+                "expanded_url": "https://github.com/Wanda12300",
+                "start": 131,
+                "url": "https://t.co/kdNOs6dwBr"
+              }
+            ]
+          }
+        },
+        "id": "1991306862038544384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100150362132897796",
+        "name": "🍥柔情猫娘QAQ🍥",
+        "pinned_tweet_id": "2092199790276669858",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991306862038544384/1779329289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098796457037864970/gkjAh4z9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 1316,
+          "like_count": 1211,
+          "listed_count": 5,
+          "media_count": 31,
+          "tweet_count": 623
+        },
+        "url": "",
+        "username": "Wanda12300",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

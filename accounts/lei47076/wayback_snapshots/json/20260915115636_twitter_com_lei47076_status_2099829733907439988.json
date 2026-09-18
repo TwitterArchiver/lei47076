@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2099717840404353407",
+    "created_at": "2026-09-15T11:56:36.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T12:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099829733907439988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1640917359493005313",
+          "start": 0,
+          "username": "shizukululu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099829733907439988",
+    "in_reply_to_user_id": "1640917359493005313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099827184756244676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@shizukululu0721 你也是呀！\n贴贴～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2099717840404353407",
+        "created_at": "2026-09-15T11:56:36.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099829733907439988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1640917359493005313",
+              "start": 0,
+              "username": "shizukululu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099829733907439988",
+        "in_reply_to_user_id": "1640917359493005313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099827184756244676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@shizukululu0721 你也是呀！\n贴贴～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640917359493005313",
+        "conversation_id": "2099717840404353407",
+        "created_at": "2026-09-15T11:46:28.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099827184756244676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099827184756244676",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099776456935309348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lei47076 芙兰酱卡哇伊斯内"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2099829733907439988",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2099115813945172238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 33,
+          "like_count": 4207,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2588
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-29T03:22:47.000Z",
+        "description": "出厂日期04｜成分在推文里啦🥰｜xnn努力中…｜友跨🏳️‍⚧️｜日常碎碎念✨｜偶尔会有负面内容😖｜互of喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Lulushizukuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Lulushizukuuu",
+                "start": 0,
+                "url": "https://t.co/IxTJNDUbn0"
+              }
+            ]
+          }
+        },
+        "id": "1640917359493005313",
+        "is_identity_verified": false,
+        "location": "Xuzhou/Suzhou",
+        "most_recent_tweet_id": "2099828896103530932",
+        "name": "雨下るる",
+        "pinned_tweet_id": "2094011514017714370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640917359493005313/1770278755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089256914173779969/LJrgpZEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 1750,
+          "like_count": 5226,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 2997
+        },
+        "url": "https://t.co/IxTJNDUbn0",
+        "username": "shizukululu0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

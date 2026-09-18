@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2098341477684490426",
+    "created_at": "2026-09-11T10:40:57.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T11:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098361144708878845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1481914707539677185",
+          "start": 0,
+          "username": "KanoYumoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098361144708878845",
+    "in_reply_to_user_id": "1481914707539677185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098341477684490426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KanoYumoe 辛苦姐姐了，拍拍你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2098341469878951936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7OcwmbIAA1mC6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2098341477684490426",
+        "created_at": "2026-09-11T10:40:57.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T11:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098361144708878845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1481914707539677185",
+              "start": 0,
+              "username": "KanoYumoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098361144708878845",
+        "in_reply_to_user_id": "1481914707539677185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098341477684490426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KanoYumoe 辛苦姐姐了，拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098341469878951936"
+          ]
+        },
+        "author_id": "1481914707539677185",
+        "conversation_id": "2098341477684490426",
+        "created_at": "2026-09-11T09:22:48.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098341477684490426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CRyH2hxJIk",
+              "end": 164,
+              "expanded_url": "https://x.com/KanoYumoe/status/2098341477684490426/photo/1",
+              "media_key": "3_2098341469878951936",
+              "start": 141,
+              "url": "https://t.co/CRyH2hxJIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098341477684490426",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098341469878951936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 358,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "经过了几次高烧，身体总算适应了新的药量，只是情绪上的低潮仍然会一阵阵的袭来。\n噩梦、幻听、躁郁，曾经那些被药物压制的老朋友们也跟着这些低落的情绪一起扎了回来，在这场捉迷藏中找到了我。\n它们拉着我的手，为我那情绪的海泛起熟悉的阴云，只是这次我已见过那一缕阳光。\n大家，再等我一会吧。 https://t.co/CRyH2hxJIk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2098361144708878845",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 29,
+          "like_count": 3743,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 2102
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-14T09:03:05.000Z",
+        "description": "MTF，药跨。经常深夜出没，头像是自设。因为有稳定工作，所以想为大家提供力所能及的帮助，也想成为大家生活中意外的小确幸。\n会及时的互关哦，每一条友善的私信都会认真回复哦。\n早上好，中午好，晚上好。在这个世界上总有人喜欢你，只是你还未曾遇见，和我一起再等等好吗？\n\n联系方式（企鹅）：752771872（风铃🎐）",
+        "id": "1481914707539677185",
+        "is_identity_verified": false,
+        "location": "兰山区",
+        "most_recent_tweet_id": "2098341477684490426",
+        "name": "今天也要吃饱🍥🎐",
+        "pinned_tweet_id": "2088789739663208812",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481914707539677185/1786579000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092787604756582400/40GT1Iq6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 406,
+          "like_count": 6177,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1073
+        },
+        "url": "",
+        "username": "KanoYumoe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2099508727313563991",
+    "created_at": "2026-09-15T23:33:56.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T00:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100005224509575660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1816764930219212802",
+          "start": 0,
+          "username": "xFurina_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100005224509575660",
+    "in_reply_to_user_id": "1816764930219212802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099508727313563991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xFurina_ 贴贴～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2099508727313563991",
+        "created_at": "2026-09-15T23:33:56.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T00:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100005224509575660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1816764930219212802",
+              "start": 0,
+              "username": "xFurina_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100005224509575660",
+        "in_reply_to_user_id": "1816764930219212802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099508727313563991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xFurina_ 贴贴～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816764930219212802",
+        "conversation_id": "2099508727313563991",
+        "created_at": "2026-09-14T14:41:02.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099508727313563991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099508727313563991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 952,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊好想被rua 好想被揉揉亲亲抱抱摸摸举高高！ε=ε=(ﾉ≧∇≦)ﾉ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2100005224509575660",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2099115813945172238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 32,
+          "like_count": 4239,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2622
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-26T09:18:14.000Z",
+        "description": "我永远最爱的姐姐@Kuriyona\n10 后mtf｜ 来和我互fo啦～家长反对党\n爱每一个友好的宝宝！\n可以和我聊天交友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "Kuriyona"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "candyrect.com",
+                "end": 23,
+                "expanded_url": "http://candyrect.com",
+                "start": 0,
+                "url": "https://t.co/YZnQ6u9X6x"
+              }
+            ]
+          }
+        },
+        "id": "1816764930219212802",
+        "is_identity_verified": false,
+        "location": "兰州",
+        "most_recent_tweet_id": "2099873877367324745",
+        "name": "鱼块糯🏳️‍⚧️",
+        "pinned_tweet_id": "2072654206415290516",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816764930219212802/1731593525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079946819124240384/GDu6AkgF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 1112,
+          "like_count": 2890,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 456
+        },
+        "url": "https://t.co/YZnQ6u9X6x",
+        "username": "xFurina_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

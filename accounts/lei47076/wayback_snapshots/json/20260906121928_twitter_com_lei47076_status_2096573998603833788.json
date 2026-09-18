@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096561542011523189",
+    "created_at": "2026-09-06T12:19:28.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096573998603833788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1320354023451496450",
+          "start": 0,
+          "username": "PinkCatLoveSky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096573998603833788",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096561542011523189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PinkCatLoveSky 拍拍你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096561542011523189",
+        "created_at": "2026-09-06T12:19:28.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096573998603833788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096573998603833788",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096561542011523189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 拍拍你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2096561542011523189",
+        "created_at": "2026-09-06T11:29:58.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096561542011523189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096561542011523189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成功讓手機掉到胸部上了\n心撕裂肺的痛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096573998603833788",
+        "name": "斯卡雷特-芙兰朵露",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 16,
+          "like_count": 2851,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1350
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "抑鬱好不舒服😖 似乎有多重人格🤔\n\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2096571348223156239",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 2497,
+          "like_count": 104952,
+          "listed_count": 2,
+          "media_count": 387,
+          "tweet_count": 8114
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

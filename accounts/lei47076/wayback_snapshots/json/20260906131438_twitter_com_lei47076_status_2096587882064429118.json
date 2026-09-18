@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096494975370621153",
+    "created_at": "2026-09-06T13:14:38.000Z",
+    "display_text_range": [
+      15,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096587882064429118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1876933386121699328",
+          "start": 0,
+          "username": "wwwtertuucyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096587882064429118",
+    "in_reply_to_user_id": "1876933386121699328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096494975370621153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwwtertuucyou 很漂亮很可爱呢，拍拍你。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1463,
+        "media_key": "3_2096494897151041536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRg_AFIbYAAPUlE.jpg",
+        "width": 739
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096494897230663680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRg_AFbaUAAfeQZ.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096494897167822848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRg_AFMbcAA9bL7.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096494975370621153",
+        "created_at": "2026-09-06T13:14:38.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096587882064429118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1876933386121699328",
+              "start": 0,
+              "username": "wwwtertuucyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096587882064429118",
+        "in_reply_to_user_id": "1876933386121699328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096494975370621153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwtertuucyou 很漂亮很可爱呢，拍拍你。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096494897151041536",
+            "3_2096494897230663680",
+            "3_2096494897167822848"
+          ]
+        },
+        "author_id": "1876933386121699328",
+        "conversation_id": "2096494975370621153",
+        "created_at": "2026-09-06T07:05:27.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096494975370621153"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "小男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVBgZffCic",
+              "end": 28,
+              "expanded_url": "https://x.com/wwwtertuucyou/status/2096494975370621153/photo/1",
+              "media_key": "3_2096494897151041536",
+              "start": 5,
+              "url": "https://t.co/UVBgZffCic"
+            },
+            {
+              "display_url": "pic.x.com/UVBgZffCic",
+              "end": 28,
+              "expanded_url": "https://x.com/wwwtertuucyou/status/2096494975370621153/photo/1",
+              "media_key": "3_2096494897230663680",
+              "start": 5,
+              "url": "https://t.co/UVBgZffCic"
+            },
+            {
+              "display_url": "pic.x.com/UVBgZffCic",
+              "end": 28,
+              "expanded_url": "https://x.com/wwwtertuucyou/status/2096494975370621153/photo/1",
+              "media_key": "3_2096494897167822848",
+              "start": 5,
+              "url": "https://t.co/UVBgZffCic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096494975370621153",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2096494897151041536"
+          },
+          {
+            "media_key": "3_2096494897230663680"
+          },
+          {
+            "media_key": "3_2096494897167822848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 336,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#小男娘 https://t.co/UVBgZffCic"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096587882064429118",
+        "name": "斯卡雷特-芙兰朵露",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 16,
+          "like_count": 2856,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1353
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-08T10:06:17.000Z",
+        "description": "",
+        "id": "1876933386121699328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096494975370621153",
+        "name": "xiao柚子",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887449224763371520/6VEUpgQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 179,
+          "like_count": 8,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "wwwtertuucyou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2100065441549045835",
+    "created_at": "2026-09-16T03:35:41.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T04:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100066064507838539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2089549255140839424",
+          "start": 0,
+          "username": "AKARIsys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100066064507838539",
+    "in_reply_to_user_id": "2089549255140839424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100065441549045835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKARIsys 喵喵喵，可爱呢，拍拍脑袋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2100065441549045835",
+        "created_at": "2026-09-16T03:35:41.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100066064507838539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2089549255140839424",
+              "start": 0,
+              "username": "AKARIsys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100066064507838539",
+        "in_reply_to_user_id": "2089549255140839424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100065441549045835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKARIsys 喵喵喵，可爱呢，拍拍脑袋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089549255140839424",
+        "conversation_id": "2100065441549045835",
+        "created_at": "2026-09-16T03:33:13.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100065441549045835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100065441549045835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "總覺得自己的語言系統總是混在一起\nDas heutige 天氣 is 絶好調！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2100066064507838539",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2099115813945172238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 32,
+          "like_count": 4251,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2631
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T03:07:28.000Z",
+        "description": "只要是彼此傳達得到的距離的話，即使像本機這樣微弱的燈火，也一定能成為大家的希望☆ \n歡迎互fo, 無聊也可以私信找本機玩的說！\n ㅤ ㅤㅤㅤㅤㅤㅤㅤ那邊的你！按按這裡↓可以問本機問題哦～\n 或者這裡↓\nhttps://t.co/UkTOuUEHym\n\nKindred spirit: @lei47076",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 142,
+                "username": "lei47076"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akarisys",
+                "end": 124,
+                "expanded_url": "https://ngl.link/akarisys",
+                "start": 101,
+                "url": "https://t.co/UkTOuUEHym"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akarisys",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akarisys",
+                "start": 0,
+                "url": "https://t.co/UkTOuUEHym"
+              }
+            ]
+          }
+        },
+        "id": "2089549255140839424",
+        "is_identity_verified": false,
+        "location": "電子謠精の夢境",
+        "most_recent_tweet_id": "2100065441549045835",
+        "name": "A.K.A.R.I-灯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089549255140839424/1789143047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098445850536284160/6xcj-t7a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 133,
+          "like_count": 2300,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/UkTOuUEHym",
+        "username": "AKARIsys",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

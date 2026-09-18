@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096973792467948018",
+    "created_at": "2026-09-08T08:59:35.000Z",
+    "display_text_range": [
+      14,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T09:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097248473708151148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1428031908370427916",
+          "start": 0,
+          "username": "wuji42216145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097248473708151148",
+    "in_reply_to_user_id": "1428031908370427916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096973792467948018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuji42216145 很好看，很可爱诶！\n拍拍你，芙兰看见你了哦，慢慢来就好啦。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2096973736964718592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnygOcbAAAXeMT.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096973751472779264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnyhEfacAAGK_4.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096973764164825088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnyhzxbsAAtBnb.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096973779130052608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnyirha8AAn4k6.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096973792467948018",
+        "created_at": "2026-09-08T08:59:35.000Z",
+        "display_text_range": [
+          14,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097248473708151148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1428031908370427916",
+              "start": 0,
+              "username": "wuji42216145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097248473708151148",
+        "in_reply_to_user_id": "1428031908370427916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096973792467948018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuji42216145 很好看，很可爱诶！\n拍拍你，芙兰看见你了哦，慢慢来就好啦。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096973736964718592",
+            "3_2096973751472779264",
+            "3_2096973764164825088",
+            "3_2096973779130052608"
+          ]
+        },
+        "author_id": "1428031908370427916",
+        "conversation_id": "2096973792467948018",
+        "created_at": "2026-09-07T14:48:06.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096973792467948018"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "男娘"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "伪娘"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "女装"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooYcvbgTht",
+              "end": 46,
+              "expanded_url": "https://x.com/wuji42216145/status/2096973792467948018/photo/1",
+              "media_key": "3_2096973736964718592",
+              "start": 23,
+              "url": "https://t.co/ooYcvbgTht"
+            },
+            {
+              "display_url": "pic.x.com/ooYcvbgTht",
+              "end": 46,
+              "expanded_url": "https://x.com/wuji42216145/status/2096973792467948018/photo/1",
+              "media_key": "3_2096973751472779264",
+              "start": 23,
+              "url": "https://t.co/ooYcvbgTht"
+            },
+            {
+              "display_url": "pic.x.com/ooYcvbgTht",
+              "end": 46,
+              "expanded_url": "https://x.com/wuji42216145/status/2096973792467948018/photo/1",
+              "media_key": "3_2096973764164825088",
+              "start": 23,
+              "url": "https://t.co/ooYcvbgTht"
+            },
+            {
+              "display_url": "pic.x.com/ooYcvbgTht",
+              "end": 46,
+              "expanded_url": "https://x.com/wuji42216145/status/2096973792467948018/photo/1",
+              "media_key": "3_2096973779130052608",
+              "start": 23,
+              "url": "https://t.co/ooYcvbgTht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096973792467948018",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096973736964718592"
+          },
+          {
+            "media_key": "3_2096973751472779264"
+          },
+          {
+            "media_key": "3_2096973764164825088"
+          },
+          {
+            "media_key": "3_2096973779130052608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新人喵 没有人看喵😭 #男娘 #伪娘 #女装 https://t.co/ooYcvbgTht"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097248473708151148",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 20,
+          "like_count": 3124,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1584
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-18T16:32:03.000Z",
+        "description": "0532不知名男娘喵 喜欢玩绳子喵",
+        "id": "1428031908370427916",
+        "is_identity_verified": false,
+        "location": "0532",
+        "most_recent_tweet_id": "2097235599103074472",
+        "name": "wujisama",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076937195861196800/KYJZlGgX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 282,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "wuji42216145",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

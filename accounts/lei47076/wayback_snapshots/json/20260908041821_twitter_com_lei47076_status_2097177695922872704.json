@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097166296844820543",
+    "created_at": "2026-09-08T04:18:21.000Z",
+    "display_text_range": [
+      14,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T05:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097177695922872704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1258361136841457664",
+          "start": 0,
+          "username": "ShiauPa46QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097177695922872704",
+    "in_reply_to_user_id": "1258361136841457664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097166296844820543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiauPa46QwQ 拍拍你，辛苦你了，慢慢来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097166296844820543",
+        "created_at": "2026-09-08T04:18:21.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097177695922872704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1258361136841457664",
+              "start": 0,
+              "username": "ShiauPa46QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097177695922872704",
+        "in_reply_to_user_id": "1258361136841457664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097166296844820543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiauPa46QwQ 拍拍你，辛苦你了，慢慢来。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1258361136841457664",
+        "conversation_id": "2097166296844820543",
+        "created_at": "2026-09-08T03:33:03.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097166296844820543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShiauPa46QwQ/s…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/ShiauPa46QwQ/status/2097157220450619543",
+              "start": 63,
+              "url": "https://t.co/4FLKvx0D8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097166296844820543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097157220450619543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后还是没开控制情绪的（\n医生说我能控制住就不用开，主要是所在环境问题，离开父母身边会好很多，而且我确实感觉和医生讲话就好了 https://t.co/4FLKvx0D8D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097177695922872704",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 20,
+          "like_count": 3062,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1527
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-07T11:41:21.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️|2007年生|二次元正太控|漢語○ English△ にほんご△|亞文化大手子|曾经是语言学爱好者和Conlanger|希望和大家交朋友！\n|前世:@ShiauPa0746|无涩里推@ShiauPa_elo\n|Bluesky: https://t.co/Jhm81vJE4O",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "ShiauPa0746"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "ShiauPa_elo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shiaup…",
+                "end": 147,
+                "expanded_url": "http://bsky.app/profile/shiaupa.top",
+                "start": 124,
+                "url": "https://t.co/Jhm81vJE4O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiaupa.top",
+                "end": 23,
+                "expanded_url": "http://shiaupa.top",
+                "start": 0,
+                "url": "https://t.co/ckdLtAYPqm"
+              }
+            ]
+          }
+        },
+        "id": "1258361136841457664",
+        "is_identity_verified": false,
+        "location": "Earth",
+        "most_recent_tweet_id": "2097177368750420072",
+        "name": "晓怕ShiauPa 🐱💫",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060354946793635841/Bz1Lrhw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 565,
+          "like_count": 2604,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 582
+        },
+        "url": "https://t.co/ckdLtAYPqm",
+        "username": "ShiauPa46QwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096982856556011651",
+    "created_at": "2026-09-07T15:33:28.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096985208516211061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987402138667130881",
+          "start": 0,
+          "username": "jkiesoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096985208516211061",
+    "in_reply_to_user_id": "1987402138667130881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096982856556011651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkiesoft 晚安安啦～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096982856556011651",
+        "created_at": "2026-09-07T15:33:28.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096985208516211061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987402138667130881",
+              "start": 0,
+              "username": "jkiesoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096985208516211061",
+        "in_reply_to_user_id": "1987402138667130881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096982856556011651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkiesoft 晚安安啦～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987402138667130881",
+        "conversation_id": "2096982856556011651",
+        "created_at": "2026-09-07T15:24:07.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096982856556011651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096982856556011651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡觉😴……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096985208516211061",
+        "name": "斯卡雷特-芙兰朵露",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 20,
+          "like_count": 3016,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1486
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-09T06:10:21.000Z",
+        "description": "二号机:@koysov2022\n非人哉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "koysov2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120069949",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120069949",
+                "start": 0,
+                "url": "https://t.co/MYZgVAViyV"
+              }
+            ]
+          }
+        },
+        "id": "1987402138667130881",
+        "is_identity_verified": false,
+        "location": "电波研究所",
+        "most_recent_tweet_id": "2096983250589954418",
+        "name": "kia",
+        "pinned_tweet_id": "2040333516790243786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987402138667130881/1784604220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043260826774392832/Mu52LJKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 693,
+          "like_count": 16722,
+          "listed_count": 0,
+          "media_count": 538,
+          "tweet_count": 7767
+        },
+        "url": "https://t.co/MYZgVAViyV",
+        "username": "jkiesoft",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

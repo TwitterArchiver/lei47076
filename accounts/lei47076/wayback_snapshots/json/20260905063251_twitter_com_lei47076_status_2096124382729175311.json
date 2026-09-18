@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2095826946429157743",
+    "created_at": "2026-09-05T06:32:51.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T07:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096124382729175311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2066884552036122624",
+          "start": 0,
+          "username": "Zns04foreal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096124382729175311",
+    "in_reply_to_user_id": "2066884552036122624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095826946429157743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zns04foreal 赞同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2095826946429157743",
+        "created_at": "2026-09-05T06:32:51.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096124382729175311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2066884552036122624",
+              "start": 0,
+              "username": "Zns04foreal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096124382729175311",
+        "in_reply_to_user_id": "2066884552036122624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095826946429157743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zns04foreal 赞同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066884552036122624",
+        "conversation_id": "2095826946429157743",
+        "created_at": "2026-09-04T10:50:57.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T11:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095826946429157743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095826946429157743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "少年的心气是失而不可得之物"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096124382729175311",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 16,
+          "like_count": 2732,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1259
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-16T14:05:57.000Z",
+        "description": "只谈风月,不闻政事\n友跨 | ACM初学者 | #FaZe 比赛享受者 | 顺男\n不想搞黄只想聊天\n私信open\n没事干发点碎碎念",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "FaZe"
+              }
+            ]
+          }
+        },
+        "id": "2066884552036122624",
+        "is_identity_verified": false,
+        "location": "-18cm",
+        "most_recent_tweet_id": "2096099263168266260",
+        "name": "Znsforeal",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066884552036122624/1787729905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091941349469908993/JCbfb-08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 94,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "Zns04foreal",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

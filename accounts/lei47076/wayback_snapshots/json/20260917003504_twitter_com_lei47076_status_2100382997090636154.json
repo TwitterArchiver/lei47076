@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2100249475428311307",
+    "created_at": "2026-09-17T00:35:04.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T01:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100382997090636154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559445629004300290",
+          "start": 0,
+          "username": "nomi9724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100382997090636154",
+    "in_reply_to_user_id": "1559445629004300290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100249475428311307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nomi9724 拍拍你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2100249475428311307",
+        "created_at": "2026-09-17T00:35:04.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100382997090636154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559445629004300290",
+              "start": 0,
+              "username": "nomi9724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100382997090636154",
+        "in_reply_to_user_id": "1559445629004300290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100249475428311307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomi9724 拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559445629004300290",
+        "conversation_id": "2100249475428311307",
+        "created_at": "2026-09-16T15:44:30.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100249475428311307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100249475428311307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 172,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人们总是在对抗着什么东西。工人对抗着失业和老板画的大饼，老板在对抗“偷懒”的工人，年轻小药娘在对抗想要扭转自己的父母，父母在对抗“男子汉不当，非要当人妖”的“儿子”……那么，在对抗之外，在敌人消亡或退却之后，在自由王国之中，你想要做什么？早 就 不 知 道 了 ，自己的意愿早就在对抗中消失了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2100382997090636154",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 32,
+          "like_count": 4306,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 2697
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-16T07:43:26.000Z",
+        "description": "05年生/任意代词/自恨顺男/计划当顺男活一辈子/希望自己是mtf/疑似AuDHD/INFJ/不墙内不线下/碎片化n手哲学受众/畏惧自己命运之人/擅长妥协拖延和逃避/\n\n天堂必须是倒置的\n即使身处夹缝之中，也有资格获得位置与幸福，也必须获得位置与幸福\n\n匿名信箱：https://t.co/sjR6C4qPyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nomi9742",
+                "end": 155,
+                "expanded_url": "https://ngl.link/nomi9742",
+                "start": 132,
+                "url": "https://t.co/sjR6C4qPyb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/wrSlQRG6DK"
+              }
+            ]
+          }
+        },
+        "id": "1559445629004300290",
+        "is_identity_verified": false,
+        "location": "墙内",
+        "most_recent_tweet_id": "2100297493041017068",
+        "name": "Nomi9724🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096667984488255488/Y2xe4aJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 402,
+          "like_count": 1215,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/wrSlQRG6DK",
+        "username": "nomi9724",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

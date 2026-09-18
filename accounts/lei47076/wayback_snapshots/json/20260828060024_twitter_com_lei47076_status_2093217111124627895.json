@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2093076502036582886",
+    "created_at": "2026-08-28T06:00:24.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T07:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093217111124627895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1462359525474897924",
+          "start": 0,
+          "username": "junrey_vox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093217111124627895",
+    "in_reply_to_user_id": "1462359525474897924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093076502036582886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@junrey_vox 这样很不错诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2093076502036582886",
+        "created_at": "2026-08-28T06:00:24.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T07:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093217111124627895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1462359525474897924",
+              "start": 0,
+              "username": "junrey_vox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093217111124627895",
+        "in_reply_to_user_id": "1462359525474897924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093076502036582886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@junrey_vox 这样很不错诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462359525474897924",
+        "conversation_id": "2093076502036582886",
+        "created_at": "2026-08-27T20:41:40.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T21:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093076502036582886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093076502036582886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡不着，通过麦克风听见你的呼吸，安心"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。\nMy soul’s companion：@hathawaybk56",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "hathawaybk56"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2093217111124627895",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 12,
+          "like_count": 1683,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-21T09:58:12.000Z",
+        "description": "无黄色┃宅┃恋爱中",
+        "id": "1462359525474897924",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093090601030033790",
+        "name": "tatopanda",
+        "pinned_tweet_id": "2091453890407612600",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090621565625053184/GA5pQVYs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 33,
+          "like_count": 3711,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1133
+        },
+        "url": "",
+        "username": "junrey_vox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097240432036253823",
+    "created_at": "2026-09-08T09:28:58.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097255867217482177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1683006395829088258",
+          "start": 0,
+          "username": "SamaMuchen82829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097255867217482177",
+    "in_reply_to_user_id": "1683006395829088258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097240432036253823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SamaMuchen82829 要什么诶？\n拍拍你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097240432036253823",
+        "created_at": "2026-09-08T09:28:58.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097255867217482177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1683006395829088258",
+              "start": 0,
+              "username": "SamaMuchen82829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097255867217482177",
+        "in_reply_to_user_id": "1683006395829088258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097240432036253823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SamaMuchen82829 要什么诶？\n拍拍你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683006395829088258",
+        "conversation_id": "2097240432036253823",
+        "created_at": "2026-09-08T08:27:38.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097240432036253823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097240432036253823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总是想要怎么办"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097255867217482177",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 20,
+          "like_count": 3132,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1591
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-23T06:49:41.000Z",
+        "description": "xp很怪很多（？很阴暗很负能的一个家伙🚪20→好友位🛰️推特上面欢迎私信找我聊天呐~  推止于推\n想变成魅魔...\n180左右/52-56kg/有股药味/江西\n大叔/🐻/🐷都不要来找我啊💔",
+        "id": "1683006395829088258",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2097247008759415235",
+        "name": "⚡⚡你的",
+        "pinned_tweet_id": "2095971905287410123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683006395829088258/1696470843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085969291405590528/qBdPcEjW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 189,
+          "like_count": 1274,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "SamaMuchen82829",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

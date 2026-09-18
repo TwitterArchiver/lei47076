@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2098058078981890183",
+    "created_at": "2026-09-12T08:47:16.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T09:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098694926280380854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1680882964530626561",
+          "start": 0,
+          "username": "Xmt_Saikou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098694926280380854",
+    "in_reply_to_user_id": "1680882964530626561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098058078981890183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xmt_Saikou 拍拍你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 780,
+        "media_key": "3_2098058070618488833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3MswFbQAEWFoc.jpg",
+        "width": 843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2098058078981890183",
+        "created_at": "2026-09-12T08:47:16.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T09:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098694926280380854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1680882964530626561",
+              "start": 0,
+              "username": "Xmt_Saikou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098694926280380854",
+        "in_reply_to_user_id": "1680882964530626561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098058078981890183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xmt_Saikou 拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098058070618488833"
+          ]
+        },
+        "author_id": "1680882964530626561",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1697053249440731136",
+              "name": "Apple Event 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2098058078981890183",
+        "created_at": "2026-09-10T14:36:40.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T15:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098058078981890183"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 16,
+              "tag": "AppleEvent"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qDOI3HSj9V",
+              "end": 51,
+              "expanded_url": "https://x.com/Xmt_Saikou/status/2098058078981890183/photo/1",
+              "media_key": "3_2098058070618488833",
+              "start": 28,
+              "url": "https://t.co/qDOI3HSj9V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098058078981890183",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098058070618488833"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "设计这个图标的人简直就是天才🥰\n#AppleEvent https://t.co/qDOI3HSj9V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2098694926280380854",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 31,
+          "like_count": 3860,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2229
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-17T10:12:04.000Z",
+        "description": "咕咕嘎嘎",
+        "id": "1680882964530626561",
+        "is_identity_verified": false,
+        "location": "East China, JiangSu",
+        "most_recent_tweet_id": "2098631119034040758",
+        "name": "Aveloria",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680882964530626561/1779599558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098425704954404864/3OD0x8NL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 164,
+          "like_count": 1634,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "Xmt_Saikou",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

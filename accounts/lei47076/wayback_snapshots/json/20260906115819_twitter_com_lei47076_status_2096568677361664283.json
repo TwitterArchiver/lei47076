@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096429462477041908",
+    "created_at": "2026-09-06T11:58:19.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T12:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096568677361664283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797535583096733696",
+          "start": 0,
+          "username": "LoneStar6072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096568677361664283",
+    "in_reply_to_user_id": "1797535583096733696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096558183376723995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoneStar6072 抱紧你哦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096429462477041908",
+        "created_at": "2026-09-06T11:58:19.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096568677361664283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797535583096733696",
+              "start": 0,
+              "username": "LoneStar6072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096568677361664283",
+        "in_reply_to_user_id": "1797535583096733696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096558183376723995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoneStar6072 抱紧你哦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797535583096733696",
+        "conversation_id": "2096429462477041908",
+        "created_at": "2026-09-06T11:16:37.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096558183376723995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096558183376723995",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096490126453162327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 抱……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096568677361664283",
+        "name": "斯卡雷特-芙兰朵露",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 16,
+          "like_count": 2844,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1344
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-03T07:47:52.000Z",
+        "description": "18｜無證含糖跨女🏳️‍⚧️/同類可fo｜是一隻仙鶴🎋\nHRT💊24.10.6-至今\n毒舌｜吃貨｜攝影｜日常｜喜歡ボカロ｜喜歡劍道/弓道｜高版本Minecraf pvper\n夢想是當一名P主！\n只關注感興趣的人\n姐姐@sengonzen24174\n妹妹@SakuraAmesaki\n小徒弟@MingQiSJDY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 108,
+                "username": "sengonzen24174"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "SakuraAmesaki"
+              },
+              {
+                "end": 155,
+                "start": 144,
+                "username": "MingQiSJDY"
+              }
+            ]
+          }
+        },
+        "id": "1797535583096733696",
+        "is_identity_verified": false,
+        "location": "白粧都",
+        "most_recent_tweet_id": "2096568652644708481",
+        "name": "櫻井 安久🍥",
+        "pinned_tweet_id": "2096423253732708637",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797535583096733696/1779970363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059971072506699776/-KcqeiZy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 284,
+          "like_count": 2433,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 503
+        },
+        "url": "",
+        "username": "LoneStar6072",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

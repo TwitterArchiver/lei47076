@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097682878280937553",
+    "created_at": "2026-09-10T04:21:23.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T05:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097903237672358373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2078277656412581889",
+          "start": 0,
+          "username": "WXX0530"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097903237672358373",
+    "in_reply_to_user_id": "2078277656412581889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097682878280937553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WXX0530 拍拍你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097682878280937553",
+        "created_at": "2026-09-10T04:21:23.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097903237672358373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2078277656412581889",
+              "start": 0,
+              "username": "WXX0530"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097903237672358373",
+        "in_reply_to_user_id": "2078277656412581889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097682878280937553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WXX0530 拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078277656412581889",
+        "conversation_id": "2097682878280937553",
+        "created_at": "2026-09-09T13:45:45.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097682878280937553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097682878280937553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 154,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一些原生家庭，我真的懒得喷了，说教就说教，为什么还要带上我们？(指的不是所有人) 这种原生家庭就去死"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097903237672358373",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 23,
+          "like_count": 3461,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1861
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T00:37:34.000Z",
+        "description": "09年MTF \n厭學 🏳️‍⚧️🍥2026.5 1.65cm 41.55kg 出厂日期09 08 10\n私信互fo\n双向(?)\nhttps://t.co/BXKTi5WvpN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wxx0530",
+                "end": 87,
+                "expanded_url": "http://ngl.link/wxx0530",
+                "start": 64,
+                "url": "https://t.co/BXKTi5WvpN"
+              }
+            ]
+          }
+        },
+        "id": "2078277656412581889",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2097877039370133765",
+        "name": "Fiona",
+        "pinned_tweet_id": "2090403736753766602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078277656412581889/1788609903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096207981725773824/4yWNvg0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 115,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "WXX0530",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

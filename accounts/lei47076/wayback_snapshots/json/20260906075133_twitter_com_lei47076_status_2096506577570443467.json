@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096502124775706703",
+    "created_at": "2026-09-06T07:51:33.000Z",
+    "display_text_range": [
+      13,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096506577570443467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880979169297022976",
+          "start": 0,
+          "username": "Wesley10032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096506577570443467",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096502124775706703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Wesley10032 我们无能为力，只能接受了，这样很苦痛，我能理解你。\n抱抱你，加油。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096502124775706703",
+        "created_at": "2026-09-06T07:51:33.000Z",
+        "display_text_range": [
+          13,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096506577570443467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096506577570443467",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096502124775706703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Wesley10032 我们无能为力，只能接受了，这样很苦痛，我能理解你。\n抱抱你，加油。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096502124775706703",
+        "created_at": "2026-09-06T07:33:52.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096502124775706703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096502124775706703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "感觉高中（或者应试教育）毁了中国一堆的青少年……\n看着日韩台的高中生高高兴兴的做各种丰富多彩的活动\n就显得我们更孤独了😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096506577570443467",
+        "name": "斯卡雷特-芙兰朵露",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 16,
+          "like_count": 2817,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1319
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096506447026950184",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 1817,
+          "like_count": 24606,
+          "listed_count": 2,
+          "media_count": 503,
+          "tweet_count": 3759
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

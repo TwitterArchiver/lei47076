@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2093148025392599526",
+    "created_at": "2026-08-28T15:54:28.000Z",
+    "display_text_range": [
+      14,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T16:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093366613991215493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815097256112201728",
+          "start": 0,
+          "username": "Sora06222206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093366613991215493",
+    "in_reply_to_user_id": "1815097256112201728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093148025392599526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sora06222206 +1\n 对金钱的渴望～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2093148025392599526",
+        "created_at": "2026-08-28T15:54:28.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T16:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093366613991215493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815097256112201728",
+              "start": 0,
+              "username": "Sora06222206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093366613991215493",
+        "in_reply_to_user_id": "1815097256112201728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093148025392599526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sora06222206 +1\n 对金钱的渴望～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815097256112201728",
+        "conversation_id": "2093148025392599526",
+        "created_at": "2026-08-28T01:25:52.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T02:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093148025392599526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093148025392599526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去学校的唯一动力是可以拿到生活费"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2093366613991215493",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 11,
+          "like_count": 1708,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 796
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-07-21T18:51:37.000Z",
+        "description": "CN JP EN OK/一般路过二次元/\n心智小学生水准的大学生/在这里大概发一些不想现实认识的人看到的生活碎碎念/非典型顺直男///\n小帐  @Sora15225",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "Sora15225"
+              }
+            ]
+          }
+        },
+        "id": "1815097256112201728",
+        "is_identity_verified": false,
+        "location": "广州",
+        "most_recent_tweet_id": "2093354071877169274",
+        "name": "悠空空空",
+        "pinned_tweet_id": "1943624824980484554",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1815097256112201728/1742416765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093247986574794752/CgEytqzG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 735,
+          "like_count": 42903,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 4414
+        },
+        "url": "",
+        "username": "Sora06222206",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

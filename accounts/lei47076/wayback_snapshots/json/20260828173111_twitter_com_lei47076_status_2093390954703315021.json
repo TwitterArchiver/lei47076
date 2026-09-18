@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093390943189966848",
+        "3_2093390949334564864"
+      ]
+    },
+    "author_id": "2020175811878481922",
+    "conversation_id": "2093390954703315021",
+    "created_at": "2026-08-28T17:31:11.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T18:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093390954703315021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dZZyF1Pk1Q",
+          "end": 63,
+          "expanded_url": "https://x.com/lei47076/status/2093390954703315021/photo/1",
+          "media_key": "3_2093390943189966848",
+          "start": 40,
+          "url": "https://t.co/dZZyF1Pk1Q"
+        },
+        {
+          "display_url": "pic.x.com/dZZyF1Pk1Q",
+          "end": 63,
+          "expanded_url": "https://x.com/lei47076/status/2093390954703315021/photo/1",
+          "media_key": "3_2093390949334564864",
+          "start": 40,
+          "url": "https://t.co/dZZyF1Pk1Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093390954703315021",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093390943189966848"
+      },
+      {
+        "media_key": "3_2093390949334564864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚安安啦～\n蹭蹭你的手呢\n（虽然芙兰不知道你们是谁，但是芙兰会喜欢每一个人呢） https://t.co/dZZyF1Pk1Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2093390943189966848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ03-LjboAA-ek7.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2093390949334564864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ03-icawAASzS6.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093390943189966848",
+            "3_2093390949334564864"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "conversation_id": "2093390954703315021",
+        "created_at": "2026-08-28T17:31:11.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T18:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093390954703315021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZZyF1Pk1Q",
+              "end": 63,
+              "expanded_url": "https://x.com/lei47076/status/2093390954703315021/photo/1",
+              "media_key": "3_2093390943189966848",
+              "start": 40,
+              "url": "https://t.co/dZZyF1Pk1Q"
+            },
+            {
+              "display_url": "pic.x.com/dZZyF1Pk1Q",
+              "end": 63,
+              "expanded_url": "https://x.com/lei47076/status/2093390954703315021/photo/1",
+              "media_key": "3_2093390949334564864",
+              "start": 40,
+              "url": "https://t.co/dZZyF1Pk1Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093390954703315021",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093390943189966848"
+          },
+          {
+            "media_key": "3_2093390949334564864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安安啦～\n蹭蹭你的手呢\n（虽然芙兰不知道你们是谁，但是芙兰会喜欢每一个人呢） https://t.co/dZZyF1Pk1Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2093390954703315021",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 11,
+          "like_count": 1724,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 806
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

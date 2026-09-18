@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2064020420416753908",
+    "created_at": "2026-08-28T20:00:36.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T21:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093428558266048560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2050421700462841856",
+          "start": 0,
+          "username": "ICaTuTI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093428558266048560",
+    "in_reply_to_user_id": "2050421700462841856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064020420416753908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ICaTuTI 芙兰也想要一个耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2064020420416753908",
+        "created_at": "2026-08-28T20:00:36.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T21:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093428558266048560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2050421700462841856",
+              "start": 0,
+              "username": "ICaTuTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093428558266048560",
+        "in_reply_to_user_id": "2050421700462841856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064020420416753908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ICaTuTI 芙兰也想要一个耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050421700462841856",
+        "conversation_id": "2064020420416753908",
+        "created_at": "2026-06-08T16:23:10.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064020420416753908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064020420416753908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13938,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 99,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我需要一个和我一样焦虑型依恋的男孩好好过日子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2093428558266048560",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 12,
+          "like_count": 1884,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 821
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-02T03:50:26.000Z",
+        "description": "switch",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/icatuti",
+                "end": 23,
+                "expanded_url": "https://ngl.link/icatuti",
+                "start": 0,
+                "url": "https://t.co/qesc11wLoo"
+              }
+            ]
+          }
+        },
+        "id": "2050421700462841856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093406071272489211",
+        "name": "吐司",
+        "pinned_tweet_id": "2064020420416753908",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050424009552994304/LlvxuZ7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 0,
+          "like_count": 921,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/qesc11wLoo",
+        "username": "ICaTuTI",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097670142679454175",
+    "created_at": "2026-09-10T08:31:57.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097966292582244464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804764703891361792",
+          "start": 0,
+          "username": "tangsunny_1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097966292582244464",
+    "in_reply_to_user_id": "1804764703891361792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097670142679454175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangsunny_1225 拍拍你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097670142679454175",
+        "created_at": "2026-09-10T08:31:57.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097966292582244464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804764703891361792",
+              "start": 0,
+              "username": "tangsunny_1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097966292582244464",
+        "in_reply_to_user_id": "1804764703891361792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097670142679454175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangsunny_1225 拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804764703891361792",
+        "conversation_id": "2097670142679454175",
+        "created_at": "2026-09-09T12:55:09.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097670142679454175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/aoim33/status/2097650371355394122",
+              "start": 146,
+              "url": "https://t.co/ajzgyn1N7H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097670142679454175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097650371355394122",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们一群人在问我什么时候翻车的问题😡\n我在这里统一回复一下\n目前我没有任何翻车计划😡\n主要有这几个条件限制：\n1.我没钱买糖，经济窘迫😭\n2.目前我没有明显的性别焦虑，也没有必要翻车\n3.我对我自己的身材和样貌焦虑很大，就我这条件做个MtF迟早要被笑死😭\n所以你们不要再说我翻车的话题了喵😭 https://t.co/ajzgyn1N7H"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097966292582244464",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 24,
+          "like_count": 3536,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T06:33:43.000Z",
+        "description": "一個港澳推主中文圈的綜合食瓜族｜日本語上手&勉強中 広東語、中国語、英語OK｜佛系更新，分享日常生活&外國行",
+        "id": "1804764703891361792",
+        "is_identity_verified": false,
+        "location": "虛擬澳門區部門",
+        "most_recent_tweet_id": "2097933678265721295",
+        "name": "SunnyTang（摸鱼小推友）",
+        "pinned_tweet_id": "2090070220060938706",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804764703891361792/1764645137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995692460371300352/yF48Zthp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 117,
+          "like_count": 2482,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1339
+        },
+        "url": "",
+        "username": "tangsunny_1225",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

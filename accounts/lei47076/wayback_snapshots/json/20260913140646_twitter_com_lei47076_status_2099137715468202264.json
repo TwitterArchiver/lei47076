@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2099066668786028695",
+    "created_at": "2026-09-13T14:06:46.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T15:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099137715468202264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050914237397286912",
+          "start": 0,
+          "username": "FurukawaNagisaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099137715468202264",
+    "in_reply_to_user_id": "2050914237397286912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099137517090132013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@FurukawaNagisaa 谢谢你啦！\n贴贴～"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2099137517090132013].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2099137517090132013",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2099137517090132013"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2099066668786028695",
+        "created_at": "2026-09-13T14:06:46.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099137715468202264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050914237397286912",
+              "start": 0,
+              "username": "FurukawaNagisaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099137715468202264",
+        "in_reply_to_user_id": "2050914237397286912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099137517090132013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@FurukawaNagisaa 谢谢你啦！\n贴贴～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2099137715468202264",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2099115813945172238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 34,
+          "like_count": 4015,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2389
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-03T12:24:20.000Z",
+        "description": "我是睿睿Chiang，如果你愿意的话可以叫我Ricky\n大陆地区高中生｜Peace and Love｜什么我一直是私宅\n希望能够交到很多好朋友呢🥰我是委员长\nOsaka是Osaka，明乃是明乃\nOsaka和明乃一边一人\n日本人说日本话🇯🇵，美国人说美国话🇺🇸",
+        "id": "2050914237397286912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099068359853928812",
+        "name": "东云第20099号",
+        "pinned_tweet_id": "2098815312095596855",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050914237397286912/1787238889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092617589990309888/D1YlTBgC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 71,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 257
+        },
+        "url": "",
+        "username": "FurukawaNagisaa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

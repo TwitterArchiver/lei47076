@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096809587081154989",
+    "created_at": "2026-09-07T07:38:11.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T08:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096865599754543378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600024316552179713",
+          "start": 0,
+          "username": "kiki_qiqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096865599754543378",
+    "in_reply_to_user_id": "1600024316552179713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096809587081154989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiki_qiqing 芙兰申请了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2740,
+        "media_key": "3_2096809577153273856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRldM3fboAA4FW-.jpg",
+        "width": 1541
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096809587081154989",
+        "created_at": "2026-09-07T07:38:11.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096865599754543378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600024316552179713",
+              "start": 0,
+              "username": "kiki_qiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096865599754543378",
+        "in_reply_to_user_id": "1600024316552179713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096809587081154989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiki_qiqing 芙兰申请了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096809577153273856"
+          ]
+        },
+        "author_id": "1600024316552179713",
+        "conversation_id": "2096809587081154989",
+        "created_at": "2026-09-07T03:55:37.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096809587081154989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UISonxJPRO",
+              "end": 56,
+              "expanded_url": "https://x.com/kiki_qiqing/status/2096809587081154989/photo/1",
+              "media_key": "3_2096809577153273856",
+              "start": 33,
+              "url": "https://t.co/UISonxJPRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096809587081154989",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096809577153273856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 181,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推推群，来聊天，跨子和友跨来，不见证不颜色，带上自己推@的id🤭 https://t.co/UISonxJPRO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜\n｜泛性恋｜无性别｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096865599754543378",
+        "name": "斯卡雷特-芙兰朵露",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 18,
+          "like_count": 2923,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1407
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 小证含糖 | HRT 2025.12.05 | 非二元 | 同类可以找我互fo，但最好说一声 | 喜欢同类 | 169cm/60kg | 有点地雷",
+        "id": "1600024316552179713",
+        "is_identity_verified": false,
+        "location": "Silverstone Track",
+        "most_recent_tweet_id": "2096809587081154989",
+        "name": "祈晴kiki🍥",
+        "pinned_tweet_id": "2071875138975580225",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600024316552179713/1784887409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080617205654503424/h9hH830E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 365,
+          "like_count": 6548,
+          "listed_count": 7,
+          "media_count": 235,
+          "tweet_count": 2165
+        },
+        "url": "",
+        "username": "kiki_qiqing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

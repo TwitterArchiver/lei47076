@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096671235656810826",
+    "created_at": "2026-09-07T08:27:03.000Z",
+    "display_text_range": [
+      26,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T09:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096877899408367996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2086815150938759168",
+          "start": 0,
+          "username": "yuki_ciallo"
+        },
+        {
+          "end": 25,
+          "id": "1393881158849503232",
+          "start": 13,
+          "username": "lynn_ciallo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096877899408367996",
+    "in_reply_to_user_id": "2086815150938759168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096671235656810826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki_ciallo @lynn_ciallo 芙兰不会介意的，慢慢来，让情绪自然流露，没关系的，会有好人接纳你的，抱抱你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096671235656810826",
+        "created_at": "2026-09-07T08:27:03.000Z",
+        "display_text_range": [
+          26,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096877899408367996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2086815150938759168",
+              "start": 0,
+              "username": "yuki_ciallo"
+            },
+            {
+              "end": 25,
+              "id": "1393881158849503232",
+              "start": 13,
+              "username": "lynn_ciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096877899408367996",
+        "in_reply_to_user_id": "2086815150938759168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096671235656810826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_ciallo @lynn_ciallo 芙兰不会介意的，慢慢来，让情绪自然流露，没关系的，会有好人接纳你的，抱抱你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086815150938759168",
+        "conversation_id": "2096671235656810826",
+        "created_at": "2026-09-06T18:45:51.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T19:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096671235656810826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1393881158849503232",
+              "start": 18,
+              "username": "lynn_ciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096671235656810826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我重新在这里\n\n像23-24年在@lynn_ciallo 一样\n\n一直发自己的……负面情绪\n\n米娜……会介意吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜\n｜泛性恋｜无性别｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096877899408367996",
+        "name": "斯卡雷特-芙兰朵露",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 18,
+          "like_count": 2926,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1410
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T14:02:54.000Z",
+        "description": "@lynn_ciallo 的非指定女装 / 碎碎念小号｜MtF🏳️‍⚧️ / Sub/M / Bipolar / BPD / DID｜“被所有人爱着……这是我唯一的心愿……”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "lynn_ciallo"
+              }
+            ]
+          }
+        },
+        "id": "2086815150938759168",
+        "is_identity_verified": true,
+        "location": "Betelgeuse",
+        "most_recent_tweet_id": "2096703778624045415",
+        "name": "神楽 由紀子 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2086830914504364253",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086815150938759168/1786371218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086815959596306432/wVmLPaxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 173,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "yuki_ciallo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-16T10:49:13.000Z",
+        "description": "非指定女装 / 碎碎念小号：@yuki_ciallo｜MtF🏳️‍⚧️ / Sub/M / Bipolar / BPD / DID｜“被所有人爱着……这是我唯一的心愿……”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "yuki_ciallo"
+              }
+            ]
+          }
+        },
+        "id": "1393881158849503232",
+        "is_identity_verified": true,
+        "location": "Betelgeuse",
+        "most_recent_tweet_id": "2096362273577259259",
+        "name": "神楽坂 唯音 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2073049561418150196",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1393881158849503232/1772605487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029423814757769216/N6DaL2T7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 482,
+          "like_count": 1144,
+          "listed_count": 6,
+          "media_count": 164,
+          "tweet_count": 1686
+        },
+        "url": "",
+        "username": "lynn_ciallo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

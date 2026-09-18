@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2095521024662212614",
+    "created_at": "2026-09-04T05:06:47.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T06:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095740333443416561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2073934453454614530",
+          "start": 0,
+          "username": "dreamolly1997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095740333443416561",
+    "in_reply_to_user_id": "2073934453454614530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095521024662212614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dreamolly1997 拍拍你，辛苦你了哦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2095521024662212614",
+        "created_at": "2026-09-04T05:06:47.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095740333443416561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2073934453454614530",
+              "start": 0,
+              "username": "dreamolly1997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095740333443416561",
+        "in_reply_to_user_id": "2073934453454614530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095521024662212614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamolly1997 拍拍你，辛苦你了哦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2095521024662212614",
+        "created_at": "2026-09-03T14:35:19.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095521024662212614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095521024662212614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 413,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好伤心，我躁狂发作了可能，🩸完胳膊，又开始给自己脱毛，把四肢刮了我觉得还蛮好的，但是我，唉我操，我几乎把全是刮了，呵呵，我眉毛都缺了一截😔我福不黑不信你看😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2095740333443416561",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 16,
+          "like_count": 2556,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1134
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使\n🚪88，什么都没有",
+        "id": "2073934453454614530",
+        "is_identity_verified": false,
+        "location": "molise 的心里！",
+        "most_recent_tweet_id": "2095740276455456815",
+        "name": "molly",
+        "pinned_tweet_id": "2095379425076621420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073934453454614530/1783770009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 719,
+          "like_count": 4694,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 4753
+        },
+        "url": "",
+        "username": "dreamolly1997",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

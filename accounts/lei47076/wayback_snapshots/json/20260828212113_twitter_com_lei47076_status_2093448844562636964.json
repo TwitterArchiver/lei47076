@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2093301340437176633",
+    "created_at": "2026-08-28T21:21:13.000Z",
+    "display_text_range": [
+      17,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T22:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093448844562636964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900087922235428864",
+          "start": 0,
+          "username": "HosinoKaede0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093448844562636964",
+    "in_reply_to_user_id": "1900087922235428864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093301340437176633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosinoKaede0717 抱抱你呢，辛苦你承受这一切了，结束之后好好休息吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2093301340437176633",
+        "created_at": "2026-08-28T21:21:13.000Z",
+        "display_text_range": [
+          17,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T22:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093448844562636964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900087922235428864",
+              "start": 0,
+              "username": "HosinoKaede0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093448844562636964",
+        "in_reply_to_user_id": "1900087922235428864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093301340437176633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoKaede0717 抱抱你呢，辛苦你承受这一切了，结束之后好好休息吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900087922235428864",
+        "conversation_id": "2093301340437176633",
+        "created_at": "2026-08-28T11:35:05.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093301340437176633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093301340437176633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "創傷一直在閃回……好痛苦好痛……好想去死……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2093448844562636964",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 12,
+          "like_count": 1916,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 850
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-13T07:34:17.000Z",
+        "description": "你好( ´ ▽ ` )ノ\n這裡是start/Esterlla，你也可以叫我星星！\n刻板印象（推文也會包含這些）\n🚪55/77/111\n07/女♀/泛性戀/ENFP-T/ 精神病 /od割手/畫手/文手/同人女/oc人（更多請看主頁自行解鎖）\n喜歡的東西很多，混的圈子也是雜七雜八的！\n總之請多多指教♪~",
+        "id": "1900087922235428864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093301340437176633",
+        "name": "Esterlla✨start⭐",
+        "pinned_tweet_id": "2082841760523510198",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900087922235428864/1785348602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082529060572532736/QQR8SO15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 127,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "HosinoKaede0717",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

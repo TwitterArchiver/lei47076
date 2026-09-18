@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2099801832440914164",
+    "created_at": "2026-09-15T23:36:12.000Z",
+    "display_text_range": [
+      11,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T00:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100005794037264801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2096841738346459136",
+          "start": 0,
+          "username": "Tuvue0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100005794037264801",
+    "in_reply_to_user_id": "2096841738346459136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099801832440914164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tuvue0721 拍拍你，芙兰也不想上课\n辛苦你啦，晚上好好休息吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2099801832440914164",
+        "created_at": "2026-09-15T23:36:12.000Z",
+        "display_text_range": [
+          11,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T00:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100005794037264801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2096841738346459136",
+              "start": 0,
+              "username": "Tuvue0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100005794037264801",
+        "in_reply_to_user_id": "2096841738346459136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099801832440914164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tuvue0721 拍拍你，芙兰也不想上课\n辛苦你啦，晚上好好休息吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096841738346459136",
+        "conversation_id": "2099801832440914164",
+        "created_at": "2026-09-15T10:05:43.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099801832440914164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099801832440914164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁有不上课教程😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2100005794037264801",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2099115813945172238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 32,
+          "like_count": 4242,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2624
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T06:05:18.000Z",
+        "description": "＞𐋣＜",
+        "id": "2096841738346459136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099812368276713786",
+        "name": "✞",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096841738346459136/1789492156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099908360971943936/JtQKTd8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 10,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "Tuvue0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

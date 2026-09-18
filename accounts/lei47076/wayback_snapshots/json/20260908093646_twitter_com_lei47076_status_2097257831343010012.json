@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096983161200922679",
+    "created_at": "2026-09-08T09:36:46.000Z",
+    "display_text_range": [
+      17,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097257831343010012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "763019006",
+          "start": 0,
+          "username": "cinthiafabiolar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097257831343010012",
+    "in_reply_to_user_id": "763019006",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096983161200922679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cinthiafabiolar 力所能及就好了，辛苦你承受这些了，辛苦你了。\n（抱紧）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096983161200922679",
+        "created_at": "2026-09-08T09:36:46.000Z",
+        "display_text_range": [
+          17,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097257831343010012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "763019006",
+              "start": 0,
+              "username": "cinthiafabiolar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097257831343010012",
+        "in_reply_to_user_id": "763019006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096983161200922679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cinthiafabiolar 力所能及就好了，辛苦你承受这些了，辛苦你了。\n（抱紧）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "763019006",
+        "conversation_id": "2096983161200922679",
+        "created_at": "2026-09-07T15:25:20.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096983161200922679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096983161200922679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友遇到了一点困难，我想用自己的办法帮助他，但最后不但没帮上忙，连本人都嫌弃我，要离我而去了……\n好痛苦……明明我也想做点什么的，但是却一点办法都没有，是我的错，对不起……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097257831343010012",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 20,
+          "like_count": 3134,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1594
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-08-17T04:54:07.000Z",
+        "description": "这里是雪梨哦~ 喜欢oc创作/文学/特摄/游戏王/咒术回战/魔裁/魂类游戏/JRPG/日轻/，喜欢发碎碎念，负能量爆棚，会一点小编程，互fo必回，希望能被人发现(⑅˃◡˂⑅)\n如果愿意和雪梨说话的话，雪梨什么都会做的 o(╥﹏╥)o",
+        "id": "763019006",
+        "is_identity_verified": false,
+        "location": "465亿光年外",
+        "most_recent_tweet_id": "2097193655614554120",
+        "name": "月代雪梨🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/763019006/1788105589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094090222661431296/7XvmPxus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 137,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "cinthiafabiolar",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099406600293498880"
+      ]
+    },
+    "author_id": "2020175811878481922",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099406606031294785",
+    "created_at": "2026-09-14T07:55:14.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T08:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099406606031294785"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x0pIDlzl2i",
+          "end": 115,
+          "expanded_url": "https://x.com/lei47076/status/2099406606031294785/photo/1",
+          "media_key": "3_2099406600293498880",
+          "start": 92,
+          "url": "https://t.co/x0pIDlzl2i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099406606031294785",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099406600293498880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没关系，不用勉强自己，什么都可以和我说的，不要因为一时的承诺就一个人承受一切，你还有我，我一直都在，一直都在这里等你。\n拍拍你，加油哦，慢慢来就好。\n\n所以这个是谁发的耶？来认领一下 https://t.co/x0pIDlzl2i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1378,
+        "media_key": "3_2099406600293498880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKXLgmawAALbbF.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099406600293498880"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099406606031294785",
+        "created_at": "2026-09-14T07:55:14.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T08:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099406606031294785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0pIDlzl2i",
+              "end": 115,
+              "expanded_url": "https://x.com/lei47076/status/2099406606031294785/photo/1",
+              "media_key": "3_2099406600293498880",
+              "start": 92,
+              "url": "https://t.co/x0pIDlzl2i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099406606031294785",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099406600293498880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没关系，不用勉强自己，什么都可以和我说的，不要因为一时的承诺就一个人承受一切，你还有我，我一直都在，一直都在这里等你。\n拍拍你，加油哦，慢慢来就好。\n\n所以这个是谁发的耶？来认领一下 https://t.co/x0pIDlzl2i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2099406606031294785",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2099115813945172238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 34,
+          "like_count": 4148,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2525
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

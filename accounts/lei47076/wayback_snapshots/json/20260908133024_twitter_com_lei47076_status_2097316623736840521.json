@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097297270157005298",
+    "created_at": "2026-09-08T13:30:24.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T14:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097316623736840521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1481914707539677185",
+          "start": 0,
+          "username": "KanoYumoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097316623736840521",
+    "in_reply_to_user_id": "1481914707539677185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097297270157005298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KanoYumoe 拍拍你，辛苦你啦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097297270157005298",
+        "created_at": "2026-09-08T13:30:24.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097316623736840521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1481914707539677185",
+              "start": 0,
+              "username": "KanoYumoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097316623736840521",
+        "in_reply_to_user_id": "1481914707539677185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097297270157005298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KanoYumoe 拍拍你，辛苦你啦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481914707539677185",
+        "conversation_id": "2097297270157005298",
+        "created_at": "2026-09-08T12:13:29.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097297270157005298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097297270157005298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近在换药期哦，身体和精神都在适应新药，想要陪一会大家但脑袋却不断泛白，感觉有些对不住大家呀……\n希望各位能原谅我缺席这些天哦，也希望大家都能好好的，平平安安的。\n\n（碎碎念：明明都是SSRI类药物怎么帕罗西汀的戒断反应比舍曲林严重那么多……停药之后感觉脑袋像是在被电击一样，好坏。）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097316623736840521",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 20,
+          "like_count": 3182,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1641
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-14T09:03:05.000Z",
+        "description": "MTF，药跨。经常深夜出没，头像是自设。因为有稳定工作，所以想为大家提供力所能及的帮助，也想成为大家生活中意外的小确幸。\n会及时的互关哦，每一条友善的私信都会认真回复哦。\n早上好，中午好，晚上好。在这个世界上总有人喜欢你，只是你还未曾遇见，和我一起再等等好吗？\n\n联系方式（企鹅）：752771872（风铃🎐）",
+        "id": "1481914707539677185",
+        "is_identity_verified": false,
+        "location": "兰山区",
+        "most_recent_tweet_id": "2097297270157005298",
+        "name": "今天也要吃饱🍥🎐",
+        "pinned_tweet_id": "2088789739663208812",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481914707539677185/1786579000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092787604756582400/40GT1Iq6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 385,
+          "like_count": 6175,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1071
+        },
+        "url": "",
+        "username": "KanoYumoe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

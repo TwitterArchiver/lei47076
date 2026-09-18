@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096834533127856140",
+    "created_at": "2026-09-07T06:32:58.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T07:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096849188369887299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808170551732850693",
+          "start": 0,
+          "username": "HoshikawaKazari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096849188369887299",
+    "in_reply_to_user_id": "1808170551732850693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096834533127856140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoshikawaKazari 拍拍你，好好看哦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2096834124007026688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlzhrpbMAAzLuj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096834533127856140",
+        "created_at": "2026-09-07T06:32:58.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096849188369887299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1808170551732850693",
+              "start": 0,
+              "username": "HoshikawaKazari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096849188369887299",
+        "in_reply_to_user_id": "1808170551732850693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096834533127856140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoshikawaKazari 拍拍你，好好看哦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096834124007026688"
+          ]
+        },
+        "author_id": "1808170551732850693",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2096834533127856140",
+        "created_at": "2026-09-07T05:34:44.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096834533127856140"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "男娘"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "伪娘"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b6tq5O5jZh",
+              "end": 72,
+              "expanded_url": "https://x.com/HoshikawaKazari/status/2096834533127856140/photo/1",
+              "media_key": "3_2096834124007026688",
+              "start": 49,
+              "url": "https://t.co/b6tq5O5jZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096834533127856140",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096834124007026688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 471,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这一期会不会有一点不健康…\n大家会喜欢看这样的吗…？\n (๑ó﹏ò๑)\n#男娘 #伪娘 #男の娘 https://t.co/b6tq5O5jZh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜\n｜泛性恋｜无性别｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096849188369887299",
+        "name": "斯卡雷特-芙兰朵露",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 17,
+          "like_count": 2909,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1395
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-02T16:07:28.000Z",
+        "description": "只是个存在感很低的小透明\n非常欢迎同类互fo(//∇//)\n主营业在抖音 喜欢可以去支持w\n会时不时更新女装 能喜欢的话不胜感激～",
+        "id": "1808170551732850693",
+        "is_identity_verified": false,
+        "location": "四川 成都",
+        "most_recent_tweet_id": "2096834533127856140",
+        "name": "星川風莉HoshikawaKazari",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808170551732850693/1788618727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817133006483779584/Hc5BgYev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 23,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "HoshikawaKazari",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

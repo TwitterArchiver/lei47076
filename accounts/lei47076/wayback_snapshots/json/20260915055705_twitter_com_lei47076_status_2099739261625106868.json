@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2099717840404353407",
+    "created_at": "2026-09-15T05:57:05.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T06:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099739261625106868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1640917359493005313",
+          "start": 0,
+          "username": "shizukululu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099739261625106868",
+    "in_reply_to_user_id": "1640917359493005313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099717840404353407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@shizukululu0721 开心就好啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3666,
+        "height": 720,
+        "media_key": "13_2099717822012387329",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099717822012387329/img/71y5Kp_dEirl3cQh.jpg",
+        "public_metrics": {
+          "view_count": 393
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099717822012387329/vid/avc1/480x270/LP4ULDVnMsAW6uh-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099717822012387329/vid/avc1/640x360/HaKXKKATfG7yIMMb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099717822012387329/vid/avc1/1280x720/q-XgJq2c9wNpGXMZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099717822012387329/pl/PewCZl5WgN2WpauX.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2099717840404353407",
+        "created_at": "2026-09-15T05:57:05.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099739261625106868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1640917359493005313",
+              "start": 0,
+              "username": "shizukululu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099739261625106868",
+        "in_reply_to_user_id": "1640917359493005313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099717840404353407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@shizukululu0721 开心就好啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099717822012387329"
+          ]
+        },
+        "author_id": "1640917359493005313",
+        "conversation_id": "2099717840404353407",
+        "created_at": "2026-09-15T04:31:58.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099717840404353407"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DzQm0hR1RR",
+              "end": 39,
+              "expanded_url": "https://x.com/shizukululu0721/status/2099717840404353407/video/1",
+              "media_key": "13_2099717822012387329",
+              "start": 16,
+              "url": "https://t.co/DzQm0hR1RR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099717840404353407",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099717822012387329"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 970,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "伪街\n还是蛮刺激的喵😋\n#男娘 https://t.co/DzQm0hR1RR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2099739261625106868",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2099115813945172238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 34,
+          "like_count": 4205,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2584
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-29T03:22:47.000Z",
+        "description": "出厂日期04｜成分在推文里啦🥰｜xnn努力中…｜友跨🏳️‍⚧️｜日常碎碎念✨｜偶尔会有负面内容😖｜互of喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Lulushizukuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Lulushizukuuu",
+                "start": 0,
+                "url": "https://t.co/IxTJNDUbn0"
+              }
+            ]
+          }
+        },
+        "id": "1640917359493005313",
+        "is_identity_verified": false,
+        "location": "Xuzhou/Suzhou",
+        "most_recent_tweet_id": "2099732367833550910",
+        "name": "雨下るる",
+        "pinned_tweet_id": "2094011514017714370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640917359493005313/1770278755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089256914173779969/LJrgpZEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 1746,
+          "like_count": 5216,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 2990
+        },
+        "url": "https://t.co/IxTJNDUbn0",
+        "username": "shizukululu0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

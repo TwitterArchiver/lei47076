@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097348248445104337",
+    "created_at": "2026-09-09T11:16:33.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T12:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097645329734946923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1236317911431536640",
+          "start": 0,
+          "username": "RusndageSNF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097645329734946923",
+    "in_reply_to_user_id": "1236317911431536640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097348248445104337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RusndageSNF 好厉害诶！拍拍你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097348248445104337",
+        "created_at": "2026-09-09T11:16:33.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097645329734946923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097645329734946923",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097348248445104337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 好厉害诶！拍拍你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Auto racing action from the Formula One circuit.",
+              "id": "10002765236",
+              "name": "Formula One Racing"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Racing",
+              "id": "1058103880376971264",
+              "name": "Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Auto racing",
+              "id": "847900599387430912",
+              "name": "Auto racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1497266565669998594",
+              "name": "Open-wheel racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509530211146088466",
+              "name": "Motorsport"
+            }
+          }
+        ],
+        "conversation_id": "2097348248445104337",
+        "created_at": "2026-09-08T15:36:03.000Z",
+        "display_text_range": [
+          0,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097348248445104337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097348248445104337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "06​年|ENFP-T|ADHD|双相情感障碍 焦虑症|ODer，但在努力戒掉 Trans（持证含糖MtF，She/Her）🏳️‍⚧️ 已RLE未SRS（没钱orz），算是半家长党（？） JMR国内社区创始者之一，JMR官方字幕组副组长 糖豆人万冠玩家（3000h+） 也经常看F1哦\n新辽宁跨性别群请私信我加入哦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097645329734946923",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 21,
+          "like_count": 3315,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1743
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "is_identity_verified": false,
+        "location": "Hailfern，现居Snoronto（划去）",
+        "most_recent_tweet_id": "2097610834742821245",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2097348248445104337",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236317911431536640/1776786133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2373,
+          "following_count": 1118,
+          "like_count": 31130,
+          "listed_count": 8,
+          "media_count": 596,
+          "tweet_count": 6335
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

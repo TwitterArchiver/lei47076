@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097018724809417180",
+    "created_at": "2026-09-08T03:57:55.000Z",
+    "display_text_range": [
+      12,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T04:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097172555517886951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2057143666121351168",
+          "start": 0,
+          "username": "Teereer999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097172555517886951",
+    "in_reply_to_user_id": "2057143666121351168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097018724809417180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Teereer999 没关系呀，肉肉的肚子很酥服哒！\n要和芙兰来一个抱抱吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2097018713992294400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRobaO7bcAAkE50.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097018724809417180",
+        "created_at": "2026-09-08T03:57:55.000Z",
+        "display_text_range": [
+          12,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097172555517886951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057143666121351168",
+              "start": 0,
+              "username": "Teereer999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097172555517886951",
+        "in_reply_to_user_id": "2057143666121351168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097018724809417180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Teereer999 没关系呀，肉肉的肚子很酥服哒！\n要和芙兰来一个抱抱吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097018713992294400"
+          ]
+        },
+        "author_id": "2057143666121351168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2097018724809417180",
+        "created_at": "2026-09-07T17:46:39.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T18:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097018724809417180"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "白洲梓"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "水梓"
+            },
+            {
+              "end": 42,
+              "start": 30,
+              "tag": "bluearchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VRuMA0ZF9i",
+              "end": 66,
+              "expanded_url": "https://x.com/Teereer999/status/2097018724809417180/photo/1",
+              "media_key": "3_2097018713992294400",
+              "start": 43,
+              "url": "https://t.co/VRuMA0ZF9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097018724809417180",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097018713992294400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1561,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想抱抱泥，可是窝的肚子大大的会先顶到泥🥺\n#白洲梓 #水梓 #bluearchive https://t.co/VRuMA0ZF9i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097172555517886951",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 20,
+          "like_count": 3056,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1522
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-20T16:57:39.000Z",
+        "description": "",
+        "id": "2057143666121351168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097018724809417180",
+        "name": "瓦尼瓦尼",
+        "pinned_tweet_id": "2096525149113901105",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058623258162057216/rFXv7e2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 13,
+          "like_count": 105,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "Teereer999",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

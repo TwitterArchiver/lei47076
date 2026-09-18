@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2094374867881840713",
+    "created_at": "2026-08-31T11:26:56.000Z",
+    "display_text_range": [
+      14,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T12:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094386450163023880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2039995815310102528",
+          "start": 0,
+          "username": "Akane_ll1218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094386450163023880",
+    "in_reply_to_user_id": "2039995815310102528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094374867881840713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akane_ll1218 快回家擦干身体吧～别感冒了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094374824818974720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC2zoPbIAAGTGO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2094374867881840713",
+        "created_at": "2026-08-31T11:26:56.000Z",
+        "display_text_range": [
+          14,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094386450163023880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2039995815310102528",
+              "start": 0,
+              "username": "Akane_ll1218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094386450163023880",
+        "in_reply_to_user_id": "2039995815310102528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094374867881840713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akane_ll1218 快回家擦干身体吧～别感冒了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094374824818974720"
+          ]
+        },
+        "author_id": "2039995815310102528",
+        "conversation_id": "2094374867881840713",
+        "created_at": "2026-08-31T10:40:54.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094374867881840713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0J9qoVgf2r",
+              "end": 29,
+              "expanded_url": "https://x.com/Akane_ll1218/status/2094374867881840713/photo/1",
+              "media_key": "3_2094374824818974720",
+              "start": 6,
+              "url": "https://t.co/0J9qoVgf2r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094374867881840713",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094374824818974720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "淋死我得了 https://t.co/0J9qoVgf2r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2094386450163023880",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 13,
+          "like_count": 2116,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 952
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-03T09:18:12.000Z",
+        "description": "脆弱敏感缺安全感内耗话唠一体机",
+        "id": "2039995815310102528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094375554552312090",
+        "name": "Akane ^",
+        "pinned_tweet_id": "2065663074766618982",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2039995815310102528/1787576481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091865761400958976/kYibzqd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 74,
+          "like_count": 14791,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 3363
+        },
+        "url": "",
+        "username": "Akane_ll1218",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

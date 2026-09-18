@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096961614541152396",
+    "created_at": "2026-09-07T14:18:11.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096966262480052592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "616537873",
+          "start": 0,
+          "username": "aaarjkkmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096966262480052592",
+    "in_reply_to_user_id": "616537873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096961614541152396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkkmiao 很好看呢，拍拍你。"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "喵的大粗腿",
+        "height": 1904,
+        "media_key": "3_2096961594328842241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnndbmbgAEomvz.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096961614541152396",
+        "created_at": "2026-09-07T14:18:11.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096966262480052592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "616537873",
+              "start": 0,
+              "username": "aaarjkkmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096966262480052592",
+        "in_reply_to_user_id": "616537873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096961614541152396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkkmiao 很好看呢，拍拍你。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096961594328842241"
+          ]
+        },
+        "author_id": "616537873",
+        "conversation_id": "2096961614541152396",
+        "created_at": "2026-09-07T13:59:43.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096961614541152396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KE5FksCEt3",
+              "end": 45,
+              "expanded_url": "https://x.com/aaarjkkmiao/status/2096961614541152396/photo/1",
+              "media_key": "3_2096961594328842241",
+              "start": 22,
+              "url": "https://t.co/KE5FksCEt3"
+            },
+            {
+              "display_url": "x.com/aaarjkkmiao/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/aaarjkkmiao/status/2096945848404074795",
+              "start": 46,
+              "url": "https://t.co/1efpJlTt1J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096961614541152396",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "alt_text": "喵的大粗腿",
+            "media_key": "3_2096961594328842241"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 473,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096945848404074795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还…不错？\n\n明天再刮一下没刮干净的地方😋 https://t.co/KE5FksCEt3 https://t.co/1efpJlTt1J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096966262480052592",
+        "name": "斯卡雷特-芙兰朵露",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 20,
+          "like_count": 3004,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1475
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-23T22:30:17.000Z",
+        "description": "大号@aaarjkk 1478Fo卡进后室寻回互Fo🩷\n活在幻想中☁️希望咱们每天都能开开心心的☺️☁️成绩倒数(?)☁️查成分互Follow(?)☁️172cm53kg巨人🍥8/31/2026小资历🎂10/14/2010天残党\n🏳️小号@a0brjkk(负面?🤔)\n🤍@a0brjkkmiao🤭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "aaarjkk"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "a0brjkk"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "a0brjkkmiao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.aaarjkk.top",
+                "end": 23,
+                "expanded_url": "https://shop.aaarjkk.top/",
+                "start": 0,
+                "url": "https://t.co/lIxlEX4uF5"
+              }
+            ]
+          }
+        },
+        "id": "616537873",
+        "is_identity_verified": true,
+        "location": "@aaarjkk (2025.8-2026.8) 永远怀念 ",
+        "most_recent_tweet_id": "2096961614541152396",
+        "name": "是貓貓喵🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/616537873/1786621805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087845591523168256/D8VdVCaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 538,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 555
+        },
+        "url": "https://t.co/lIxlEX4uF5",
+        "username": "aaarjkkmiao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

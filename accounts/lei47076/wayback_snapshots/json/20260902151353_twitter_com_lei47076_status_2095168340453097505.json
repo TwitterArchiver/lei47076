@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2094486821568971078",
+    "created_at": "2026-09-02T15:13:53.000Z",
+    "display_text_range": [
+      13,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095168340453097505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797120101419999232",
+          "start": 0,
+          "username": "YMKxxxxxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095168340453097505",
+    "in_reply_to_user_id": "1797120101419999232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094486821568971078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YMKxxxxxxxx 抱抱你呢，芙兰相信你总有一天会找到属于你的陪伴者的。加油哦，未来还在等你去找到他。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2094486821568971078",
+        "created_at": "2026-09-02T15:13:53.000Z",
+        "display_text_range": [
+          13,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095168340453097505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095168340453097505",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094486821568971078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 抱抱你呢，芙兰相信你总有一天会找到属于你的陪伴者的。加油哦，未来还在等你去找到他。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2094486821568971078",
+        "created_at": "2026-08-31T18:05:46.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T19:03:46.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094486318952911293",
+          "2094486821568971078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094486821568971078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 623,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没人疼。永远只能自己哄自己。不要。不要笑话我，我在哭呀\n我什么都不要，我只要抱抱好不好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2095168340453097505",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 15,
+          "like_count": 2391,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1056
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 96%🍀  🍥  能量: 温和偏低    //碎碎念//\n→ 架构师 ₊˚⊹ 花海 · 虚无 · 唯美 · 存在 · 哲学 · 爱\n可以喜欢我吗？希望能有更多的连接^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "is_identity_verified": false,
+        "location": "本星系群 • 仙女座星系",
+        "most_recent_tweet_id": "2095166547644035088",
+        "name": "夢花（ゆめか）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797120101419999232/1749745222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 735,
+          "like_count": 10863,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 2381
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

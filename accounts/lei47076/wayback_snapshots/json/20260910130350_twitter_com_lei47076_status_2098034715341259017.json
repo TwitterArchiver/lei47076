@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097876103012737462",
+    "created_at": "2026-09-10T13:03:50.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T14:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098034715341259017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054196065172344832",
+          "start": 0,
+          "username": "GptRainy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098034715341259017",
+    "in_reply_to_user_id": "2054196065172344832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097876103012737462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GptRainy 吃得开心呀～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2097876088856981504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0nMBMbMAABl6X.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097876103012737462",
+        "created_at": "2026-09-10T13:03:50.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098034715341259017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098034715341259017",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097876103012737462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 吃得开心呀～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097876088856981504"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2097876103012737462",
+        "created_at": "2026-09-10T02:33:34.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097876103012737462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0touOPW5TK",
+              "end": 26,
+              "expanded_url": "https://x.com/GptRainy/status/2097876103012737462/photo/1",
+              "media_key": "3_2097876088856981504",
+              "start": 3,
+              "url": "https://t.co/0touOPW5TK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097876103012737462",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2097876088856981504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "☺️ https://t.co/0touOPW5TK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2098034715341259017",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 24,
+          "like_count": 3598,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1988
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/历史/语言学/公共交通/城市规划",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2097999928958361925",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 631,
+          "like_count": 1876,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 1046
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

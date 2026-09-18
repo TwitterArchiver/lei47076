@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2098514502191071626",
+    "created_at": "2026-09-12T04:56:40.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T05:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098636890320802075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1781868776918790144",
+          "start": 0,
+          "username": "Hoshika_Mahiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098636890320802075",
+    "in_reply_to_user_id": "1781868776918790144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098514502191071626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshika_Mahiyo （抱紧）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2098514502191071626",
+        "created_at": "2026-09-12T04:56:40.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098636890320802075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1781868776918790144",
+              "start": 0,
+              "username": "Hoshika_Mahiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098636890320802075",
+        "in_reply_to_user_id": "1781868776918790144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098514502191071626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshika_Mahiyo （抱紧）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781868776918790144",
+        "conversation_id": "2098514502191071626",
+        "created_at": "2026-09-11T20:50:20.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T21:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098514502191071626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098514502191071626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 528,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜...\n瑶瑶也好想被抱抱！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2098636890320802075",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 30,
+          "like_count": 3806,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-21T02:13:24.000Z",
+        "description": "也可以叫我刘星瑶~\n同类互fo喵\n🏳️‍⚧️11/08/17 高一 MtF 泛性恋 天残党 半家长党\n🍥2026/08/02 无证含糖 已炸柜\n❌无任何政治立场，不od不抽烟不喝酒不混社会\n👤MBTI-INSFTP 乐观 佛系 非牛顿流体 有点强迫症\n♥️爱好 折腾/音乐/写作/美食\n🗣️🇨🇳🇨🇦🇯🇵🇰🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Riu-Mahiyo",
+                "end": 23,
+                "expanded_url": "https://github.com/Riu-Mahiyo",
+                "start": 0,
+                "url": "https://t.co/evOh4n6fqO"
+              }
+            ]
+          }
+        },
+        "id": "1781868776918790144",
+        "is_identity_verified": false,
+        "location": "现居📍吉林四平梨树    想移民去Canada🇨🇦",
+        "most_recent_tweet_id": "2098521902293889411",
+        "name": "Hoshika_Mahiyo",
+        "pinned_tweet_id": "2096462009609166971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781868776918790144/1786784735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096475212271489024/A9cxjBWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 1828,
+          "like_count": 3819,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/evOh4n6fqO",
+        "username": "Hoshika_Mahiyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

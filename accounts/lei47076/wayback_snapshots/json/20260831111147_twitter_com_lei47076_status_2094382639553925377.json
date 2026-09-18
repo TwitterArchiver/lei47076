@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2094071559678042295",
+    "created_at": "2026-08-31T11:11:47.000Z",
+    "display_text_range": [
+      15,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T12:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094382639553925377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819276723290095616",
+          "start": 0,
+          "username": "Natsuki_803nz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094382639553925377",
+    "in_reply_to_user_id": "1819276723290095616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094071559678042295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsuki_803nz 没关系，喜欢你的人不会介意你的颜值，不喜欢你的人不管怎样都不喜欢你的。\n抱抱你呢，没事的啦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2094071559678042295",
+        "created_at": "2026-08-31T11:11:47.000Z",
+        "display_text_range": [
+          15,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094382639553925377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819276723290095616",
+              "start": 0,
+              "username": "Natsuki_803nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094382639553925377",
+        "in_reply_to_user_id": "1819276723290095616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094071559678042295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuki_803nz 没关系，喜欢你的人不会介意你的颜值，不喜欢你的人不管怎样都不喜欢你的。\n抱抱你呢，没事的啦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819276723290095616",
+        "conversation_id": "2094071559678042295",
+        "created_at": "2026-08-30T14:35:40.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094071559678042295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094071559678042295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 575,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "友友们都是好小一只好可爱呀！\n为什么咱这么丑陋呢…\n好羡慕她们，咱这辈子就要被这具身体折磨惹…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2094382639553925377",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 13,
+          "like_count": 2112,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-02T07:39:26.000Z",
+        "description": "高二｜没钱，暂时蓝v｜炸柜断糖｜重度抑郁｜周六晚上复活，消息回复可能不及时｜179cm/65kg｜百合｜交通迷｜无聊｜想被抱抱…\n小号备用：@Natsuki_nz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Natsuki_nz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/natsuk…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/natsuki803.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Wqo3MVUKbY"
+              }
+            ]
+          }
+        },
+        "id": "1819276723290095616",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2094260587891151119",
+        "name": "夏希🍥",
+        "pinned_tweet_id": "2094084081340563588",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819276723290095616/1771773388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087726087333957632/6Jp9VRIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 492,
+          "like_count": 3066,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1338
+        },
+        "url": "https://t.co/Wqo3MVUKbY",
+        "username": "Natsuki_803nz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

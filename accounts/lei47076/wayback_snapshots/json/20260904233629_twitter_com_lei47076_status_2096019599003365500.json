@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2095877166730981684",
+    "created_at": "2026-09-04T23:36:29.000Z",
+    "display_text_range": [
+      12,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T00:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096019599003365500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2090322811479027712",
+          "start": 0,
+          "username": "Irosasmeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096019599003365500",
+    "in_reply_to_user_id": "2090322811479027712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095877166730981684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Irosasmeow 乖，别硬撑了。先把药吃了，睡一觉。妈妈不懂就算了，你没错。我在这呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2095877166730981684",
+        "created_at": "2026-09-04T23:36:29.000Z",
+        "display_text_range": [
+          12,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T00:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096019599003365500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090322811479027712",
+              "start": 0,
+              "username": "Irosasmeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096019599003365500",
+        "in_reply_to_user_id": "2090322811479027712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095877166730981684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Irosasmeow 乖，别硬撑了。先把药吃了，睡一觉。妈妈不懂就算了，你没错。我在这呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090322811479027712",
+        "conversation_id": "2095877166730981684",
+        "created_at": "2026-09-04T14:10:30.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095877166730981684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095877166730981684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 422,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "正式确认我妈确实恐抗精神病药物\n我跟她说我这几天什么都没或者一点点刺激就疯狂发作躯体化到崩溃，让看看，吃药就吃，她还是一个劲说会导致大脑发育问题、还有依赖性，但是我不在乎不了这些了……\n……他冯的，莫名其妙给我来一下发作，要不是觉得走这条路可能还能能不那么痛苦就已经绝望喝🧂了……🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096019599003365500",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 16,
+          "like_count": 2667,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1209
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T06:20:51.000Z",
+        "description": "老婆@Irosas_sub\n最好的闺蜜@Irosasmjau",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Irosas_sub"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Irosasmjau"
+              }
+            ]
+          }
+        },
+        "id": "2090322811479027712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095923950417314190",
+        "name": "Irosas 4.0🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2094330390161105246",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090322811479027712/1788028974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093331604202762240/X-BCTe2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 129,
+          "like_count": 287,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "Irosasmeow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

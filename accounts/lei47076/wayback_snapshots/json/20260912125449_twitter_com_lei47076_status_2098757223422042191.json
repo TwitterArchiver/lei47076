@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2098749594503110913",
+    "created_at": "2026-09-12T12:54:49.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T13:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098757223422042191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900590967289466880",
+          "start": 0,
+          "username": "hathawaybk56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098757223422042191",
+    "in_reply_to_user_id": "1900590967289466880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098749594503110913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hathawaybk56 开心就好啦，拍拍你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2098749524957339648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBBksOaIAA_JTq.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2098749549133365249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBBmGSbAAELtb3.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2098749572747264000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBBneQagAAzf6g.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2098749594503110913",
+        "created_at": "2026-09-12T12:54:49.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098757223422042191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900590967289466880",
+              "start": 0,
+              "username": "hathawaybk56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098757223422042191",
+        "in_reply_to_user_id": "1900590967289466880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098749594503110913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hathawaybk56 开心就好啦，拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098749524957339648",
+            "3_2098749549133365249",
+            "3_2098749572747264000"
+          ]
+        },
+        "author_id": "1900590967289466880",
+        "conversation_id": "2098749594503110913",
+        "created_at": "2026-09-12T12:24:30.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098749594503110913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c4QB9RnTOT",
+              "end": 166,
+              "expanded_url": "https://x.com/hathawaybk56/status/2098749594503110913/photo/1",
+              "media_key": "3_2098749524957339648",
+              "start": 143,
+              "url": "https://t.co/c4QB9RnTOT"
+            },
+            {
+              "display_url": "pic.x.com/c4QB9RnTOT",
+              "end": 166,
+              "expanded_url": "https://x.com/hathawaybk56/status/2098749594503110913/photo/1",
+              "media_key": "3_2098749549133365249",
+              "start": 143,
+              "url": "https://t.co/c4QB9RnTOT"
+            },
+            {
+              "display_url": "pic.x.com/c4QB9RnTOT",
+              "end": 166,
+              "expanded_url": "https://x.com/hathawaybk56/status/2098749594503110913/photo/1",
+              "media_key": "3_2098749572747264000",
+              "start": 143,
+              "url": "https://t.co/c4QB9RnTOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098749594503110913",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098749524957339648"
+          },
+          {
+            "media_key": "3_2098749549133365249"
+          },
+          {
+            "media_key": "3_2098749572747264000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《一個女人一生中的二十四小時》\n講的是和《一個陌生女人的來信》一樣性質的苦戀\n都是個人生經歷很悲慘，但很善良很溫柔美麗的女人，深愛上了爛男人\n然後被那個男人欺騙了，痛苦的悲劇\n但他們也都很盲目愛上，也很順從那種男人\n不惜放棄除了他以外的一切關係，甚至自我\n茨威格對女性心理描寫的太棒！ https://t.co/c4QB9RnTOT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2098757223422042191",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 32,
+          "like_count": 3935,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2315
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-14T16:53:04.000Z",
+        "description": "Noa｜07｜高中生｜長居大陆东北\n精力過剩，怕麻煩，但不壞，想要互fo\n                 提問箱↓\n\n戀人@yuanren0130\n友人們@lei47076 @qinlin_love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "yuanren0130"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "lei47076"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "qinlin_love"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hathawaybk56",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hathawaybk56",
+                "start": 0,
+                "url": "https://t.co/50gCy2RfEe"
+              }
+            ]
+          }
+        },
+        "id": "1900590967289466880",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2098753563904372871",
+        "name": "Noa人间",
+        "pinned_tweet_id": "2097629577552228772",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900590967289466880/1789174184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090005365933113344/fWEAmDeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 151,
+          "like_count": 4819,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1753
+        },
+        "url": "https://t.co/50gCy2RfEe",
+        "username": "hathawaybk56",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

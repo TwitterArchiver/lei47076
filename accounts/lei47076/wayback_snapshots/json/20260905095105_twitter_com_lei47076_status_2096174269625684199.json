@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2096151898965647550",
+    "created_at": "2026-09-05T09:51:05.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T10:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096174269625684199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2089299881433448448",
+          "start": 0,
+          "username": "tingzi_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096174269625684199",
+    "in_reply_to_user_id": "2089299881433448448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096151898965647550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingzi_love 很不错诶，玩得开心呢～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2096151866581336064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcHBEraQAAP4yi.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2096151880405774336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcHB4LacAATmAP.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2096151898965647550",
+        "created_at": "2026-09-05T09:51:05.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096174269625684199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2089299881433448448",
+              "start": 0,
+              "username": "tingzi_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096174269625684199",
+        "in_reply_to_user_id": "2089299881433448448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096151898965647550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingzi_love 很不错诶，玩得开心呢～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096151866581336064",
+            "3_2096151880405774336"
+          ]
+        },
+        "author_id": "2089299881433448448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096151898965647550",
+        "created_at": "2026-09-05T08:22:11.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096151898965647550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kYp7d6MmWG",
+              "end": 76,
+              "expanded_url": "https://x.com/tingzi_love/status/2096151898965647550/photo/1",
+              "media_key": "3_2096151866581336064",
+              "start": 53,
+              "url": "https://t.co/kYp7d6MmWG"
+            },
+            {
+              "display_url": "pic.x.com/kYp7d6MmWG",
+              "end": 76,
+              "expanded_url": "https://x.com/tingzi_love/status/2096151898965647550/photo/1",
+              "media_key": "3_2096151880405774336",
+              "start": 53,
+              "url": "https://t.co/kYp7d6MmWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096151898965647550",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096151866581336064"
+          },
+          {
+            "media_key": "3_2096151880405774336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上时隔一个月三人小队再次相会😋\nnice\n还记得以前三个一起开这车被雷区炸了好几次，每次都是团灭😋 https://t.co/kYp7d6MmWG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2096174269625684199",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 17,
+          "like_count": 2748,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1270
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T10:35:55.000Z",
+        "description": "我爱我遇见的每个人\nhttps://t.co/USUYiZ7VbZ\n嗯，我是小町子，听起来像女生的名字，不过戏访嘛别在意\n林檎被自欺欺人者气走了，但我还在，生活依旧\n我想回来",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qinlin52771",
+                "end": 33,
+                "expanded_url": "https://ngl.link/qinlin52771",
+                "start": 10,
+                "url": "https://t.co/USUYiZ7VbZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "不想做这个可以放pbl页面设计吗.com",
+                "end": 23,
+                "expanded_url": "http://xn--pbl-628d7es0ct4ew3koka601is4jm89i0kag40c6q1ay0d.com",
+                "start": 0,
+                "url": "https://t.co/w4d1vcFtPw"
+              }
+            ]
+          }
+        },
+        "id": "2089299881433448448",
+        "is_identity_verified": false,
+        "location": "某店前台打瞌睡，被迫看店，有小蛋糕趁我睡着放桌上谢谢",
+        "most_recent_tweet_id": "2096172359916921144",
+        "name": "林檎k",
+        "pinned_tweet_id": "2089376990805778819",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089299881433448448/1788595627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096152007619014656/zmYAyND4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 36,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 255
+        },
+        "url": "https://t.co/w4d1vcFtPw",
+        "username": "tingzi_love",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2100253717610246472",
+    "created_at": "2026-09-16T23:31:56.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T00:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100367110161801412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1665606894499647489",
+          "start": 0,
+          "username": "Hagami8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100367110161801412",
+    "in_reply_to_user_id": "1665606894499647489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100253717610246472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hagami8964 生日快乐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2100253717610246472",
+        "created_at": "2026-09-16T23:31:56.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T00:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100367110161801412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1665606894499647489",
+              "start": 0,
+              "username": "Hagami8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100367110161801412",
+        "in_reply_to_user_id": "1665606894499647489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100253717610246472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hagami8964 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665606894499647489",
+        "conversation_id": "2100253717610246472",
+        "created_at": "2026-09-16T16:01:21.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100253717610246472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100253717610246472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我的20岁生日"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2100367110161801412",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 32,
+          "like_count": 4301,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 2694
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-05T06:30:25.000Z",
+        "description": "是人類？！或許是吧｜無性戀🖤🩶🤍💜 ｜双相情感障碍｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/Iuxe55GEBk\n前世@HagamiMotoyori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "HagamiMotoyori"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 79,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 56,
+                "url": "https://t.co/Iuxe55GEBk"
+              }
+            ]
+          }
+        },
+        "id": "1665606894499647489",
+        "is_identity_verified": false,
+        "location": "虛無的盡頭",
+        "most_recent_tweet_id": "2100253717610246472",
+        "name": "⏚羽上元依⏚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665606894499647489/1788264650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098288921465741312/cXKSS2mg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 216,
+          "like_count": 1966,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "Hagami8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

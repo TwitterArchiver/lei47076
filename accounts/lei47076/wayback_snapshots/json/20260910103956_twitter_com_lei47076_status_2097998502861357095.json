@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097966923824967934",
+    "created_at": "2026-09-10T10:39:56.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T11:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097998502861357095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2070541460659924992",
+          "start": 0,
+          "username": "Kiri_yume1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097998502861357095",
+    "in_reply_to_user_id": "2070541460659924992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097966923824967934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiri_yume1 拍拍你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097966923824967934",
+        "created_at": "2026-09-10T10:39:56.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T11:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097998502861357095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2070541460659924992",
+              "start": 0,
+              "username": "Kiri_yume1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097998502861357095",
+        "in_reply_to_user_id": "2070541460659924992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097966923824967934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiri_yume1 拍拍你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070541460659924992",
+        "conversation_id": "2097966923824967934",
+        "created_at": "2026-09-10T08:34:27.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097966923824967934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097966923824967934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是废物"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097998502861357095",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 24,
+          "like_count": 3566,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1961
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T16:16:49.000Z",
+        "description": "其实是ロプ三代目 || 放弃世界 || #まのさば",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 20,
+                "tag": "まのさば"
+              }
+            ]
+          }
+        },
+        "id": "2070541460659924992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097994021545402531",
+        "name": "ロプ#660",
+        "pinned_tweet_id": "2095100328836583533",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070541460659924992/1787152678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095895165080866816/ljDWz89R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 263,
+          "like_count": 1379,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1262
+        },
+        "url": "",
+        "username": "Kiri_yume1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

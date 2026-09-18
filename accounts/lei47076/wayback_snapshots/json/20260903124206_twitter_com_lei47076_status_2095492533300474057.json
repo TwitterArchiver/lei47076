@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2095476007763640585",
+    "created_at": "2026-09-03T12:42:06.000Z",
+    "display_text_range": [
+      14,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T13:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095492533300474057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900590967289466880",
+          "start": 0,
+          "username": "hathawaybk56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095492533300474057",
+    "in_reply_to_user_id": "1900590967289466880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095476007763640585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hathawaybk56 人是从众的。\n拍拍 NOA，辛苦你承受这些了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2095476007763640585",
+        "created_at": "2026-09-03T12:42:06.000Z",
+        "display_text_range": [
+          14,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095492533300474057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900590967289466880",
+              "start": 0,
+              "username": "hathawaybk56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095492533300474057",
+        "in_reply_to_user_id": "1900590967289466880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095476007763640585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hathawaybk56 人是从众的。\n拍拍 NOA，辛苦你承受这些了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900590967289466880",
+        "conversation_id": "2095476007763640585",
+        "created_at": "2026-09-03T11:36:26.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095476007763640585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095476007763640585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好討厭「嘉豪」這個梗\n在我的班級裡，只要做了哪怕只是和炫耀沾了一點點點點關係的行為，都要被嘲諷是「嘉豪」\n但是我覺得這是很正常的阿，明明人之常情吧！\n我今天在讀喜歡的書時被說了這個詞，我問那個人為什麼\n被回答「你個高中生讀什麼心理學啊？不應該是《哈利波特》《魔戒》嗎？果然嘉豪。」"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2095492533300474057",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 16,
+          "like_count": 2501,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1098
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-14T16:53:04.000Z",
+        "description": "Noa｜07｜高中生｜長居大陆东北\n精力过剩，怕麻烦，但不坏，想要互fo\n\n戀人@yuanren0130\n友人們@lei47076 @junrey_vox @qinlin_love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "yuanren0130"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "lei47076"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "junrey_vox"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "qinlin_love"
+              }
+            ]
+          }
+        },
+        "id": "1900590967289466880",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2095481621768274121",
+        "name": "Noa人间",
+        "pinned_tweet_id": "2087093726254625029",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900590967289466880/1785179577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090005365933113344/fWEAmDeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 141,
+          "like_count": 3913,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1479
+        },
+        "url": "",
+        "username": "hathawaybk56",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

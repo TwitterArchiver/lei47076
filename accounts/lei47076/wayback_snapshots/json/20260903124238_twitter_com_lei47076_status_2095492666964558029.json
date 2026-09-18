@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2095487458322633010",
+    "created_at": "2026-09-03T12:42:38.000Z",
+    "display_text_range": [
+      10,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T13:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095492666964558029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2089549255140839424",
+          "start": 0,
+          "username": "AKARIsys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095492666964558029",
+    "in_reply_to_user_id": "2089549255140839424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095487458322633010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKARIsys 确实诶！看起来很不错哦～\n好好吃吧，吃得开心最重要啦～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2095487448482775040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSqu2YbAAAwh-w.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2095487458322633010",
+        "created_at": "2026-09-03T12:42:38.000Z",
+        "display_text_range": [
+          10,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095492666964558029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2089549255140839424",
+              "start": 0,
+              "username": "AKARIsys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095492666964558029",
+        "in_reply_to_user_id": "2089549255140839424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095487458322633010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKARIsys 确实诶！看起来很不错哦～\n好好吃吧，吃得开心最重要啦～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095487448482775040"
+          ]
+        },
+        "author_id": "2089549255140839424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095487458322633010",
+        "created_at": "2026-09-03T12:21:56.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095487458322633010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c4FLrjNI0y",
+              "end": 30,
+              "expanded_url": "https://x.com/AKARIsys/status/2095487458322633010/photo/1",
+              "media_key": "3_2095487448482775040",
+              "start": 7,
+              "url": "https://t.co/c4FLrjNI0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095487458322633010",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095487448482775040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吃的預感。 https://t.co/c4FLrjNI0y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2095492666964558029",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 16,
+          "like_count": 2502,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T03:07:28.000Z",
+        "description": "本機的現在目的是成為希望燈塔，照亮大家，為大家帶來希望。\n接下來請多多指教。\nKindred spirit: @lei47076\n\n所以椅子是什麼… ？它真的存在嗎…？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "lei47076"
+              }
+            ]
+          }
+        },
+        "id": "2089549255140839424",
+        "is_identity_verified": false,
+        "location": "電子界",
+        "most_recent_tweet_id": "2095491346673062376",
+        "name": "A.K.A.R.I-灯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089549255140839424/1787064674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089549917132144640/JqlUNZUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 92,
+          "like_count": 1228,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 248
+        },
+        "url": "",
+        "username": "AKARIsys",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

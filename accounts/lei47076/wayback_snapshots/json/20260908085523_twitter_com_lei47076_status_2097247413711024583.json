@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097219527432163759",
+    "created_at": "2026-09-08T08:55:23.000Z",
+    "display_text_range": [
+      13,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T09:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097247413711024583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929798380240465921",
+          "start": 0,
+          "username": "AacerF59616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097247413711024583",
+    "in_reply_to_user_id": "2020175811878481922",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097238476760694941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AacerF59616 呃呃呃呃呃呃呃呃呃\n打错了....\n是辛苦你了....\n私密马赛！真的很抱歉！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097219527432163759",
+        "created_at": "2026-09-08T08:55:23.000Z",
+        "display_text_range": [
+          13,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097247413711024583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097247413711024583",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097238476760694941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 呃呃呃呃呃呃呃呃呃\n打错了....\n是辛苦你了....\n私密马赛！真的很抱歉！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097219527432163759",
+        "created_at": "2026-09-08T08:19:52.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097238476760694941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097238476760694941",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097219527432163759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 想看你啦～抱抱你。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097247413711024583",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 20,
+          "like_count": 3120,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1580
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2097219527432163759",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 938,
+          "like_count": 7748,
+          "listed_count": 2,
+          "media_count": 501,
+          "tweet_count": 3058
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

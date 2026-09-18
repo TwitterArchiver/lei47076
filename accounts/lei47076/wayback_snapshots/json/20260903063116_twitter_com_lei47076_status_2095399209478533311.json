@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2095380217262973427",
+    "created_at": "2026-09-03T06:31:16.000Z",
+    "display_text_range": [
+      26,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T07:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095399209478533311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677270742705270784",
+          "start": 0,
+          "username": "GEACPS1940629"
+        },
+        {
+          "end": 25,
+          "id": "2088610517720158208",
+          "start": 15,
+          "username": "LinQi_AWA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095399209478533311",
+    "in_reply_to_user_id": "1677270742705270784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095380217262973427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GEACPS1940629 @LinQi_AWA 恭喜哦！很厉害啦～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095380208044105728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRJMonaYAALVui.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2095380217262973427",
+        "created_at": "2026-09-03T06:31:16.000Z",
+        "display_text_range": [
+          26,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T07:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095399209478533311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677270742705270784",
+              "start": 0,
+              "username": "GEACPS1940629"
+            },
+            {
+              "end": 25,
+              "id": "2088610517720158208",
+              "start": 15,
+              "username": "LinQi_AWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095399209478533311",
+        "in_reply_to_user_id": "1677270742705270784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095380217262973427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GEACPS1940629 @LinQi_AWA 恭喜哦！很厉害啦～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095380208044105728"
+          ]
+        },
+        "author_id": "1677270742705270784",
+        "conversation_id": "2095380217262973427",
+        "created_at": "2026-09-03T05:15:48.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095380217262973427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "2088610517720158208",
+              "start": 30,
+              "username": "LinQi_AWA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GC2FVjfBQp",
+              "end": 69,
+              "expanded_url": "https://x.com/GEACPS1940629/status/2095380217262973427/photo/1",
+              "media_key": "3_2095380208044105728",
+              "start": 46,
+              "url": "https://t.co/GC2FVjfBQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095380217262973427",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095380208044105728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "800fo了！謝謝各位的關注和支持❤️(≧▽≦)；\n\n感謝 @LinQi_AWA 幫我截圖 https://t.co/GC2FVjfBQp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2095399209478533311",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 16,
+          "like_count": 2461,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-07T10:58:18.000Z",
+        "description": "@撐雨傘的湯普尼🇺🇸🇪🇺🇺🇦 的小號丨不談政治，鍵政人請遠離｜心理狀態很糟糕，想讓人安慰，Telegram的鏈接就放在這了，和我聊聊天吧🥺\n\n小號：@TenpennyL62429\n\n提問箱：https://t.co/zN1fnV0uNx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "TenpennyL62429"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny2",
+                "end": 118,
+                "expanded_url": "https://ngl.link/mr.tenpenny2",
+                "start": 95,
+                "url": "https://t.co/zN1fnV0uNx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://telegram.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/qNSceYpy5B"
+              }
+            ]
+          }
+        },
+        "id": "1677270742705270784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095394329313628494",
+        "name": "Mr.湯普尼▐┛",
+        "pinned_tweet_id": "1954982607738847246",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677270742705270784/1737476278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003522899798269952/v4chWipq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 6715,
+          "like_count": 105858,
+          "listed_count": 3,
+          "media_count": 4351,
+          "tweet_count": 11903
+        },
+        "url": "https://t.co/qNSceYpy5B",
+        "username": "GEACPS1940629",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T13:03:50.000Z",
+        "description": "|My Love:@LYX091128|草履蟲2.0|武漢城|♂️|林栖|花果山帝國元首|\n妹妹@xian_zi17640|小妹妹@littletaomiao\n可愛弟弟：@a_username_owo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "LYX091128"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "xian_zi17640"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "littletaomiao"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "a_username_owo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/linqi_qaq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/linqi_qaq",
+                "start": 0,
+                "url": "https://t.co/WP8UVgjbvL"
+              }
+            ]
+          }
+        },
+        "id": "2088610517720158208",
+        "is_identity_verified": false,
+        "location": "冷雨心里",
+        "most_recent_tweet_id": "2095397456804548918",
+        "name": "LinQi",
+        "pinned_tweet_id": "2092629102939292144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088610517720158208/1786866913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088613634591318016/iU2MSsuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 295,
+          "like_count": 4637,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/WP8UVgjbvL",
+        "username": "LinQi_AWA",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

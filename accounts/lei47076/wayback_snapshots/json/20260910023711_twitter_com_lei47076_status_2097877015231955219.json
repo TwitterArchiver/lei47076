@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097745250446102629",
+    "created_at": "2026-09-10T02:37:11.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T03:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097877015231955219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2069160672672546816",
+          "start": 0,
+          "username": "BlackCrow1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097877015231955219",
+    "in_reply_to_user_id": "2069160672672546816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097745250446102629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackCrow1966 拍拍你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2097745237519327232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRywLd-bYAA5jVT.jpg",
+        "width": 890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097745250446102629",
+        "created_at": "2026-09-10T02:37:11.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097877015231955219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2069160672672546816",
+              "start": 0,
+              "username": "BlackCrow1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097877015231955219",
+        "in_reply_to_user_id": "2069160672672546816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097745250446102629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackCrow1966 拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097745237519327232"
+          ]
+        },
+        "author_id": "2069160672672546816",
+        "conversation_id": "2097745250446102629",
+        "created_at": "2026-09-09T17:53:36.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097745250446102629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pxsDH2sR9",
+              "end": 166,
+              "expanded_url": "https://x.com/BlackCrow1966/status/2097745250446102629/photo/1",
+              "media_key": "3_2097745237519327232",
+              "start": 143,
+              "url": "https://t.co/0pxsDH2sR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097745250446102629",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097745237519327232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 541,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面对很多事情，尤其自己的欲望和本能的时候总是本能地感到羞愧，比如性\n我不敢性交 连任何性相关的都不敢想，压抑自己的欲望 禁欲 因为总觉得这样是羞耻的，虽然我的理智上不这么想，但本能总是混沌地矛盾\n除了吃，在吃东西的时候我才觉得，我对得起别人，因为我靠这些能活下去\n“只有粮食是我珍爱” https://t.co/0pxsDH2sR9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2097877015231955219",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 23,
+          "like_count": 3447,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1849
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T20:50:56.000Z",
+        "description": "反正  大荒年以后  还要谈战争，\n我不如仍去当佣兵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/blackcrow1917",
+                "end": 23,
+                "expanded_url": "http://t.me/blackcrow1917",
+                "start": 0,
+                "url": "https://t.co/vMj4wbILEU"
+              }
+            ]
+          }
+        },
+        "id": "2069160672672546816",
+        "is_identity_verified": false,
+        "location": "沙坪坝",
+        "most_recent_tweet_id": "2097836521827226090",
+        "name": "胃烧书🍥",
+        "pinned_tweet_id": "2090025046278582467",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069160672672546816/1788722867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087905660696686592/_A6f0rb3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 1003,
+          "like_count": 11386,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/vMj4wbILEU",
+        "username": "BlackCrow1966",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

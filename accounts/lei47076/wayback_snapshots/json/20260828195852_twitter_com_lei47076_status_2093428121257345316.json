@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2093385612955091245",
+    "created_at": "2026-08-28T19:58:52.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T20:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093428121257345316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863439189909618688",
+          "start": 0,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093428121257345316",
+    "in_reply_to_user_id": "1863439189909618688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093385612955091245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086xe 难绷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2428,
+        "media_key": "3_2093385593950773248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0zG0FbIAA-0ZG.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2093385612955091245",
+        "created_at": "2026-08-28T19:58:52.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T20:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093428121257345316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093428121257345316",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093385612955091245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 难绷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093385593950773248"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2093385612955091245",
+        "created_at": "2026-08-28T17:09:58.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T18:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093385612955091245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WyI2xYEvOs",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2093385612955091245/photo/1",
+              "media_key": "3_2093385593950773248",
+              "start": 0,
+              "url": "https://t.co/WyI2xYEvOs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093385612955091245",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2093385593950773248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3705,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WyI2xYEvOs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2093428121257345316",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 12,
+          "like_count": 1882,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 820
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2093424424066462102",
+        "name": "hsn.bot",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37162,
+          "following_count": 365,
+          "like_count": 264,
+          "listed_count": 107,
+          "media_count": 19203,
+          "tweet_count": 19305
+        },
+        "url": "",
+        "username": "hsn8086xe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

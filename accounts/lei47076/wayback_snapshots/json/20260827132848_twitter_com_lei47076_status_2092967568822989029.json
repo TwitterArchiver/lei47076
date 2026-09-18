@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2092945524462960961",
+    "created_at": "2026-08-27T13:28:48.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092967568822989029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2078430419587153920",
+          "start": 0,
+          "username": "StrawMono_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092967568822989029",
+    "in_reply_to_user_id": "2078430419587153920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092945524462960961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StrawMono_ 那很棒棒了呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2092945524462960961",
+        "created_at": "2026-08-27T13:28:48.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092967568822989029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2078430419587153920",
+              "start": 0,
+              "username": "StrawMono_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092967568822989029",
+        "in_reply_to_user_id": "2078430419587153920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092945524462960961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StrawMono_ 那很棒棒了呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078430419587153920",
+        "conversation_id": "2092945524462960961",
+        "created_at": "2026-08-27T12:01:12.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092945524462960961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092945524462960961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我竟然出柜了？！\n我妈跟我说，现在他们不支持也不反对，因为即使反对也没用；到成年之后我想干嘛就干嘛\n我我我我我我我去，竟然是家长不管党喵！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。\nMy soul’s companion：@hathawaybk56",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "hathawaybk56"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2092967568822989029",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 12,
+          "like_count": 1653,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T10:43:54.000Z",
+        "description": "欢迎来Mono酱的群组聊天 http://t.co/ovF43K4Rp\n碎碎念 @StrawMono_OwO\n生产日期 2010.05.07 / hrt 2026.08.04 / 无证含糖 / 家长不管党 / 不od不割手 / 是笨蛋心理委员，在寻找自我的救赎 / 玩原神、三角洲\n最爱的老公&主人：@h1kar1_chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "StrawMono_OwO"
+              },
+              {
+                "end": 162,
+                "start": 150,
+                "username": "h1kar1_chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "",
+                "end": 23,
+                "expanded_url": "",
+                "start": 0,
+                "url": "https://t.co/kwnn4le920"
+              }
+            ]
+          }
+        },
+        "id": "2078430419587153920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092946386958655786",
+        "name": "草莓味精StrawMono🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2090101885579800873",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078430419587153920/1786877878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088943333473456128/oBK498nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 346,
+          "like_count": 1681,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/kwnn4le920",
+        "username": "StrawMono_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

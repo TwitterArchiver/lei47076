@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2093357418101289213",
+    "created_at": "2026-08-28T21:11:49.000Z",
+    "display_text_range": [
+      11,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T22:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093446480069824820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2012533332404269056",
+          "start": 0,
+          "username": "Cang17167"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093446480069824820",
+    "in_reply_to_user_id": "2012533332404269056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093357418101289213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cang17167 不是哦，芙兰觉得每一个人都是人类里面特殊的个体，有自己的独特性，不能说没有用，应该说属于你的绽放还没有到哦。\n抱抱你哦，希望你能开心一些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2093357418101289213",
+        "created_at": "2026-08-28T21:11:49.000Z",
+        "display_text_range": [
+          11,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T22:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093446480069824820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2012533332404269056",
+              "start": 0,
+              "username": "Cang17167"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093446480069824820",
+        "in_reply_to_user_id": "2012533332404269056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093357418101289213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cang17167 不是哦，芙兰觉得每一个人都是人类里面特殊的个体，有自己的独特性，不能说没有用，应该说属于你的绽放还没有到哦。\n抱抱你哦，希望你能开心一些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012533332404269056",
+        "conversation_id": "2093357418101289213",
+        "created_at": "2026-08-28T15:17:55.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T16:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093357418101289213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093357418101289213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 476,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是不是很没用啊……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "在听歌。在发呆。在省电。\n熟了之后：在碎碎念。在傻笑。在烦你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2093446480069824820",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 12,
+          "like_count": 1908,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 842
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T14:32:09.000Z",
+        "description": "🐹",
+        "id": "2012533332404269056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093373532122259598",
+        "name": "仓鼠2.0",
+        "pinned_tweet_id": "2090098234425569730",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012533332404269056/1768660585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012534425180082176/WVOIVA_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 106,
+          "like_count": 474,
+          "listed_count": 10,
+          "media_count": 163,
+          "tweet_count": 1495
+        },
+        "url": "",
+        "username": "Cang17167",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

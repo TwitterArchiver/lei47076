@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2098381235169136848",
+    "created_at": "2026-09-11T15:53:29.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T16:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098439799019638953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1830111977391472640",
+          "start": 0,
+          "username": "qym932026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098439799019638953",
+    "in_reply_to_user_id": "1830111977391472640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098381235169136848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qym932026 拍拍你，开心就好啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2098381221411880960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7ymmmbAAA8MAi.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1079,
+        "media_key": "3_2098381229636939776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7ynFPbcAAhtya.jpg",
+        "width": 1093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2098381235169136848",
+        "created_at": "2026-09-11T15:53:29.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T16:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098439799019638953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830111977391472640",
+              "start": 0,
+              "username": "qym932026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098439799019638953",
+        "in_reply_to_user_id": "1830111977391472640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098381235169136848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qym932026 拍拍你，开心就好啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098381221411880960",
+            "3_2098381229636939776"
+          ]
+        },
+        "author_id": "1830111977391472640",
+        "conversation_id": "2098381235169136848",
+        "created_at": "2026-09-11T12:00:47.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098381235169136848"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "药娘"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "雌二醇"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUE3xDzM8u",
+              "end": 114,
+              "expanded_url": "https://x.com/qym932026/status/2098381235169136848/photo/1",
+              "media_key": "3_2098381221411880960",
+              "start": 91,
+              "url": "https://t.co/gUE3xDzM8u"
+            },
+            {
+              "display_url": "pic.x.com/gUE3xDzM8u",
+              "end": 114,
+              "expanded_url": "https://x.com/qym932026/status/2098381235169136848/photo/1",
+              "media_key": "3_2098381229636939776",
+              "start": 91,
+              "url": "https://t.co/gUE3xDzM8u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098381235169136848",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098381221411880960"
+          },
+          {
+            "media_key": "3_2098381229636939776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1758,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实测hrt第四天情况变化喵：\n总体来说还不错呢，最直观的感受就是脸部出油少了很多，现在整个人都很清爽喵，而且涩涩也变得更加困难了。其他的倒是没什么改变喵\n#药娘 #雌二醇 #mtf https://t.co/gUE3xDzM8u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2098439799019638953",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 29,
+          "like_count": 3770,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 2134
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-01T05:14:47.000Z",
+        "description": "🍥hrt：2026/9/8\n有什么事情私信我吧，聊聊天也可以喵",
+        "id": "1830111977391472640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098393387749744828",
+        "name": "浅阳猫🍥🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095413161159471110/_oPhvBkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 104,
+          "like_count": 78,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "qym932026",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

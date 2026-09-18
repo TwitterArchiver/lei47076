@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2097975416493613494",
+    "created_at": "2026-09-10T10:49:33.000Z",
+    "display_text_range": [
+      9,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T11:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098000921368412313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2087588980250529792",
+          "start": 0,
+          "username": "zgagajw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098000921368412313",
+    "in_reply_to_user_id": "2087588980250529792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097975416493613494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zgagajw 辛苦你啦～拍拍你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2097975416493613494",
+        "created_at": "2026-09-10T10:49:33.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T11:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098000921368412313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2087588980250529792",
+              "start": 0,
+              "username": "zgagajw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098000921368412313",
+        "in_reply_to_user_id": "2087588980250529792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097975416493613494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zgagajw 辛苦你啦～拍拍你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087588980250529792",
+        "conversation_id": "2097975416493613494",
+        "created_at": "2026-09-10T09:08:12.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097975416493613494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097975416493613494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的已经非常努力的在保持善良，保持一个乐观向上的心态，可不可以不要这样整我了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\n\nFriend：@hathawaybk56   @yuanren0130\n\n｜解离性遗忘｜双相情感障碍｜\n｜泛性恋｜无性别｜理性客观｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2098000921368412313",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 24,
+          "like_count": 3573,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1970
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T17:19:30.000Z",
+        "description": "记录没好生活｜友好交流不聊骚\nhttps://t.co/mWHzY4RDL7来找我玩呀\n可私信互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zgagajw",
+                "end": 38,
+                "expanded_url": "https://ngl.link/zgagajw",
+                "start": 15,
+                "url": "https://t.co/mWHzY4RDL7"
+              }
+            ]
+          }
+        },
+        "id": "2087588980250529792",
+        "is_identity_verified": false,
+        "location": "外太空",
+        "most_recent_tweet_id": "2097989864939729146",
+        "name": "爱上窝边草",
+        "pinned_tweet_id": "2092455232127345007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087588980250529792/1787048774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088873363083321344/-5UVEvsa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 338,
+          "like_count": 3558,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 947
+        },
+        "url": "",
+        "username": "zgagajw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

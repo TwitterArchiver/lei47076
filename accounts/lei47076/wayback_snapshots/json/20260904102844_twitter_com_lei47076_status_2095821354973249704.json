@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2095452187258433972",
+    "created_at": "2026-09-04T10:28:44.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T11:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095821354973249704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314388633869152259",
+          "start": 0,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095821354973249704",
+    "in_reply_to_user_id": "1314388633869152259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095452187258433972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Swathy17531761 抱抱你。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1728,
+        "media_key": "3_2095452145449676800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSKn8VbsAAypgM.jpg",
+        "width": 2304
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2095452155348213760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSKohNbYAAjrD2.jpg",
+        "width": 1728
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2095452164303007744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSKpCkasAAPqFE.jpg",
+        "width": 1728
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2095452175514357760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSKpsVaUAARw68.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2095452187258433972",
+        "created_at": "2026-09-04T10:28:44.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T11:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095821354973249704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314388633869152259",
+              "start": 0,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095821354973249704",
+        "in_reply_to_user_id": "1314388633869152259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095452187258433972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Swathy17531761 抱抱你。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095452145449676800",
+            "3_2095452155348213760",
+            "3_2095452164303007744",
+            "3_2095452175514357760"
+          ]
+        },
+        "author_id": "1314388633869152259",
+        "conversation_id": "2095452187258433972",
+        "created_at": "2026-09-03T10:01:47.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095452187258433972"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "药娘"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "男娘"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C20BsuKr0T",
+              "end": 94,
+              "expanded_url": "https://x.com/Swathy17531761/status/2095452187258433972/photo/1",
+              "media_key": "3_2095452145449676800",
+              "start": 71,
+              "url": "https://t.co/C20BsuKr0T"
+            },
+            {
+              "display_url": "pic.x.com/C20BsuKr0T",
+              "end": 94,
+              "expanded_url": "https://x.com/Swathy17531761/status/2095452187258433972/photo/1",
+              "media_key": "3_2095452155348213760",
+              "start": 71,
+              "url": "https://t.co/C20BsuKr0T"
+            },
+            {
+              "display_url": "pic.x.com/C20BsuKr0T",
+              "end": 94,
+              "expanded_url": "https://x.com/Swathy17531761/status/2095452187258433972/photo/1",
+              "media_key": "3_2095452164303007744",
+              "start": 71,
+              "url": "https://t.co/C20BsuKr0T"
+            },
+            {
+              "display_url": "pic.x.com/C20BsuKr0T",
+              "end": 94,
+              "expanded_url": "https://x.com/Swathy17531761/status/2095452187258433972/photo/1",
+              "media_key": "3_2095452175514357760",
+              "start": 71,
+              "url": "https://t.co/C20BsuKr0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095452187258433972",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095452145449676800"
+          },
+          {
+            "media_key": "3_2095452155348213760"
+          },
+          {
+            "media_key": "3_2095452164303007744"
+          },
+          {
+            "media_key": "3_2095452175514357760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8180,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摔的很痛，前天凌晨不想活着了想去河边结束自己，一开始o了些pr河愈美缓解了过来，从河边下来的时候踩孔摔了一跤疼死了唉，#药娘 #男娘 #od https://t.co/C20BsuKr0T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。对世界保持善意，也允许自己偶尔下暴雨。好的坏的，都记在这里。\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2095821354973249704",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 16,
+          "like_count": 2601,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1169
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "药娘/女心TS/a+罩杯/03-165-55/全能/侵权私直接秒删/加VQ有门槛88/为了过滤低素质男生/门槛zfb 令/原创本人/位置标记现城市可预约/目前处于快流浪状态，感谢关注同类药娘免门槛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaoxi52013",
+                "end": 23,
+                "expanded_url": "https://t.me/xiaoxi52013",
+                "start": 0,
+                "url": "https://t.co/FiOMeYQkCS"
+              }
+            ]
+          }
+        },
+        "id": "1314388633869152259",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2095649868916383759",
+        "name": "小汐🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1314388633869152259/1783629162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040005569478823936/cQhh4SPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4664,
+          "following_count": 87,
+          "like_count": 22,
+          "listed_count": 13,
+          "media_count": 126,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/FiOMeYQkCS",
+        "username": "Swathy17531761",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

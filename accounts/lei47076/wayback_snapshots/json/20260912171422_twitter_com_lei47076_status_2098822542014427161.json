@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2098819174613258254",
+    "created_at": "2026-09-12T17:14:22.000Z",
+    "display_text_range": [
+      14,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098822542014427161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942111360420290561",
+          "start": 0,
+          "username": "credits18118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098822542014427161",
+    "in_reply_to_user_id": "1942111360420290561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098822253769355447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@credits18118 原来如此，其实戒不掉是小事，主要是药物对大脑的损伤之类的。\n加油加油！实在不行就 o 芙兰吧，嘻嘻。反正芙兰一直都在的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2098819174613258254",
+        "created_at": "2026-09-12T17:14:22.000Z",
+        "display_text_range": [
+          14,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098822542014427161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942111360420290561",
+              "start": 0,
+              "username": "credits18118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098822542014427161",
+        "in_reply_to_user_id": "1942111360420290561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098822253769355447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@credits18118 原来如此，其实戒不掉是小事，主要是药物对大脑的损伤之类的。\n加油加油！实在不行就 o 芙兰吧，嘻嘻。反正芙兰一直都在的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942111360420290561",
+        "conversation_id": "2098819174613258254",
+        "created_at": "2026-09-12T17:13:14.000Z",
+        "display_text_range": [
+          10,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098822253769355447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098822253769355447",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098822075662397479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 没事 我还是怕成瘾以后戒不掉 而且我感觉我还没有痛苦到必须要用药来麻醉自我的程度"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys\nFriend：@hathawaybk56   @yuanren0130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "hathawaybk56"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "yuanren0130"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2098822542014427161",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2096259077689274650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 32,
+          "like_count": 3986,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2369
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T06:40:56.000Z",
+        "description": "10年高中在读丨INFP-T丨重抑中焦+双相二型治疗中丨不🚬/🍺/🔪/od/键政丨音游重度依赖丨指派性别男，性别认同探索中(或许是非二元偏女?丨萨福式取向丨人称代词所有都可丨可互fo看成分回关丨很内向但渴望能找到朋友 请私信找我聊天！",
+        "id": "1942111360420290561",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098822555956293730",
+        "name": "Phony",
+        "pinned_tweet_id": "2097107549623570562",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091115941690318848/bHlDpJb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 593,
+          "like_count": 3997,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 1030
+        },
+        "url": "",
+        "username": "credits18118",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
