@@ -1,7 +1,7 @@
 {
   "name": "『芙兰朵露·斯卡雷特』",
   "username": "@lei47076",
-  "bio": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+  "bio": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit:  @AKARIsys\nThe Unsettled Mind：@lei47067",
   "location": "红魔馆-地下室",
   "link": "http://ngl.link/lei47076",
   "avatar": "avatar/avatar.jpg",
@@ -11,9 +11,14 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 79,
-        "start": 70,
+        "end": 81,
+        "start": 72,
         "username": "AKARIsys"
+      },
+      {
+        "end": 110,
+        "start": 101,
+        "username": "lei47067"
       }
     ]
   }
