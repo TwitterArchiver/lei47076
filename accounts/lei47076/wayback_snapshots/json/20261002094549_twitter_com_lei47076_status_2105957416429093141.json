@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2105913365449281977",
+    "created_at": "2026-10-02T09:45:49.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T10:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105957416429093141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2085457755243167744",
+          "start": 0,
+          "username": "HR3EOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105957416429093141",
+    "in_reply_to_user_id": "2085457755243167744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105913365449281977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HR3EOO 抱抱泥～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1802,
+        "media_key": "3_2105913358717435904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTm1CsoaQAATKMp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2105913365449281977",
+        "created_at": "2026-10-02T09:45:49.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T10:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105957416429093141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2085457755243167744",
+              "start": 0,
+              "username": "HR3EOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105957416429093141",
+        "in_reply_to_user_id": "2085457755243167744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105913365449281977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HR3EOO 抱抱泥～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105913358717435904"
+          ]
+        },
+        "author_id": "2085457755243167744",
+        "conversation_id": "2105913365449281977",
+        "created_at": "2026-10-02T06:50:46.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105913365449281977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9osSxnb4H",
+              "end": 150,
+              "expanded_url": "https://x.com/HR3EOO/status/2105913365449281977/photo/1",
+              "media_key": "3_2105913358717435904",
+              "start": 127,
+              "url": "https://t.co/D9osSxnb4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105913365449281977",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105913358717435904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "天哪…真是……被你说中了！ヽ( ຶ▮ ຶ)ﾉ!!!\n我缺爱哦，但我不刻薄…我很温柔的！无论现实还是网络，跟我接触过的人都说我闷骚。₍ᐢ ›̥̥̥ ༝ ‹̥̥̥ ᐢ₎\n我刷存在感…刷存在感，好吧喔……我确实在刷存在感，我就喜欢这样说话呀…₊⁺♡̶♡̶₊⁺ \n其实我说话挺正常的，把颜文字去掉你再看看呢？(*ˊ˘ˋ*)｡♪:*°顶多，算个温柔的人。\n这条消息看了其实有点伤心喔…不过我喜欢你，谢谢你的评价…"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1372,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "天哪…真是……被你说中了！ヽ( ຶ▮ ຶ)ﾉ!!!\n我缺爱哦，但我不刻薄…我很温柔的！无论现实还是网络，跟我接触过的人都说我闷骚。₍ᐢ ›̥̥̥ ༝ ‹̥̥̥ ᐢ₎\n我刷存在感…刷存在感，好吧喔……我确实在刷存在感，我就喜欢这样说话呀…₊⁺♡̶♡̶₊⁺ https://t.co/D9osSxnb4H"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit：@AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2105957416429093141",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 36,
+          "like_count": 5236,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 3647
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T20:11:53.000Z",
+        "description": "=穆穆(2.0)\n2012｜女\n发碎碎念的，可能负面帖子较多\n防炸号: @FNXEOO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "FNXEOO"
+              }
+            ]
+          }
+        },
+        "id": "2085457755243167744",
+        "is_identity_verified": false,
+        "location": "Your heart♡",
+        "most_recent_tweet_id": "2105956693662142706",
+        "name": "hr3eoo",
+        "pinned_tweet_id": "2105934009855627496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085457755243167744/1790492663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104104851718422528/ooGu9HWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 187,
+          "like_count": 4566,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 893
+        },
+        "url": "",
+        "username": "HR3EOO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

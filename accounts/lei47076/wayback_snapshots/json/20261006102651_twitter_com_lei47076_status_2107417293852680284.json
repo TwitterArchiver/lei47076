@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2107414114612158903",
+    "created_at": "2026-10-06T10:26:51.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T11:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107417293852680284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1320354023451496450",
+          "start": 0,
+          "username": "PinkCatLoveSky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107417293852680284",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107414114612158903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PinkCatLoveSky 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2107414114612158903",
+        "created_at": "2026-10-06T10:26:51.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107417293852680284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107417293852680284",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107414114612158903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2107414114612158903",
+        "created_at": "2026-10-06T10:14:13.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107414114612158903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107414114612158903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我能夠接受大部分的人原來很特別嗎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit:  @AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2107417293852680284",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 37,
+          "like_count": 5658,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 4040
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "161/54 2004/7/5 MtFtX\n確診:重度憂鬱\n直播https://t.co/9eCwxZAQNE\n——————————————\n面基無傷人紀錄 多數時候是在照顧人 自己偶爾也會到處切換人格、解離 還會失去記憶 不好受😿\n被打過了 好痛 好可怕 我很委屈、害怕",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/pinkcatouo",
+                "end": 55,
+                "expanded_url": "https://www.twitch.tv/pinkcatouo",
+                "start": 32,
+                "url": "https://t.co/9eCwxZAQNE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5VrJF"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "你的附近       在台灣     問喵問題！➡️",
+        "most_recent_tweet_id": "2107415717813649669",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2106207582901911908",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 2737,
+          "like_count": 113276,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 9702
+        },
+        "url": "https://t.co/7K5di5VrJF",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

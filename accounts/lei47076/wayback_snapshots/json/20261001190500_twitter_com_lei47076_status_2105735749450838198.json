@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2105707138010230835",
+    "created_at": "2026-10-01T19:05:00.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T20:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105735749450838198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2088116033290907649",
+          "start": 0,
+          "username": "kohoshi_tsumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105735749450838198",
+    "in_reply_to_user_id": "2088116033290907649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105707138010230835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kohoshi_tsumu 抱抱泥！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1997,
+        "media_key": "3_2105707126475874304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTj5eZqaYAACWpU.jpg",
+        "width": 1251
+      },
+      {
+        "height": 1997,
+        "media_key": "3_2105707126467485696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTj5eZoaYAAkKRG.jpg",
+        "width": 1123
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2105707138010230835",
+        "created_at": "2026-10-01T19:05:00.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T20:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105735749450838198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2088116033290907649",
+              "start": 0,
+              "username": "kohoshi_tsumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105735749450838198",
+        "in_reply_to_user_id": "2088116033290907649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105707138010230835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohoshi_tsumu 抱抱泥！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105707126475874304",
+            "3_2105707126467485696"
+          ]
+        },
+        "author_id": "2088116033290907649",
+        "conversation_id": "2105707138010230835",
+        "created_at": "2026-10-01T17:11:18.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T18:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105707138010230835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7kVuzR3MH3",
+              "end": 34,
+              "expanded_url": "https://x.com/kohoshi_tsumu/status/2105707138010230835/photo/1",
+              "media_key": "3_2105707126475874304",
+              "start": 11,
+              "url": "https://t.co/7kVuzR3MH3"
+            },
+            {
+              "display_url": "pic.x.com/7kVuzR3MH3",
+              "end": 34,
+              "expanded_url": "https://x.com/kohoshi_tsumu/status/2105707138010230835/photo/1",
+              "media_key": "3_2105707126467485696",
+              "start": 11,
+              "url": "https://t.co/7kVuzR3MH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105707138010230835",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105707126475874304"
+          },
+          {
+            "media_key": "3_2105707126467485696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為什麼不死····· https://t.co/7kVuzR3MH3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit：@AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2105735749450838198",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 36,
+          "like_count": 5198,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 3609
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T04:12:07.000Z",
+        "description": "小星紡\n@kohoshitsumu\n@kohoshtsumuchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "kohoshitsumu"
+              },
+              {
+                "end": 34,
+                "start": 18,
+                "username": "kohoshtsumuchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kohoshitsumu",
+                "end": 23,
+                "expanded_url": "http://ngl.link/kohoshitsumu",
+                "start": 0,
+                "url": "https://t.co/qohlHsxzbi"
+              }
+            ]
+          }
+        },
+        "id": "2088116033290907649",
+        "is_identity_verified": false,
+        "location": "永恆的夢里",
+        "most_recent_tweet_id": "2105707138010230835",
+        "name": "小星紡-𝐤𝐨𝐡𝐨𝐬𝐡𝐢𝐭𝐬𝐮𝐦𝐮",
+        "pinned_tweet_id": "2100882449740017848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088116033290907649/1786681194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103136759404236800/hJgcJQ6Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 51,
+          "like_count": 795,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 453
+        },
+        "url": "https://t.co/qohlHsxzbi",
+        "username": "kohoshi_tsumu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

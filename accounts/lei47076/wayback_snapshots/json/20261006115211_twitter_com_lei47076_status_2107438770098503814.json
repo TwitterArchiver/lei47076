@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2107389307099259182",
+    "created_at": "2026-10-06T11:52:11.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T12:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107438770098503814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2086700058670403584",
+          "start": 0,
+          "username": "Woodenmaniy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107438770098503814",
+    "in_reply_to_user_id": "2086700058670403584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107437228725325882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Woodenmaniy 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2107389307099259182",
+        "created_at": "2026-10-06T11:52:11.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107438770098503814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2086700058670403584",
+              "start": 0,
+              "username": "Woodenmaniy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107438770098503814",
+        "in_reply_to_user_id": "2086700058670403584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107437228725325882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Woodenmaniy 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086700058670403584",
+        "conversation_id": "2107389307099259182",
+        "created_at": "2026-10-06T11:46:04.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107437228725325882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107437228725325882",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107436410307494307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 ？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit:  @AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2107438770098503814",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 37,
+          "like_count": 5669,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 4053
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T06:30:14.000Z",
+        "description": "生于2011年1月，坐标郑州，某高中学生（萧楚楠），经常发一些日常、抽象内容，随时欢迎私信或评论区聊天，尊重一切生命（除反人类群体外尊重、友好，欢迎聊天），可以讨论任何话题\n爱国，不见证，无神论，晶格别抓我…\n所有人一定要好好活着，爱自己\n不要恶意伤害其他朋友\n一般都会fo的\nQ：3779821957，欢迎~",
+        "id": "2086700058670403584",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2107437554295509335",
+        "name": "木里木人",
+        "pinned_tweet_id": "2107347011347566963",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086700058670403584/1787592506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098606536688115712/t_ccY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 628,
+          "like_count": 12323,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1788
+        },
+        "url": "",
+        "username": "Woodenmaniy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

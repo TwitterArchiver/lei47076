@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2107363186093806002",
+    "created_at": "2026-10-06T10:34:57.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T11:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107419332531892286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2092735879878172672",
+          "start": 0,
+          "username": "LingYuqiu0612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107419332531892286",
+    "in_reply_to_user_id": "2092735879878172672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107363186093806002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingYuqiu0612 抱抱你～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2107363186093806002",
+        "created_at": "2026-10-06T10:34:57.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107419332531892286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2092735879878172672",
+              "start": 0,
+              "username": "LingYuqiu0612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107419332531892286",
+        "in_reply_to_user_id": "2092735879878172672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107363186093806002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingYuqiu0612 抱抱你～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092735879878172672",
+        "conversation_id": "2107363186093806002",
+        "created_at": "2026-10-06T06:51:51.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107363186093806002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107363186093806002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "应姐姐所邀而写的新自介（x）\n这里是泠羽，一名08年出厂的小鹿包/小女孩\n身高……，163.1——162，估计未来还会减下去（身高居然真的可以减?）\n体重:49，不过在姐姐支持下已经到55左右了（x）\n\n习惯嘛……，有问题就嫁祸亲友，没问题就迫害亲友（总之绝对不是自己的问题！）\n想要能够照顾好身边的人，至少要包含有同处于风铃姐庇护下的其她妹妹\n素一个极其抽象的喵，可参考咱的名字，和给群友设置的头衔捏\n平时的话，精神体上会以“小妙”为主体，但是一点也不会影响和大伙交流的啦\n\n不指望会有多少fo多高的热度，毕竟嘛……\n有着一群朋友在，能够时不时的进行互动，被在意，就已经很满足很满足了啦\n但也还是希望能够结识到更多的朋友，认识更多的伙伴，因此，就在此再一次认识一下叭"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 356,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "应姐姐所邀而写的新自介（x）\n这里是泠羽，一名08年出厂的小鹿包/小女孩\n身高……，163.1——162，估计未来还会减下去（身高居然真的可以减?）\n体重:49，不过在姐姐支持下已经到55左右了（x）\n\n习惯嘛……，有问题就嫁祸亲友，没问题就迫害亲友（总之绝对不是自己的问题！）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit:  @AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2107419332531892286",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 37,
+          "like_count": 5660,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 4042
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T22:09:42.000Z",
+        "description": "这里是泠羽，简单介绍下捏\n08年小鹿包｜mtf｜嗜血｜天然呆｜虚无主义者｜\n家人兼顾亲人:@KanoYumoe｜@Magkyusejinki \n誓死追随琳大王:@AacerF59616\n天底下最好的妹妹:@Lihuasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "KanoYumoe"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Magkyusejinki"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "AacerF59616"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "Lihuasakura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LingYu0612",
+                "end": 23,
+                "expanded_url": "http://t.me/LingYu0612",
+                "start": 0,
+                "url": "https://t.co/0eQU5cGgC2"
+              }
+            ]
+          }
+        },
+        "id": "2092735879878172672",
+        "is_identity_verified": false,
+        "location": "重庆市",
+        "most_recent_tweet_id": "2107391461042077718",
+        "name": "泠羽🍥（红烧版）",
+        "pinned_tweet_id": "2092748482662826272",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092735879878172672/1788192233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092736457719099392/Ap8QFR1M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 430,
+          "like_count": 2714,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/0eQU5cGgC2",
+        "username": "LingYuqiu0612",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

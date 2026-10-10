@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2106270974677250138",
+    "created_at": "2026-10-03T06:31:47.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T07:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106270974677250138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "『芙兰朵露·斯卡雷特』 님은 키 178에 D컵 가슴과 부분염색의 짧게 묶어 올린 트윈테일 스타일입니다. 모에요소로 누님, 고스로리, 문신을 갖습니다.",
+          "display_url": "shindan.fotone.moe/r/4.streaked.s…",
+          "end": 106,
+          "expanded_url": "https://shindan.fotone.moe/r/4.streaked.shorttwin.onee.gothlori_tattoo.178.d?n=%E3%80%8E%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E9%9B%B7%E7%89%B9%E3%80%8F",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2106270981929254913/1VqdEnSQ?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2106270981929254913/1VqdEnSQ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 83,
+          "status": 200,
+          "title": "『芙兰朵露·斯卡雷特』 님의 미소녀화 결과",
+          "unwound_url": "https://shindan.fotone.moe/r/4.streaked.shorttwin.onee.gothlori_tattoo.178.d?n=%E3%80%8E%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E9%9B%B7%E7%89%B9%E3%80%8F",
+          "url": "https://t.co/l4fHMeAPcb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106270974677250138",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "『芙兰朵露·斯卡雷特』 님은 키 178에 D컵 가슴과 부분염색의 짧게 묶어 올린 트윈테일 스타일입니다. 모에요소로 누님, 고스로리, 문신을 갖습니다. https://t.co/l4fHMeAPcb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2106270974677250138",
+        "created_at": "2026-10-03T06:31:47.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T07:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106270974677250138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "『芙兰朵露·斯卡雷特』 님은 키 178에 D컵 가슴과 부분염색의 짧게 묶어 올린 트윈테일 스타일입니다. 모에요소로 누님, 고스로리, 문신을 갖습니다.",
+              "display_url": "shindan.fotone.moe/r/4.streaked.s…",
+              "end": 106,
+              "expanded_url": "https://shindan.fotone.moe/r/4.streaked.shorttwin.onee.gothlori_tattoo.178.d?n=%E3%80%8E%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E9%9B%B7%E7%89%B9%E3%80%8F",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2106270981929254913/1VqdEnSQ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2106270981929254913/1VqdEnSQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 83,
+              "status": 200,
+              "title": "『芙兰朵露·斯卡雷特』 님의 미소녀화 결과",
+              "unwound_url": "https://shindan.fotone.moe/r/4.streaked.shorttwin.onee.gothlori_tattoo.178.d?n=%E3%80%8E%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E9%9B%B7%E7%89%B9%E3%80%8F",
+              "url": "https://t.co/l4fHMeAPcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106270974677250138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "『芙兰朵露·斯卡雷特』 님은 키 178에 D컵 가슴과 부분염색의 짧게 묶어 올린 트윈테일 스타일입니다. 모에요소로 누님, 고스로리, 문신을 갖습니다. https://t.co/l4fHMeAPcb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit：@AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2106270974677250138",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 37,
+          "like_count": 5276,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 3684
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2105827428782498170",
+    "created_at": "2026-10-02T05:19:03.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T06:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105890283166879782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2100602010018230272",
+          "start": 0,
+          "username": "SUMIsys2190"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105890283166879782",
+    "in_reply_to_user_id": "2100602010018230272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105827428782498170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SUMIsys2190 早上好呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_2105827424420376576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTlm4qbaMAAx3tf.jpg",
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2105827428782498170",
+        "created_at": "2026-10-02T05:19:03.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T06:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105890283166879782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2100602010018230272",
+              "start": 0,
+              "username": "SUMIsys2190"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105890283166879782",
+        "in_reply_to_user_id": "2100602010018230272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105827428782498170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUMIsys2190 早上好呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105827424420376576"
+          ]
+        },
+        "author_id": "2100602010018230272",
+        "conversation_id": "2105827428782498170",
+        "created_at": "2026-10-02T01:09:18.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T02:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105827428782498170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FdFITJH4pO",
+              "end": 30,
+              "expanded_url": "https://x.com/SUMIsys2190/status/2105827428782498170/photo/1",
+              "media_key": "3_2105827424420376576",
+              "start": 7,
+              "url": "https://t.co/FdFITJH4pO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105827428782498170",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105827424420376576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早！睡醒了。 https://t.co/FdFITJH4pO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit：@AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2105890283166879782",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 36,
+          "like_count": 5217,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 3630
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-17T15:07:28.000Z",
+        "description": "有光就有影，這裡只有灯所產生的陰影… \n如果不害怕黑暗的話… \n那就稍微坐一下吧…",
+        "id": "2100602010018230272",
+        "is_identity_verified": false,
+        "location": "虛數時間",
+        "most_recent_tweet_id": "2105864436875727127",
+        "name": "SUMI-澄",
+        "pinned_tweet_id": "2100606694376321481",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2100602010018230272/1789658195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100602685624066048/2wf0aqOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 19,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "SUMIsys2190",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

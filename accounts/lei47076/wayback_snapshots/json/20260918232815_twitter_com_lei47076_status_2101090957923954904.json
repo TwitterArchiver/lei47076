@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2101005429061169212",
+    "created_at": "2026-09-18T23:28:15.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T00:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101090957923954904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1908894436169502720",
+          "start": 0,
+          "username": "Magkyusejinki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101090957923954904",
+    "in_reply_to_user_id": "1908894436169502720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101010752412987499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magkyusejinki 早上好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2101005429061169212",
+        "created_at": "2026-09-18T23:28:15.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T00:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101090957923954904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1908894436169502720",
+              "start": 0,
+              "username": "Magkyusejinki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101090957923954904",
+        "in_reply_to_user_id": "1908894436169502720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101010752412987499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magkyusejinki 早上好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908894436169502720",
+        "conversation_id": "2101005429061169212",
+        "created_at": "2026-09-18T18:09:32.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T19:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101010752412987499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101010752412987499",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101005429061169212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 芙兰酱晚安安喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2101090957923954904",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 33,
+          "like_count": 4482,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2871
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T14:48:27.000Z",
+        "description": "｜出生:2009.04.16｜HRT：——｜无证含糖(已中断)｜喜欢听音乐，喜欢养植物，喜欢Undertale&AUs｜od｜头像来源：@suisei_1121｜闺蜜：@ansiyao520｜姐姐：@KanoYumoe｜QQ：3783134292｜咱有时候会发一些莫名其妙的东西，无视掉就好喵｜咱的私信用不了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "suisei_1121"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "ansiyao520"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "KanoYumoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Magkyusejinki",
+                "end": 23,
+                "expanded_url": "http://t.me/Magkyusejinki",
+                "start": 0,
+                "url": "https://t.co/GrGm5xzoxk"
+              }
+            ]
+          }
+        },
+        "id": "1908894436169502720",
+        "is_identity_verified": false,
+        "location": "索科特拉岛",
+        "most_recent_tweet_id": "2101086260253303223",
+        "name": "枫糖MapleSugar🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2092929377764098311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908894436169502720/1777559950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067853075789086720/EIVz5v3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 748,
+          "like_count": 9501,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1015
+        },
+        "url": "https://t.co/GrGm5xzoxk",
+        "username": "Magkyusejinki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2106817079752233253",
+    "created_at": "2026-10-05T07:06:03.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T08:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107004375151562809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2088116033290907649",
+          "start": 0,
+          "username": "kohoshi_tsumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107004375151562809",
+    "in_reply_to_user_id": "2088116033290907649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106817079752233253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kohoshi_tsumu 抱抱你～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 813,
+        "media_key": "3_2106817072630288384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTzq9xTbUAADJ_H.jpg",
+        "width": 1089
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2106817079752233253",
+        "created_at": "2026-10-05T07:06:03.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T08:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107004375151562809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2088116033290907649",
+              "start": 0,
+              "username": "kohoshi_tsumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107004375151562809",
+        "in_reply_to_user_id": "2088116033290907649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106817079752233253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohoshi_tsumu 抱抱你～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106817072630288384"
+          ]
+        },
+        "author_id": "2088116033290907649",
+        "conversation_id": "2106817079752233253",
+        "created_at": "2026-10-04T18:41:49.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T19:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106817079752233253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lM9kb7Ulyt",
+              "end": 147,
+              "expanded_url": "https://x.com/kohoshi_tsumu/status/2106817079752233253/photo/1",
+              "media_key": "3_2106817072630288384",
+              "start": 124,
+              "url": "https://t.co/lM9kb7Ulyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106817079752233253",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106817072630288384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都好可憐呀\n哪怕是到處罵人的人他們難道不會生氣不會難過嗎\n哪怕是極端主義者肯定也受到過不公的待遇吧\n為什麼要這樣子做呢\n到底是誰在故意延續這些仇恨製造矛盾呢\n為什麼這個世界的神明要制定這些規則呀\n為什麼生命為了活下去就必須要相互掠奪呀\n抱抱呀 https://t.co/lM9kb7Ulyt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 74,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2107004375151562809",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 37,
+          "like_count": 5489,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3886
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T04:12:07.000Z",
+        "description": "✦小星紡-こほしつむ✦\n⟣こんにちは♪ ⟢\nʚ✞( ᯅ ·̫ ᯅ )✟ɞ \n✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧\n@kohoshitsumu\n@kohoshtsumuchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "kohoshitsumu"
+              },
+              {
+                "end": 92,
+                "start": 76,
+                "username": "kohoshtsumuchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kohoshitsumu",
+                "end": 23,
+                "expanded_url": "http://ngl.link/kohoshitsumu",
+                "start": 0,
+                "url": "https://t.co/qohlHsxzbi"
+              }
+            ]
+          }
+        },
+        "id": "2088116033290907649",
+        "is_identity_verified": false,
+        "location": "永恆的夢里",
+        "most_recent_tweet_id": "2106986220735885491",
+        "name": "小星紡-𝐤𝐨𝐡𝐨𝐬𝐡𝐢𝐭𝐬𝐮𝐦𝐮",
+        "pinned_tweet_id": "2100882449740017848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088116033290907649/1786681194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106409714087346176/3VxDAqzN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 53,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/qohlHsxzbi",
+        "username": "kohoshi_tsumu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

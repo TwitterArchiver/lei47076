@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2088189619745730725",
+    "created_at": "2026-09-21T06:27:44.000Z",
+    "display_text_range": [
+      9,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T07:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101921298586980391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "156741162",
+          "start": 0,
+          "username": "handz18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101921298586980391",
+    "in_reply_to_user_id": "156741162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088189619745730725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@handz18 你好呀！\n只不过为什么和芙兰发了一个起了吗之后就没理我了诶？\n（疑惑）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2088187357971525632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPq7VqBasAAplRd.jpg",
+        "width": 976
+      },
+      {
+        "height": 783,
+        "media_key": "3_2088187383951114240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPq7XKzbwAAHDBh.png",
+        "width": 891
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2088189619745730725",
+        "created_at": "2026-09-21T06:27:44.000Z",
+        "display_text_range": [
+          9,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T07:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101921298586980391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "156741162",
+              "start": 0,
+              "username": "handz18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101921298586980391",
+        "in_reply_to_user_id": "156741162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088189619745730725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@handz18 你好呀！\n只不过为什么和芙兰发了一个起了吗之后就没理我了诶？\n（疑惑）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088187357971525632",
+            "3_2088187383951114240"
+          ]
+        },
+        "author_id": "156741162",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088189619745730725",
+        "created_at": "2026-08-14T09:02:56.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088189619745730725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vlAyPDw3Zh",
+              "end": 160,
+              "expanded_url": "https://x.com/handz18/status/2088189619745730725/photo/1",
+              "media_key": "3_2088187357971525632",
+              "start": 137,
+              "url": "https://t.co/vlAyPDw3Zh"
+            },
+            {
+              "display_url": "pic.x.com/vlAyPDw3Zh",
+              "end": 160,
+              "expanded_url": "https://x.com/handz18/status/2088189619745730725/photo/1",
+              "media_key": "3_2088187383951114240",
+              "start": 137,
+              "url": "https://t.co/vlAyPDw3Zh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088189619745730725",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088187357971525632"
+          },
+          {
+            "media_key": "3_2088187383951114240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "大家好久不见哇\n\n我和大家分享一下为什么会被封的看法\n\n1.互关绝对不是主要的问题，如果互关是主要的问题，那中文区和越南区得冷清得不行\n\n2.我个人看法是泛流量搞太多了，而且大多数是可以开收益的人，我记得我当时是一周搞了400w流量，全靠评论，我感觉这才是那个号被封的原因\n\n3.账号如果被冻结了，一般48小时之后才能申诉一次，不要频繁申诉\n\n而且现在X的收益条件也改了，泛流量也不行了\n我的建议是好好运营X，把X当成一个人脉广场\n交友才是最重要的(●'◡'●)\n\n被封了确实会难受一段时间，毕竟付出那么多心血了\n但是我建议大家调整好了之后不要徘徊不前\n\n最近我会慢慢找回曾经的朋友，继续交新朋友\n这次重新开始我也能认识很多新的人，这波不亏🥲"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14669,
+          "like_count": 170,
+          "quote_count": 1,
+          "reply_count": 138,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "大家好久不见哇\n\n我和大家分享一下为什么会被封的看法\n\n1.互关绝对不是主要的问题，如果互关是主要的问题，那中文区和越南区得冷清得不行\n\n2.我个人看法是泛流量搞太多了，而且大多数是可以开收益的人，我记得我当时是一周搞了400w流量，全靠评论，我感觉这才是那个号被封的原因 https://t.co/vlAyPDw3Zh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2101921298586980391",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 32,
+          "like_count": 4624,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3018
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1787035835566899201/v6TSd2dN_bigger.jpg",
+          "description": "DeBox",
+          "url": "https://twitter.com/DeBox_Social",
+          "user_id": [
+            "1512316683674742788"
+          ]
+        },
+        "created_at": "2010-06-17T19:46:52.000Z",
+        "description": "Debox社群成员\n分享有趣的事情\n欢迎关注，一起网上冲浪 🌊\nbitget反佣链接：https://t.co/CaizZBW3Qg\n蓝v 3个月40元",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "partner.bitget.cafe/bg/5SRNGV",
+                "end": 66,
+                "expanded_url": "https://partner.bitget.cafe/bg/5SRNGV",
+                "start": 43,
+                "url": "https://t.co/CaizZBW3Qg"
+              }
+            ]
+          }
+        },
+        "id": "156741162",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2101905873744560272",
+        "name": "小白 2.0 💚OKX",
+        "pinned_tweet_id": "2088189619745730725",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/156741162/1788486624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095690643175866368/pBwFrIPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3395,
+          "following_count": 1809,
+          "like_count": 9957,
+          "listed_count": 33,
+          "media_count": 538,
+          "tweet_count": 10940
+        },
+        "url": "",
+        "username": "handz18",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2106596041747521972",
+    "created_at": "2026-10-04T04:37:35.000Z",
+    "display_text_range": [
+      29,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T05:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106604623154794963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1320354023451496450",
+          "start": 0,
+          "username": "PinkCatLoveSky"
+        },
+        {
+          "end": 28,
+          "id": "1592401094273302528",
+          "start": 16,
+          "username": "LuoLuo_Miki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106604623154794963",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106596041747521972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PinkCatLoveSky @LuoLuo_Miki 抱抱泥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2106596041747521972",
+        "created_at": "2026-10-04T04:37:35.000Z",
+        "display_text_range": [
+          29,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106604623154794963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            },
+            {
+              "end": 28,
+              "id": "1592401094273302528",
+              "start": 16,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106604623154794963",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106596041747521972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky @LuoLuo_Miki 抱抱泥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2106596041747521972",
+        "created_at": "2026-10-04T04:03:29.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106596041747521972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 136,
+              "id": "1592401094273302528",
+              "start": 124,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106596041747521972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "從觀察跨圈到入跨籍 經歷了快一年了\n我最感謝兩個人，很可惜她們都已經離開了\n第一位是Epheia 第二位是糯米\n她們兩個的離開雖然對我的精神狀態打擊很大，但我的崩潰閾值和對她人離去的承受程度也變高了\n我由衷的感謝她們兩位讓我活到現在\n但願我能活著把@LuoLuo_Miki的定時看完吧\n但願"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 74,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2106604623154794963",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 37,
+          "like_count": 5389,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 3810
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "161/54 2004/7/5 MtFtX\n確診:重度憂鬱\n直播https://t.co/9eCwxZAQNE\n——————————————\n面基無傷人紀錄 多數時候是在照顧人 自己偶爾也會到處切換人格、解離 還會失去記憶 不好受😿\n被打過了 好痛 好可怕 我很委屈、害怕",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/pinkcatouo",
+                "end": 55,
+                "expanded_url": "https://www.twitch.tv/pinkcatouo",
+                "start": 32,
+                "url": "https://t.co/9eCwxZAQNE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5VrJF"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "你的附近       在台灣     問喵問題！➡️",
+        "most_recent_tweet_id": "2106602471657439257",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2106207582901911908",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 2715,
+          "like_count": 112361,
+          "listed_count": 1,
+          "media_count": 452,
+          "tweet_count": 9534
+        },
+        "url": "https://t.co/7K5di5VrJF",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n碎碎念日常，不玩游戏，不进行非必要互动，别靠近我\n\n账号委派托管@Dreemurr_Miki\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Dreemurr_Miki"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIAU2Y"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "is_identity_verified": false,
+        "location": "距离你126米",
+        "most_recent_tweet_id": "2106272266539434037",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592401094273302528/1785815571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 188,
+          "like_count": 1198,
+          "listed_count": 7,
+          "media_count": 101,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/GbvEwIAU2Y",
+        "username": "LuoLuo_Miki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

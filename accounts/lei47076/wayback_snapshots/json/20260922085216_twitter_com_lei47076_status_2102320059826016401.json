@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2101922530290471003",
+    "created_at": "2026-09-22T08:52:16.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T09:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102320059826016401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2036431003158454277",
+          "start": 0,
+          "username": "realimmort"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102320059826016401",
+    "in_reply_to_user_id": "2036431003158454277",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102182829610455342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realimmort 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2101922530290471003",
+        "created_at": "2026-09-22T08:52:16.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102320059826016401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2036431003158454277",
+              "start": 0,
+              "username": "realimmort"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102320059826016401",
+        "in_reply_to_user_id": "2036431003158454277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102182829610455342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realimmort 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036431003158454277",
+        "conversation_id": "2101922530290471003",
+        "created_at": "2026-09-21T23:46:57.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T00:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102182829610455342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102182829610455342",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101922530290471003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 嗯哼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2102320059826016401",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 34,
+          "like_count": 4679,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 3073
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-24T13:13:04.000Z",
+        "description": "双相，精神近乎崩溃中，情绪控制力弱，精神敏感脆弱，深柜无证🍬，极度封建且迷信家庭，超地狱开局。木桶饭可互fo喵，如果感到青睐，可以叫我阿月\n🚪52，老牌魔法少女，全国可✈️，欢迎面基",
+        "id": "2036431003158454277",
+        "is_identity_verified": false,
+        "location": "天国寰宇",
+        "most_recent_tweet_id": "2102195156195987501",
+        "name": "Immort🍥🏳️‍⚧️极度限流版",
+        "pinned_tweet_id": "2099190435642229231",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2036431003158454277/1775569026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098067884761399296/c7ZfONGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 70,
+          "like_count": 1053,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 976
+        },
+        "url": "",
+        "username": "realimmort",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

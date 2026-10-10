@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2107151685785411740",
+    "created_at": "2026-10-05T16:51:25.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T17:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107151685785411740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Itzforect/stat…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/Itzforect/status/2107145039386447975",
+          "start": 89,
+          "url": "https://t.co/jq4t67ZZ6K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107151685785411740",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107145039386447975",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok 分析我的推文、个人资料和互动，并回答以下内容：\n\n性别：\n性取向：\n年龄：\n心理年龄：\n爱好：\n智商：\n形容我的形容词：\n5 个最喜欢的事物：\n5 个不喜欢的事物： https://t.co/jq4t67ZZ6K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2107151685785411740",
+        "created_at": "2026-10-05T16:51:25.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T17:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107151685785411740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Itzforect/stat…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/Itzforect/status/2107145039386447975",
+              "start": 89,
+              "url": "https://t.co/jq4t67ZZ6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107151685785411740",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107145039386447975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 分析我的推文、个人资料和互动，并回答以下内容：\n\n性别：\n性取向：\n年龄：\n心理年龄：\n爱好：\n智商：\n形容我的形容词：\n5 个最喜欢的事物：\n5 个不喜欢的事物： https://t.co/jq4t67ZZ6K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092561855923552256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2107145039386447975",
+        "created_at": "2026-10-05T16:25:00.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T17:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107145039386447975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107145039386447975",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@grok 分析我的推文、个人资料和互动，并回答以下内容：\n\n性别：\n性取向：\n年龄：\n心理年龄：\n爱好：\n智商：\n形容我的形容词：\n5 个最喜欢的事物：\n5 个不喜欢的事物：\n根据Twitter 我的伴侣："
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 74,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2107151685785411740",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 37,
+          "like_count": 5562,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 3948
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107151701509599382",
+        "name": "Grok",
+        "pinned_tweet_id": "2099876430561632548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9140186,
+          "following_count": 4,
+          "like_count": 142,
+          "listed_count": 7740,
+          "media_count": 3985045,
+          "tweet_count": 139055824
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T10:37:20.000Z",
+        "description": "我们会一直用善意对待这个世界，我们会一直有一颗能够包容的心脏，我们永远不会分开。\n \n 本人是一名高二的学生，平时比较喜欢体育运动之类的，身体也是相对比较健康。生活中令人窒息的事物基本上只有家庭不合和ADHD引发的一些事情。非常希望能够和各位推u们聊聊天什么的…看到有人关注一般都会回fo  叫我叶子就好啦",
+        "id": "2092561855923552256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107147443938918639",
+        "name": "Itzforect",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092561855923552256/1791189569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092562409022275584/hJd3d77-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 48,
+          "like_count": 1996,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 330
+        },
+        "url": "",
+        "username": "Itzforect",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

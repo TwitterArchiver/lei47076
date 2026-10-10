@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2107136242311913755",
+    "created_at": "2026-10-05T15:50:03.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T16:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107136242311913755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lei47076/statu…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/lei47076/status/2106778071978356826",
+          "start": 17,
+          "url": "https://t.co/lCXYCcLOZa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107136242311913755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106778071978356826",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《诡厄巫法 ：启示录—终末登神》 https://t.co/lCXYCcLOZa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2106778066370637824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTzHfTqbMAAiI4n.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2107136242311913755",
+        "created_at": "2026-10-05T15:50:03.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T16:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107136242311913755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lei47076/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/lei47076/status/2106778071978356826",
+              "start": 17,
+              "url": "https://t.co/lCXYCcLOZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107136242311913755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106778071978356826",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《诡厄巫法 ：启示录—终末登神》 https://t.co/lCXYCcLOZa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106778066370637824"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "conversation_id": "2106778071978356826",
+        "created_at": "2026-10-04T16:06:49.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T17:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106778071978356826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExwOrLgkhT",
+              "end": 147,
+              "expanded_url": "https://x.com/lei47076/status/2106778071978356826/photo/1",
+              "media_key": "3_2106778066370637824",
+              "start": 124,
+              "url": "https://t.co/ExwOrLgkhT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106778071978356826",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106778066370637824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "〈虚空诞神〉\n\n神格既尽，怀表无声，\n碎片沉眠，蛰针失锋。\n最后，以身为祭。\n\n虚无深处，\n终末之环初现。\n\n于是时河断流，\n群星坠落，\n终焰横越诸界。\n\n那一日，\n神于虚空中诞生。\n\n当祂回首——\n身后，空无一人。\n\n……\n\n“酒狐，你在哪？” https://t.co/ExwOrLgkhT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 74,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2107136242311913755",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 37,
+          "like_count": 5561,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 3947
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

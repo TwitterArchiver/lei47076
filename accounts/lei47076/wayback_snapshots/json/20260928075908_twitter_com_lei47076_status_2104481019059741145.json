@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2104373372893503686",
+    "created_at": "2026-09-28T07:59:08.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T08:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104481019059741145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1752538285459795968",
+          "start": 0,
+          "username": "tadatsukiei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104481019059741145",
+    "in_reply_to_user_id": "1752538285459795968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104373372893503686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tadatsukiei 拍拍你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2104373372893503686",
+        "created_at": "2026-09-28T07:59:08.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104481019059741145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104481019059741145",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104373372893503686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2104373372893503686",
+        "created_at": "2026-09-28T00:51:24.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T01:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104373372893503686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104373372893503686",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 504,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死にたい🙁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit：@AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2104481019059741145",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 35,
+          "like_count": 4960,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3357
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2104479453628002509",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 883,
+          "like_count": 137757,
+          "listed_count": 4,
+          "media_count": 899,
+          "tweet_count": 10433
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2107669733239877729",
+    "created_at": "2026-10-07T20:19:59.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T21:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107928947489214692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559445629004300290",
+          "start": 0,
+          "username": "nomi9724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107928947489214692",
+    "in_reply_to_user_id": "1559445629004300290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107669733239877729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nomi9724 看不懂\n但是\n拍拍你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2107669733239877729",
+        "created_at": "2026-10-07T20:19:59.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T21:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107928947489214692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559445629004300290",
+              "start": 0,
+              "username": "nomi9724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107928947489214692",
+        "in_reply_to_user_id": "1559445629004300290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107669733239877729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomi9724 看不懂\n但是\n拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559445629004300290",
+        "conversation_id": "2107669733239877729",
+        "created_at": "2026-10-07T03:09:57.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T04:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107669733239877729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BlackCrow1966/…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/BlackCrow1966/status/2107661710266101788",
+              "start": 104,
+              "url": "https://t.co/aGxY48JoZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107669733239877729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不记得具体场景了，我记得我曾经列出来一大堆精神问题/被社会不允许的精神特质给中学同学看，试图问他们哪个更冲击认知，抑郁、精分、DID等特质都被他们略过了，唯独“认为自己理应是异性”让他们猎奇地“噢”了一声。\n\n我对ASD特质有比较深的观察，ASD肯定属于奇怪的范畴了。我和我在现实中认识的ASD同学在压力下都常常进入一种模式：屏蔽自身感官，对外界输入不做反应。外界对此什么看法？“读书读多了”、“怪异”，不过有时候还能得到一些照顾"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 610,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107661710266101788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不记得具体场景了，我记得我曾经列出来一大堆精神问题/被社会不允许的精神特质给中学同学看，试图问他们哪个更冲击认知，抑郁、精分、DID等特质都被他们略过了，唯独“认为自己理应是异性”让他们猎奇地“噢”了一声。 https://t.co/aGxY48JoZe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit:  @AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2107928947489214692",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 39,
+          "like_count": 5793,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 4207
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-16T07:43:26.000Z",
+        "description": "05年生丨任意代词丨自称功能健全丨回fo，但不回fo纯盈利账号丨本质是跨直女？丨repper即将翻车？丨疑似AuDHD丨INFJ丨倒错主体丨不墙内不线下？丨碎片化文史哲丨不太会安慰人丨擅长自我欺骗丨后退！丨\n\n地狱必须是倒置的\n\n匿名信箱：https://t.co/sjR6C4qPyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nomi9742",
+                "end": 143,
+                "expanded_url": "https://ngl.link/nomi9742",
+                "start": 120,
+                "url": "https://t.co/sjR6C4qPyb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/wrSlQRG6DK"
+              }
+            ]
+          }
+        },
+        "id": "1559445629004300290",
+        "is_identity_verified": false,
+        "location": "墙内",
+        "most_recent_tweet_id": "2107884980764549602",
+        "name": "Nomi9724🏳️",
+        "pinned_tweet_id": "2106793680036335827",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100686683297771520/EtUHwGp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 1322,
+          "like_count": 6258,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 939
+        },
+        "url": "https://t.co/wrSlQRG6DK",
+        "username": "nomi9724",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

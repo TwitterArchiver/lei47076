@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2104513228076392600",
+    "created_at": "2026-09-28T10:07:08.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104513228076392600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《四横》，由 EMOTION MIXER 演唱，收录于《追问》专辑中，《四横》下载，《四横》在线试听，更多四横相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/bhoTy3PL",
+          "end": 114,
+          "expanded_url": "https://163cn.tv/bhoTy3PL",
+          "images": [
+            {
+              "height": 3087,
+              "url": "https://pbs.twimg.com/news_img/2104513239451348992/Hv6Cgf9F?format=jpg&name=orig",
+              "width": 3087
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2104513239451348992/Hv6Cgf9F?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 91,
+          "status": 200,
+          "title": "四横 - EMOTION MIXER - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=2117324686&uct2=13%2B1PzQIyVgm4YgtCzAmdA%3D%3D&fx-wechatnew=t1&fx-wxqd=&fx-wordtest=&fx-listentest=t3&ts-wakeup=&H5_DownloadVIPGift=&playerUIModeId=5623502&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.61&sc=wm&tn=",
+          "url": "https://t.co/4dElrN8CQZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104513228076392600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎，好吧，\n其实，我想说的是…，\n告诉我，\n是什么让你，\n如此难过，\n枷锁一般的生活，\n太炙热，\n他们的目光灼伤你和我，\n无处可躲，\n你眼中闪烁的烟火，\n向天边坠落，\n落进银河。\n\nhttps://t.co/4dElrN8CQZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2104513228076392600",
+        "created_at": "2026-09-28T10:07:08.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104513228076392600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《四横》，由 EMOTION MIXER 演唱，收录于《追问》专辑中，《四横》下载，《四横》在线试听，更多四横相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/bhoTy3PL",
+              "end": 114,
+              "expanded_url": "https://163cn.tv/bhoTy3PL",
+              "images": [
+                {
+                  "height": 3087,
+                  "url": "https://pbs.twimg.com/news_img/2104513239451348992/Hv6Cgf9F?format=jpg&name=orig",
+                  "width": 3087
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2104513239451348992/Hv6Cgf9F?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 91,
+              "status": 200,
+              "title": "四横 - EMOTION MIXER - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=2117324686&uct2=13%2B1PzQIyVgm4YgtCzAmdA%3D%3D&fx-wechatnew=t1&fx-wxqd=&fx-wordtest=&fx-listentest=t3&ts-wakeup=&H5_DownloadVIPGift=&playerUIModeId=5623502&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.61&sc=wm&tn=",
+              "url": "https://t.co/4dElrN8CQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104513228076392600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎，好吧，\n其实，我想说的是…，\n告诉我，\n是什么让你，\n如此难过，\n枷锁一般的生活，\n太炙热，\n他们的目光灼伤你和我，\n无处可躲，\n你眼中闪烁的烟火，\n向天边坠落，\n落进银河。\n\nhttps://t.co/4dElrN8CQZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit：@AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2104513228076392600",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 35,
+          "like_count": 4980,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3379
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

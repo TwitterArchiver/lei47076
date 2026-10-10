@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2107163295295873476",
+    "created_at": "2026-10-06T11:18:17.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T12:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107430236761841824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1970336973853507584",
+          "start": 0,
+          "username": "qfngyng120047"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107430236761841824",
+    "in_reply_to_user_id": "1970336973853507584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107428324222103769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qfngyng120047 揉揉脑袋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2107163295295873476",
+        "created_at": "2026-10-06T11:18:17.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107430236761841824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1970336973853507584",
+              "start": 0,
+              "username": "qfngyng120047"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107430236761841824",
+        "in_reply_to_user_id": "1970336973853507584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107428324222103769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qfngyng120047 揉揉脑袋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970336973853507584",
+        "conversation_id": "2107163295295873476",
+        "created_at": "2026-10-06T11:10:41.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107428324222103769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107428324222103769",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107427614776533041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 哦齁齁齁齁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit:  @AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2107430236761841824",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 37,
+          "like_count": 5663,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 4044
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T03:58:53.000Z",
+        "description": "想变成一只可爱的猫娘，超绝洲学长随便带飞，关注我的话，我也会回关的哦",
+        "id": "1970336973853507584",
+        "is_identity_verified": false,
+        "location": "航天基地-总裁会客厅",
+        "most_recent_tweet_id": "2107429625165205575",
+        "name": "七峰樱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970336973853507584/1759289179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104905622840119296/ich7f6Gb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 195,
+          "like_count": 5193,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 699
+        },
+        "url": "",
+        "username": "qfngyng120047",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

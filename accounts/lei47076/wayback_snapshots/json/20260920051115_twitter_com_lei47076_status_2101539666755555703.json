@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2101512655697760317",
+    "created_at": "2026-09-20T05:11:15.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T06:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101539666755555703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2000729757655453696",
+          "start": 0,
+          "username": "thantos_2518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101539666755555703",
+    "in_reply_to_user_id": "2000729757655453696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101512655697760317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thantos_2518 抱抱～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2101512655697760317",
+        "created_at": "2026-09-20T05:11:15.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T06:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101539666755555703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2000729757655453696",
+              "start": 0,
+              "username": "thantos_2518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101539666755555703",
+        "in_reply_to_user_id": "2000729757655453696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101512655697760317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thantos_2518 抱抱～"
+      },
+      {
+        "article": {
+          "cover_media": "3_2101509380374163456",
+          "plain_text": "这里是thantos_ovo.大家可以称呼我thantos.其他称呼只要不太过分我都会接受的了w\n关于我：\n生日是2007.2.18(水瓶,intp).男孩子\n爱好：喜欢可爱的人和物.ACGN.音乐.写作.\n玩的游戏：galgame.arknights.pjsk.东方project等...\n其他：1.友跨，欢迎温柔可爱的孩子和我互fo呢\n2.推特发的帖子一般就是日常，自己的想法,我觉得有趣的事物或者女装（）然后为大家提供情绪价值的了.\n3.心理疾病.可能会突然发一些负能和重力展开的帖子，如果介意把我屏蔽即可（不要因为别人让自己一天的好心情受影响的了ovo）\n4.眼熟的人回复都会回的.如果没回就是我累了或者被藏了的\n回fo的标准\n1.和喜好重合较多的温柔的人优先\n2.不在无关帖文下随意涉及敏感的政治问题.\n3.推文内容不以NSFW，币圈，极端宗教为主的.（毕竟这些我不感兴趣）\n为什么我被屏蔽了呢？\n1.因为你的一些言论在我看来比较冒犯（比如过激，极端，粉红发言，或者一些让我疑惑的私信）\n2.因为我发现一些你发的大部分内容我并不感兴趣.\n其他：\n目前还在学习推特的一些东西，欢迎和我私信聊天。\n关于我墙内的联系方式不要随便问我要了的ovo（如果关系好的话说不定我就我主动给了.嘿嘿.）也不要一上来问我心理问题上的事情的了.我还是有些不想说这些的.抱歉的呢\n愿大家都可以被温柔以待，希望大家都可以找到自己的意义.\nps:感谢看完的你呢，我也不知道该写些什么.想的很多但是感觉空话也很多的了.所以删了很多，后面看能不能再完善吧\n                               \n\n                            \n\n\n                       已经介绍完了，谢谢你的呢，我喜欢你.抱抱w\n",
+          "preview_text": "这里是thantos_ovo.大家可以称呼我thantos.其他称呼只要不太过分我都会接受的了w\n关于我：\n生日是2007.2.18(水瓶,intp).男孩子\n爱好：喜欢可爱的人和物.ACGN.音乐.写作.",
+          "title": "自我介绍"
+        },
+        "attachments": {},
+        "author_id": "2000729757655453696",
+        "conversation_id": "2101512655697760317",
+        "created_at": "2026-09-20T03:23:55.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T04:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101512655697760317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2101…",
+              "end": 37,
+              "expanded_url": "https://x.com/i/article/2101480635324112896",
+              "start": 14,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2101480635324112896",
+              "url": "https://t.co/Tqb7VuW39A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101512655697760317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你可能需要知道的一些事情w https://t.co/Tqb7VuW39A"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2101539666755555703",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 32,
+          "like_count": 4566,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 2953
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-16T00:49:12.000Z",
+        "description": "喜欢可爱的人和物.2007.2.18出厂男性  .友跨.\n时间消耗在：galgame/pjsk/arknights等...\n对人友好.喜欢魔裁.东方project.欢迎私信和我聊天 看成分互fo\n心理疾病史：|抑郁|双相|躁郁| 愿大家越来越好的\n提问箱：https://t.co/dVAEMLgKFn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thantos_ovo",
+                "end": 151,
+                "expanded_url": "https://ngl.link/thantos_ovo",
+                "start": 128,
+                "url": "https://t.co/dVAEMLgKFn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thantos_ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thantos_ovo",
+                "start": 0,
+                "url": "https://t.co/dVAEMLgKFn"
+              }
+            ]
+          }
+        },
+        "id": "2000729757655453696",
+        "is_identity_verified": false,
+        "location": "the moon",
+        "most_recent_tweet_id": "2101533228570144981",
+        "name": "thantos_ovo",
+        "pinned_tweet_id": "2101512655697760317",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000729757655453696/1788832953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099330598255116288/vPQYgTFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 92,
+          "like_count": 1026,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 608
+        },
+        "url": "https://t.co/dVAEMLgKFn",
+        "username": "thantos_2518",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

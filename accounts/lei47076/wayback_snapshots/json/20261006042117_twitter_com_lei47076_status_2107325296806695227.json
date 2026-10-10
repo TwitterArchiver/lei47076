@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2107274383236763985",
+    "created_at": "2026-10-06T04:21:17.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T05:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107325296806695227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1937899755243454464",
+          "start": 0,
+          "username": "Ayaka_susu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107325296806695227",
+    "in_reply_to_user_id": "1937899755243454464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107274383236763985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayaka_susu 抱抱你～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2107274376215453696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT6K4V6a4AA-WhY.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2107274383236763985",
+        "created_at": "2026-10-06T04:21:17.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T05:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107325296806695227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1937899755243454464",
+              "start": 0,
+              "username": "Ayaka_susu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107325296806695227",
+        "in_reply_to_user_id": "1937899755243454464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107274383236763985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayaka_susu 抱抱你～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107274376215453696"
+          ]
+        },
+        "author_id": "1937899755243454464",
+        "conversation_id": "2107274383236763985",
+        "created_at": "2026-10-06T00:58:58.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T01:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107274383236763985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QcwA1DjiCP",
+              "end": 23,
+              "expanded_url": "https://x.com/Ayaka_susu/status/2107274383236763985/photo/1",
+              "media_key": "3_2107274376215453696",
+              "start": 0,
+              "url": "https://t.co/QcwA1DjiCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107274383236763985",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2107274376215453696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1084,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QcwA1DjiCP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit:  @AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2107325296806695227",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 37,
+          "like_count": 5640,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 4022
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-25T15:44:55.000Z",
+        "description": "04|在校生|无证含🍬|🍥互fo|电子信息类专业|躺",
+        "id": "1937899755243454464",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2107324805485867285",
+        "name": "桜川 怜葉🍥",
+        "pinned_tweet_id": "2107234460374905196",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937899755243454464/1789540564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107246227079540737/37ksk-ih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 243,
+          "like_count": 2995,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 666
+        },
+        "url": "",
+        "username": "Ayaka_susu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2107295737646342318",
+    "created_at": "2026-10-06T04:38:29.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T05:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107329623230980183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1227603655903399936",
+          "start": 0,
+          "username": "K66cheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107329623230980183",
+    "in_reply_to_user_id": "1227603655903399936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107295737646342318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K66cheng 拍拍你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2107295726338478080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT6eTFUakAAngTS.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2107295737646342318",
+        "created_at": "2026-10-06T04:38:29.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T05:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107329623230980183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1227603655903399936",
+              "start": 0,
+              "username": "K66cheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107329623230980183",
+        "in_reply_to_user_id": "1227603655903399936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107295737646342318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K66cheng 拍拍你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107295726338478080"
+          ]
+        },
+        "author_id": "1227603655903399936",
+        "conversation_id": "2107295737646342318",
+        "created_at": "2026-10-06T02:23:50.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T03:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107295737646342318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DrlpvO8DWq",
+              "end": 45,
+              "expanded_url": "https://x.com/K66cheng/status/2107295737646342318/photo/1",
+              "media_key": "3_2107295726338478080",
+              "start": 22,
+              "url": "https://t.co/DrlpvO8DWq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107295737646342318",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107295726338478080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 467,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想吃棒棒。。\n想吃奶盖。。\n想被喵喵叫。。 https://t.co/DrlpvO8DWq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit:  @AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2107329623230980183",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 37,
+          "like_count": 5642,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 4024
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-02-12T14:42:44.000Z",
+        "description": "伪物空城｜含糖MTX天残党｜厨娘女仆 | \nINTJ-T｜瑶瑶@GK98815227｜迪迪@BaitangToubao｜梦瑶@baizhimengyao｜皮肤饥渴症终末期患者快和我贴贴｜缺爱｜喵喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "GK98815227"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "BaitangToubao"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "baizhimengyao"
+              }
+            ]
+          }
+        },
+        "id": "1227603655903399936",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2107295737646342318",
+        "name": "蓝粉白糖🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1892567203943252339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1227603655903399936/1632565817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297561582734467072/wWXPtOUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6512,
+          "following_count": 4339,
+          "like_count": 30140,
+          "listed_count": 25,
+          "media_count": 1396,
+          "tweet_count": 19116
+        },
+        "url": "",
+        "username": "K66cheng",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

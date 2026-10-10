@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2102717369126900162",
+    "created_at": "2026-09-23T13:38:44.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T14:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102754539153809750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2037517118548131840",
+          "start": 0,
+          "username": "ENR7OO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102754539153809750",
+    "in_reply_to_user_id": "2037517118548131840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102726157053337836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ENR7OO 抱抱～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2102717369126900162",
+        "created_at": "2026-09-23T13:38:44.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102754539153809750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2037517118548131840",
+              "start": 0,
+              "username": "ENR7OO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102754539153809750",
+        "in_reply_to_user_id": "2037517118548131840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102726157053337836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ENR7OO 抱抱～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037517118548131840",
+        "conversation_id": "2102717369126900162",
+        "created_at": "2026-09-23T11:45:57.000Z",
+        "display_text_range": [
+          10,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102726157053337836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102726157053337836",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102717369126900162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 抱抱宝贝……( •̥́ ˍ •̀ू )"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2102754554316263446",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 35,
+          "like_count": 4715,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3104
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-27T13:10:07.000Z",
+        "description": "=穆穆\n2012｜女\n发碎碎念的，可能负面帖子较多\n来找我交朋友吧🥺🫶",
+        "id": "2037517118548131840",
+        "is_identity_verified": false,
+        "location": "Your heart ♡",
+        "most_recent_tweet_id": "2102753710246076877",
+        "name": "enr7oo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037517118548131840/1780928144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093253394765082624/LATC79KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 76,
+          "like_count": 1097,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "ENR7OO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

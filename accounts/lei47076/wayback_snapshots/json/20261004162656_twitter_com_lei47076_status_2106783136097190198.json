@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2106769795060539441",
+    "created_at": "2026-10-04T16:26:56.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T17:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106783136097190198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2088296553832439808",
+          "start": 0,
+          "username": "NgshingHow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106783136097190198",
+    "in_reply_to_user_id": "2088296553832439808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106769795060539441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NgshingHow 喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1924,
+        "media_key": "3_2106769786747412480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTy_9Xqa4AAdPVj.jpg",
+        "width": 1924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2106769795060539441",
+        "created_at": "2026-10-04T16:26:56.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T17:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106783136097190198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2088296553832439808",
+              "start": 0,
+              "username": "NgshingHow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106783136097190198",
+        "in_reply_to_user_id": "2088296553832439808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106769795060539441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NgshingHow 喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106769786747412480"
+          ]
+        },
+        "author_id": "2088296553832439808",
+        "conversation_id": "2106769795060539441",
+        "created_at": "2026-10-04T15:33:55.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T16:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106769795060539441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RXGRwo1uV1",
+              "end": 82,
+              "expanded_url": "https://x.com/NgshingHow/status/2106769795060539441/photo/1",
+              "media_key": "3_2106769786747412480",
+              "start": 59,
+              "url": "https://t.co/RXGRwo1uV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106769795060539441",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106769786747412480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "完辣😱，\n最近喵喵的客流量都变少惹😭\n有没有人理喵🥹\n(=¯ω¯=)\n有的话请收养我吧😜\n我很听话哒😁❤️\n求求了🥺 https://t.co/RXGRwo1uV1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 74,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2106783136097190198",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 37,
+          "like_count": 5450,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3852
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T16:08:32.000Z",
+        "description": "💪愛立flag(做夢\n最近正在嘗試逃離地球以及偽裝成一個人類\n❤️互fo，小號@MynameRaoRau\n公開歡迎私(無聊找人聊天ing\n【生氣會罵人】@脾氣不好，心情也不好\n 正在寻找主人喵😭\nNGL奶龍【匿名可以隨時問我，都會看】https://t.co/1y97eAqpvK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "MynameRaoRau"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hk2331",
+                "end": 140,
+                "expanded_url": "https://ngl.link/hk2331",
+                "start": 117,
+                "url": "https://t.co/1y97eAqpvK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pasterbox.net/n/6fIwDaHF",
+                "end": 23,
+                "expanded_url": "https://pasterbox.net/n/6fIwDaHF",
+                "start": 0,
+                "url": "https://t.co/eFVg3NB5mJ"
+              }
+            ]
+          }
+        },
+        "id": "2088296553832439808",
+        "is_identity_verified": false,
+        "location": "火星，奧林匹斯山",
+        "most_recent_tweet_id": "2106783084909867344",
+        "name": "我的名字有點繞",
+        "pinned_tweet_id": "2105563421852975518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088296553832439808/1790897867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106668760161796096/xMGLtbhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 482,
+          "like_count": 3102,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1010
+        },
+        "url": "https://t.co/eFVg3NB5mJ",
+        "username": "NgshingHow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

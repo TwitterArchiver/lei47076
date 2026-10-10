@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2107433632763871416",
+    "created_at": "2026-10-06T11:31:46.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T12:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107433632763871416"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mizorewww/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/mizorewww/status/2107344337898176806",
+          "start": 30,
+          "url": "https://t.co/lPz9HMVt0X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107433632763871416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107344337898176806",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇，这么好吗？可惜我买不了，没有外币卡…\n😭😭😭\n苦呀西… https://t.co/lPz9HMVt0X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2012,
+        "media_key": "3_2107343988625948672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7KMUWawAAwsjQ.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2107433632763871416",
+        "created_at": "2026-10-06T11:31:46.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107433632763871416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizorewww/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/mizorewww/status/2107344337898176806",
+              "start": 30,
+              "url": "https://t.co/lPz9HMVt0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107433632763871416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107344337898176806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇，这么好吗？可惜我买不了，没有外币卡…\n😭😭😭\n苦呀西… https://t.co/lPz9HMVt0X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107343988625948672"
+          ]
+        },
+        "author_id": "1987885638038036480",
+        "conversation_id": "2107344337898176806",
+        "created_at": "2026-10-06T05:36:57.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107344337898176806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "xp.kfcv50.today",
+              "end": 26,
+              "expanded_url": "https://xp.kfcv50.today",
+              "start": 3,
+              "status": 200,
+              "title": "XGift · Premium 兑换",
+              "unwound_url": "https://xp.kfcv50.today",
+              "url": "https://t.co/tVfVVRflH5"
+            },
+            {
+              "display_url": "pic.x.com/1L2j2kiWTO",
+              "end": 130,
+              "expanded_url": "https://x.com/mizorewww/status/2107344337898176806/photo/1",
+              "media_key": "3_2107343988625948672",
+              "start": 107,
+              "url": "https://t.co/1L2j2kiWTO"
+            },
+            {
+              "display_url": "x.com/mizorewww/stat…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/mizorewww/status/2106257246787420395",
+              "start": 131,
+              "url": "https://t.co/t1BBby5Fzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107344337898176806",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107343988625948672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "xp.kfcv50.today",
+                "end": 26,
+                "expanded_url": "http://xp.kfcv50.today",
+                "start": 3,
+                "url": "https://t.co/g0TIIl7bUK"
+              }
+            ]
+          },
+          "text": "现在 https://t.co/g0TIIl7bUK 可以自助生成付给 X官方 的stripe付款链接了\n\n所有人都可以为自己超低价买蓝v了: \n人民币 16.4 3个月\n人民币 32.8 6个月\n\n我这边0抽成"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1205,
+          "impression_count": 74249,
+          "like_count": 793,
+          "quote_count": 43,
+          "reply_count": 194,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106257246787420395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在 https://t.co/tVfVVRflH5 可以自助生成付给 X官方 的stripe付款链接了\n\n所有人都可以为自己超低价买蓝v了: \n人民币 16.4 3个月\n人民币 32.8 6个月\n\n我这边0抽成 https://t.co/1L2j2kiWTO https://t.co/t1BBby5Fzx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit:  @AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2107433632763871416",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 37,
+          "like_count": 5664,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 4046
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "大一\n开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\ntelegram: @aac6fef",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "aac6fef"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "is_identity_verified": false,
+        "location": "Crazy Universe ",
+        "most_recent_tweet_id": "2107420549274382502",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2082711443598971203",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7281,
+          "following_count": 1809,
+          "like_count": 41912,
+          "listed_count": 35,
+          "media_count": 1549,
+          "tweet_count": 7399
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

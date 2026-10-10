@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2106662008619675866",
+    "created_at": "2026-10-05T09:48:48.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T10:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107045330290455017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050914237397286912",
+          "start": 0,
+          "username": "FurukawaNagisaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107045330290455017",
+    "in_reply_to_user_id": "2050914237397286912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106662008619675866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurukawaNagisaa 一直都是哦！\n抱抱～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2106662008619675866",
+        "created_at": "2026-10-05T09:48:48.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T10:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107045330290455017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050914237397286912",
+              "start": 0,
+              "username": "FurukawaNagisaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107045330290455017",
+        "in_reply_to_user_id": "2050914237397286912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106662008619675866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurukawaNagisaa 一直都是哦！\n抱抱～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050914237397286912",
+        "conversation_id": "2106662008619675866",
+        "created_at": "2026-10-04T08:25:37.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T09:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106662008619675866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stukdeegorye/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/stukdeegorye/status/2106638644564132045",
+              "start": 16,
+              "url": "https://t.co/Qk2IJWvPld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106662008619675866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1645,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106638644564132045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "话说，你们真的有把我当朋友吗？ https://t.co/Qk2IJWvPld"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 74,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2107045330290455017",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 37,
+          "like_count": 5526,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3918
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-03T12:24:20.000Z",
+        "description": "我是睿睿Chiang\n收件箱：https://t.co/VkGmIzO2UF\n宝宝🥺：@maorenzhina8964💗\nOsaka是Osaka，明乃是明乃\nOsaka跟明乃一边一人😡👊🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "maorenzhina8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jrz121",
+                "end": 38,
+                "expanded_url": "https://ngl.link/jrz121",
+                "start": 15,
+                "url": "https://t.co/VkGmIzO2UF"
+              }
+            ]
+          }
+        },
+        "id": "2050914237397286912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107045244252667935",
+        "name": "东云第20099号",
+        "pinned_tweet_id": "2104479713809027531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050914237397286912/1790689086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092617589990309888/D1YlTBgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 150,
+          "like_count": 2258,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 1392
+        },
+        "url": "",
+        "username": "FurukawaNagisaa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

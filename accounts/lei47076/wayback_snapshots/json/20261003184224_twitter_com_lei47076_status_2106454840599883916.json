@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2106454840599883916",
+    "created_at": "2026-10-03T18:42:24.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T19:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106454840599883916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zza2ku/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/zza2ku/status/2106256371779768613",
+          "start": 5,
+          "url": "https://t.co/DpgtZJCRkO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106454840599883916",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106256371779768613",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "望周知！ https://t.co/DpgtZJCRkO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2106256336753217536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrs-pYXUAAS_iQ.jpg",
+        "width": 1289
+      },
+      {
+        "height": 1131,
+        "media_key": "3_2106256357770829824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrs_3rWoAANtwO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2106454840599883916",
+        "created_at": "2026-10-03T18:42:24.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T19:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106454840599883916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zza2ku/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/zza2ku/status/2106256371779768613",
+              "start": 5,
+              "url": "https://t.co/DpgtZJCRkO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106454840599883916",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106256371779768613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "望周知！ https://t.co/DpgtZJCRkO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106256336753217536",
+            "3_2106256357770829824"
+          ]
+        },
+        "author_id": "2092971438521077760",
+        "conversation_id": "2106256371779768613",
+        "created_at": "2026-10-03T05:33:46.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106256371779768613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mD8KYjx5MK",
+              "end": 33,
+              "expanded_url": "https://x.com/zza2ku/status/2106256371779768613/photo/1",
+              "media_key": "3_2106256336753217536",
+              "start": 10,
+              "url": "https://t.co/mD8KYjx5MK"
+            },
+            {
+              "display_url": "pic.x.com/mD8KYjx5MK",
+              "end": 33,
+              "expanded_url": "https://x.com/zza2ku/status/2106256371779768613/photo/1",
+              "media_key": "3_2106256357770829824",
+              "start": 10,
+              "url": "https://t.co/mD8KYjx5MK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106256371779768613",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106256336753217536"
+          },
+          {
+            "media_key": "3_2106256357770829824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10317,
+          "like_count": 31,
+          "quote_count": 9,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "唐毓文推特又被封了 https://t.co/mD8KYjx5MK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 74,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2106454840599883916",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 37,
+          "like_count": 5356,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3773
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "民社，无糖mtf\n女友：@Box3_jilil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Box3_jilil"
+              }
+            ]
+          }
+        },
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106402014284362040",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2102647711380197847",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1789967218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 179,
+          "like_count": 338,
+          "listed_count": 1,
+          "media_count": 565,
+          "tweet_count": 1197
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

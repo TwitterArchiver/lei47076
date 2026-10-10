@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2104485977838477396",
+    "created_at": "2026-09-28T10:08:12.000Z",
+    "display_text_range": [
+      8,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104513498638389262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2032037309219315712",
+          "start": 0,
+          "username": "fcjdfb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104513498638389262",
+    "in_reply_to_user_id": "2032037309219315712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104504702121738525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fcjdfb 抱抱～\n比其他人还好啦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2104485977838477396",
+        "created_at": "2026-09-28T10:08:12.000Z",
+        "display_text_range": [
+          8,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104513498638389262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032037309219315712",
+              "start": 0,
+              "username": "fcjdfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104513498638389262",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104504702121738525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcjdfb 抱抱～\n比其他人还好啦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104485977838477396",
+        "created_at": "2026-09-28T09:33:15.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T10:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104504702121738525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104504702121738525",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104485977838477396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 抱抱，好惨"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit：@AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2104513498638389262",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 35,
+          "like_count": 4982,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3381
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104512876543140282",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 65,
+          "like_count": 844,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1525
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

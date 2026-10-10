@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2104801714960544168",
+    "created_at": "2026-09-29T05:21:51.000Z",
+    "display_text_range": [
+      34,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T06:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104803824129220776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050914237397286912",
+          "start": 0,
+          "username": "FurukawaNagisaa"
+        },
+        {
+          "end": 33,
+          "id": "1921890154257793025",
+          "start": 17,
+          "username": "maorenzhina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104803824129220776",
+    "in_reply_to_user_id": "2050914237397286912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104801714960544168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@FurukawaNagisaa @maorenzhina8964 玩得开心呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104801697717436416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXB_gsWQAAA7Sw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2104801714960544168",
+        "created_at": "2026-09-29T05:21:51.000Z",
+        "display_text_range": [
+          34,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104803824129220776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050914237397286912",
+              "start": 0,
+              "username": "FurukawaNagisaa"
+            },
+            {
+              "end": 33,
+              "id": "1921890154257793025",
+              "start": 17,
+              "username": "maorenzhina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104803824129220776",
+        "in_reply_to_user_id": "2050914237397286912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104801714960544168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@FurukawaNagisaa @maorenzhina8964 玩得开心呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104801697717436416"
+          ]
+        },
+        "author_id": "2050914237397286912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104801714960544168",
+        "created_at": "2026-09-29T05:13:28.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104801714960544168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1921890154257793025",
+              "start": 10,
+              "username": "maorenzhina8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e9Mnul6rzX",
+              "end": 50,
+              "expanded_url": "https://x.com/FurukawaNagisaa/status/2104801714960544168/photo/1",
+              "media_key": "3_2104801697717436416",
+              "start": 27,
+              "url": "https://t.co/e9Mnul6rzX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104801714960544168",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104801697717436416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "和腊主席玩游戏😻\n\n@maorenzhina8964 https://t.co/e9Mnul6rzX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit：@AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2104803824129220776",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 36,
+          "like_count": 5028,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 3429
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-03T12:24:20.000Z",
+        "description": "我是睿睿Chiang｜如果你愿意的话可以叫我Ricky🥰……\n戾气跟刻薄麻烦走走开，友善与美好请进来看看^_^\n宝宝🥺：@maorenzhina8964💗\n很多人会问我Osaka跟明乃该怎么区分，来宝贝跟我读\nOsaka是Osaka，明乃是明乃\nOsaka跟明乃一边一人😡👊🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "maorenzhina8964"
+              }
+            ]
+          }
+        },
+        "id": "2050914237397286912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104801714960544168",
+        "name": "东云第20099号",
+        "pinned_tweet_id": "2104479713809027531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050914237397286912/1787238889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092617589990309888/D1YlTBgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 126,
+          "like_count": 1314,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 881
+        },
+        "url": "",
+        "username": "FurukawaNagisaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-12T11:28:32.000Z",
+        "description": "當你深入瞭解Shinese的時候，你就知道我做對了。\n寶寶：@Chiang_kai_Sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Chiang_kai_Sh"
+              }
+            ]
+          }
+        },
+        "id": "1921890154257793025",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104791047264247946",
+        "name": "毛左（歸順毛主席版）",
+        "pinned_tweet_id": "1922065566094737672",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958083088308973568/ZeiTGGns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 314,
+          "like_count": 21891,
+          "listed_count": 6,
+          "media_count": 417,
+          "tweet_count": 2683
+        },
+        "url": "",
+        "username": "maorenzhina8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

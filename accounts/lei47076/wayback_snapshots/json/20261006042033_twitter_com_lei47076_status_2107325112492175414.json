@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2106697657335038133",
+    "created_at": "2026-10-06T04:20:33.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T05:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107325112492175414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1842497337362612224",
+          "start": 0,
+          "username": "asd6368995359"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107325112492175414",
+    "in_reply_to_user_id": "1842497337362612224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106697657335038133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asd6368995359 （抱紧）（拍拍）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2106697657335038133",
+        "created_at": "2026-10-06T04:20:33.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T05:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107325112492175414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1842497337362612224",
+              "start": 0,
+              "username": "asd6368995359"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107325112492175414",
+        "in_reply_to_user_id": "1842497337362612224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106697657335038133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asd6368995359 （抱紧）（拍拍）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842497337362612224",
+        "conversation_id": "2106697657335038133",
+        "created_at": "2026-10-04T10:47:16.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106697657335038133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106697657335038133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 903,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窝好害怕，妳们不要离开窝……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit:  @AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2107325112492175414",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 37,
+          "like_count": 5639,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 4021
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:31:09.000Z",
+        "description": "|hrt:2026.06.15|172cm.61kg|高二\n同类互fo |性格内向|09.9.26|邮箱：2094151978@qq.com\n不键政!|\n想找对象",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+z6DiSxDZEx04N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+z6DiSxDZEx04NWY1",
+                "start": 0,
+                "url": "https://t.co/6ImNgJpnzF"
+              }
+            ]
+          }
+        },
+        "id": "1842497337362612224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107298904798568955",
+        "name": "雲🍥🏳️‍⚧",
+        "pinned_tweet_id": "2107142266800505076",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842497337362612224/1788750414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086031805225078784/DN6pGgWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 271,
+          "like_count": 3487,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 357
+        },
+        "url": "https://t.co/6ImNgJpnzF",
+        "username": "asd6368995359",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2100928376085393425",
+    "created_at": "2026-09-18T12:59:33.000Z",
+    "display_text_range": [
+      15,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100932741370167641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "722012376422178816",
+          "start": 0,
+          "username": "Shisi_ruowang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100932741370167641",
+    "in_reply_to_user_id": "722012376422178816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100929548754051175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shisi_ruowang ）\n对芙兰来说刚刚好，芙兰需求没那么高 \n只不过谢谢你的建议呀！\n贴贴～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2100928376085393425",
+        "created_at": "2026-09-18T12:59:33.000Z",
+        "display_text_range": [
+          15,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100932741370167641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "722012376422178816",
+              "start": 0,
+              "username": "Shisi_ruowang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100932741370167641",
+        "in_reply_to_user_id": "722012376422178816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100929548754051175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shisi_ruowang ）\n对芙兰来说刚刚好，芙兰需求没那么高 \n只不过谢谢你的建议呀！\n贴贴～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "722012376422178816",
+        "conversation_id": "2100928376085393425",
+        "created_at": "2026-09-18T12:46:52.000Z",
+        "display_text_range": [
+          10,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100929548754051175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100929548754051175",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100928376085393425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 就现在这个电子硬件普遍涨价的时代，2000-3000元买到的纯是电子鸡肋吧，要不然别买，要不然攒到5000元量级然后看二手交易平台能不能买去年以前的电脑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred spirit：@AKARIsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2100932741370167641",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 32,
+          "like_count": 4439,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 2840
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-18T10:42:19.000Z",
+        "description": "普普通通小Enby(MtX)（暂未含糖版）\n✝️旧教慕道友（上海教区/济南教区）\nbasic+sh/ed DNI\n中国人/汉语（繁简均可）/英语/学习意西葡语\n东方Project/Love Live!/BanG Dream!/轻音少女!/其他",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/Giandici",
+                "end": 23,
+                "expanded_url": "http://rentry.co/Giandici",
+                "start": 0,
+                "url": "https://t.co/okCnnwXKiE"
+              }
+            ]
+          }
+        },
+        "id": "722012376422178816",
+        "is_identity_verified": false,
+        "location": "Enby / Any prns / 25岁",
+        "most_recent_tweet_id": "2100930027043078348",
+        "name": "十四若望（琳川）🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/722012376422178816/1789179277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098596109228875776/aVBnoO22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 2616,
+          "like_count": 15381,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 8834
+        },
+        "url": "https://t.co/okCnnwXKiE",
+        "username": "Shisi_ruowang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

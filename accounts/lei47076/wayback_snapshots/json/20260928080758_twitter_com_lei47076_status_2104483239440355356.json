@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2104473974059245779",
+    "created_at": "2026-09-28T08:07:58.000Z",
+    "display_text_range": [
+      9,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T09:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104483239440355356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2032861173780267008",
+          "start": 0,
+          "username": "Cang390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104483239440355356",
+    "in_reply_to_user_id": "2032861173780267008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104473974059245779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cang390 喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2750,
+        "media_key": "3_2104473666352484352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSXpkoakAAN5sO.jpg",
+        "width": 3652
+      },
+      {
+        "height": 1160,
+        "media_key": "3_2104473959991549952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSX6qhbIAAfB0m.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2104473974059245779",
+        "created_at": "2026-09-28T08:07:58.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104483239440355356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2032861173780267008",
+              "start": 0,
+              "username": "Cang390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104483239440355356",
+        "in_reply_to_user_id": "2032861173780267008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104473974059245779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cang390 喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104473666352484352",
+            "3_2104473959991549952"
+          ]
+        },
+        "author_id": "2032861173780267008",
+        "conversation_id": "2104473974059245779",
+        "created_at": "2026-09-28T07:31:09.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104473974059245779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vqzseSznPT",
+              "end": 73,
+              "expanded_url": "https://x.com/Cang390/status/2104473974059245779/photo/1",
+              "media_key": "3_2104473666352484352",
+              "start": 50,
+              "url": "https://t.co/vqzseSznPT"
+            },
+            {
+              "display_url": "pic.x.com/vqzseSznPT",
+              "end": 73,
+              "expanded_url": "https://x.com/Cang390/status/2104473974059245779/photo/1",
+              "media_key": "3_2104473959991549952",
+              "start": 50,
+              "url": "https://t.co/vqzseSznPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104473974059245779",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104473666352484352"
+          },
+          {
+            "media_key": "3_2104473959991549952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "累了的话，就稍微休息一下吧，想象自己沉入水里，像一条鱼🐟，眼泪就消散在无形之中了。（p1依旧库存） https://t.co/vqzseSznPT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit：@AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2104483239440355356",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 35,
+          "like_count": 4964,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3361
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-14T16:47:40.000Z",
+        "description": "你好！\n06，友跨，精神不稳定，社恐（容易灵光一闪，发出抽象言论，请多包涵)\n小号：@cangxian120  tg：https://t.co/qMH5UIKNMD\n平等视奸每个人\n简介不全，会慢慢补",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 42,
+                "username": "cangxian120"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/cang390",
+                "end": 82,
+                "expanded_url": "http://t.me/cang390",
+                "start": 59,
+                "url": "https://t.co/qMH5UIKNMD"
+              }
+            ]
+          }
+        },
+        "id": "2032861173780267008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104478359833194631",
+        "name": "沧弦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032861173780267008/1789008560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100840235269840896/fnfLqkcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 200,
+          "like_count": 4893,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 375
+        },
+        "url": "",
+        "username": "Cang390",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

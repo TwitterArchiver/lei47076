@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2107259284954444010",
+    "created_at": "2026-10-06T10:13:01.000Z",
+    "display_text_range": [
+      31,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T11:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107413811930218665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2082975744050003968",
+          "start": 0,
+          "username": "StukdeeGorye"
+        },
+        {
+          "end": 30,
+          "id": "2050914237397286912",
+          "start": 14,
+          "username": "FurukawaNagisaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107413811930218665",
+    "in_reply_to_user_id": "2082975744050003968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107384864739926487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StukdeeGorye @FurukawaNagisaa （捉住）\n（揉揉脑袋）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2107259284954444010",
+        "created_at": "2026-10-06T10:13:01.000Z",
+        "display_text_range": [
+          31,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107413811930218665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2082975744050003968",
+              "start": 0,
+              "username": "StukdeeGorye"
+            },
+            {
+              "end": 30,
+              "id": "2050914237397286912",
+              "start": 14,
+              "username": "FurukawaNagisaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107413811930218665",
+        "in_reply_to_user_id": "2082975744050003968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107384864739926487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StukdeeGorye @FurukawaNagisaa （捉住）\n（揉揉脑袋）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082975744050003968",
+        "conversation_id": "2107259284954444010",
+        "created_at": "2026-10-06T08:17:59.000Z",
+        "display_text_range": [
+          27,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T09:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107384864739926487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050914237397286912",
+              "start": 0,
+              "username": "FurukawaNagisaa"
+            },
+            {
+              "end": 26,
+              "id": "2020175811878481922",
+              "start": 17,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107384864739926487",
+        "in_reply_to_user_id": "2050914237397286912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107331369873658356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurukawaNagisaa @lei47076 给ta了嘛( ´▽｀)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit:  @AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2107413811930218665",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 37,
+          "like_count": 5644,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 4028
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-30T23:46:45.000Z",
+        "description": "hello呀各位，我是小克❤️，喜欢研究各种稀奇古怪的东西(((o(*ﾟ▽ﾟ*)o)))\n喜欢游戏制作，最喜欢的游戏是minecraft！偶尔研究古籍（最近没有空余时间了……\n是特仑苏 🥛 和明治巧克力 🍫（特浓牛奶味最好吃）的忠实粉丝， 也是坚定的猫派 —— 猫咪快点统治世界吧！！！\n欢迎互fo、聊天私信Oᴗoಣ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stukdee.is-a.dev",
+                "end": 23,
+                "expanded_url": "https://stukdee.is-a.dev",
+                "start": 0,
+                "url": "https://t.co/Rtb8Ao7X5L"
+              }
+            ]
+          }
+        },
+        "id": "2082975744050003968",
+        "is_identity_verified": false,
+        "location": "喵星球",
+        "most_recent_tweet_id": "2107406014459105608",
+        "name": "Stukdee Gorye",
+        "pinned_tweet_id": "2088913158211866746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082975744050003968/1787444241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082976349258756096/OMOfV4IQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 864,
+          "like_count": 5288,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1892
+        },
+        "url": "https://t.co/Rtb8Ao7X5L",
+        "username": "StukdeeGorye",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-03T12:24:20.000Z",
+        "description": "我爱奶蛋🥛🥚｜请称呼我睿睿Chiang\n收件箱：https://t.co/VkGmIzOAKd\n重要的人：@maorenzhina8964💗\nOsaka是Osaka，明乃是明乃\nOsaka跟明乃一边一人😡👊🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "maorenzhina8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jrz121",
+                "end": 47,
+                "expanded_url": "https://ngl.link/jrz121",
+                "start": 24,
+                "url": "https://t.co/VkGmIzOAKd"
+              }
+            ]
+          }
+        },
+        "id": "2050914237397286912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107393679321395611",
+        "name": "东云第20099号",
+        "pinned_tweet_id": "2104479713809027531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050914237397286912/1791262646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092617589990309888/D1YlTBgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 133,
+          "like_count": 2425,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 1480
+        },
+        "url": "",
+        "username": "FurukawaNagisaa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2106440576342348085",
+    "created_at": "2026-10-03T18:57:52.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T19:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106458733543149886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2106422219459133440",
+          "start": 0,
+          "username": "Je11yf1sh__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106458733543149886",
+    "in_reply_to_user_id": "2106422219459133440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106440576342348085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Je11yf1sh__ 你好呀！很高兴认识你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2106440576342348085",
+        "created_at": "2026-10-03T18:57:52.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T19:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106458733543149886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2106422219459133440",
+              "start": 0,
+              "username": "Je11yf1sh__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106458733543149886",
+        "in_reply_to_user_id": "2106422219459133440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106440576342348085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Je11yf1sh__ 你好呀！很高兴认识你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2106422219459133440",
+        "conversation_id": "2106440576342348085",
+        "created_at": "2026-10-03T17:45:43.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106440576342348085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106440576342348085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想交友！！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 74,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2106458733543149886",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 37,
+          "like_count": 5368,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 3788
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-03T16:34:41.000Z",
+        "description": "小水母之日常^^\n小水母喜歡美樂蒂💕🐰🪼\n美樂蒂才不是壞兔子！\nMADD｜依賴型人格障礙",
+        "id": "2106422219459133440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106449305796284827",
+        "name": "小水母🪼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2106422219459133440/1791046936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106429591451803648/mf0DS05q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "Je11yf1sh__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2104010713836716450",
+    "created_at": "2026-09-27T02:21:35.000Z",
+    "display_text_range": [
+      14,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T03:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104033682944352524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2061979903084593152",
+          "start": 0,
+          "username": "520yinhuanye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104033682944352524",
+    "in_reply_to_user_id": "2061979903084593152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104010713836716450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520yinhuanye 好孩子，奖励你一个抱抱～\n（抱抱）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2104010713836716450",
+        "created_at": "2026-09-27T02:21:35.000Z",
+        "display_text_range": [
+          14,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T03:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104033682944352524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2061979903084593152",
+              "start": 0,
+              "username": "520yinhuanye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104033682944352524",
+        "in_reply_to_user_id": "2061979903084593152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104010713836716450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520yinhuanye 好孩子，奖励你一个抱抱～\n（抱抱）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061979903084593152",
+        "conversation_id": "2104010713836716450",
+        "created_at": "2026-09-27T00:50:19.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T01:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104010713836716450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dxcksaus/statu…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/dxcksaus/status/2103648678716297273",
+              "start": 99,
+              "url": "https://t.co/dlR9QKpiFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104010713836716450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 578,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103648678716297273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：❌\n有过女朋友：❌\n嗑过药：❌\n喝过酒：✅\n挂过科：❌\n去过夜店：❌\n抽过烟/用过电子烟：❌\n吻过别人：❌\n被留堂：✅\n被课堂赶出去：❌\n考试作弊：✅\n偷偷溜出家门：✅ https://t.co/dlR9QKpiFV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit：@AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2104033682944352524",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 35,
+          "like_count": 4863,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 3252
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T01:15:44.000Z",
+        "description": "miku一生推 玩音游 主玩phigros/phira不鉴政 互 fo 里推@yehuanyin520\n/mbti entj/匿名提问邮箱https://t.co/jNM1tsoMYb\n/术力口重度依赖/mtx/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "yehuanyin520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yinhuanye",
+                "end": 92,
+                "expanded_url": "https://ngl.link/yinhuanye",
+                "start": 69,
+                "url": "https://t.co/jNM1tsoMYb"
+              }
+            ]
+          }
+        },
+        "id": "2061979903084593152",
+        "is_identity_verified": false,
+        "location": "miku1",
+        "most_recent_tweet_id": "2104033272200393076",
+        "name": "音环夜",
+        "pinned_tweet_id": "2103871678208249913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061979903084593152/1788275109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101957021822279680/1WJvrX2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 1226,
+          "like_count": 1319,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 755
+        },
+        "url": "",
+        "username": "520yinhuanye",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

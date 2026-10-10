@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106325891043524608"
+      ]
+    },
+    "author_id": "2020175811878481922",
+    "conversation_id": "2106300136242680179",
+    "created_at": "2026-10-03T10:10:02.000Z",
+    "display_text_range": [
+      12,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T11:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106325900233212378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2098782134307840000",
+          "start": 0,
+          "username": "tsinginlove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jvMIv0EcOe",
+          "end": 36,
+          "expanded_url": "https://x.com/lei47076/status/2106325900233212378/photo/1",
+          "media_key": "3_2106325891043524608",
+          "start": 13,
+          "url": "https://t.co/jvMIv0EcOe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106325900233212378",
+    "in_reply_to_user_id": "2098782134307840000",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2106325891043524608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106314157033484593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsinginlove https://t.co/jvMIv0EcOe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_2106325891043524608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTssPPTbgAA1Eun.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106325891043524608"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "conversation_id": "2106300136242680179",
+        "created_at": "2026-10-03T10:10:02.000Z",
+        "display_text_range": [
+          12,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106325900233212378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2098782134307840000",
+              "start": 0,
+              "username": "tsinginlove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvMIv0EcOe",
+              "end": 36,
+              "expanded_url": "https://x.com/lei47076/status/2106325900233212378/photo/1",
+              "media_key": "3_2106325891043524608",
+              "start": 13,
+              "url": "https://t.co/jvMIv0EcOe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106325900233212378",
+        "in_reply_to_user_id": "2098782134307840000",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2106325891043524608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106314157033484593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsinginlove https://t.co/jvMIv0EcOe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2098782134307840000",
+        "conversation_id": "2106300136242680179",
+        "created_at": "2026-10-03T09:23:23.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106314157033484593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020175811878481922",
+              "start": 0,
+              "username": "lei47076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106314157033484593",
+        "in_reply_to_user_id": "2020175811878481922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106310177700094263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei47076 你好!ฅ₍ᐢ⸝⸝› ̫ ‹⸝⸝ᐢ₎ฅ˒˒"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit：@AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2106325900233212378",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 37,
+          "like_count": 5311,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3728
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-12T14:33:49.000Z",
+        "description": "想要和大家交朋友哦😘",
+        "id": "2098782134307840000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106325911973089650",
+        "name": "青音",
+        "pinned_tweet_id": "2106300136242680179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098782134307840000/1789224213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106299186862071808/MIx6n-1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 131,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "tsinginlove",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

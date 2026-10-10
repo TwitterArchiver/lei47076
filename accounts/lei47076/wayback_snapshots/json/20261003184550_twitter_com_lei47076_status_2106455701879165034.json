@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106455693658308609"
+      ]
+    },
+    "author_id": "2020175811878481922",
+    "conversation_id": "2106455701879165034",
+    "created_at": "2026-10-03T18:45:50.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T19:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106455701879165034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/66QkfBXlRM",
+          "end": 58,
+          "expanded_url": "https://x.com/lei47076/status/2106455701879165034/photo/1",
+          "media_key": "3_2106455693658308609",
+          "start": 35,
+          "url": "https://t.co/66QkfBXlRM"
+        },
+        {
+          "display_url": "x.com/tsinginlove/st…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/tsinginlove/status/2106300136242680179",
+          "start": 59,
+          "url": "https://t.co/EVKbx12b82"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106455701879165034",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106455693658308609"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106300136242680179",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "17 岁学生喵～\n想和推特的大家交朋友！请多关照！\n(*^ω^*)♡ https://t.co/66QkfBXlRM https://t.co/EVKbx12b82"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_2106455693658308609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuiSvuaQAEFPzX.jpg",
+        "width": 1280
+      },
+      {
+        "height": 860,
+        "media_key": "3_2106300125450772480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsUze_aoAAGGf0.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106455693658308609"
+          ]
+        },
+        "author_id": "2020175811878481922",
+        "conversation_id": "2106455701879165034",
+        "created_at": "2026-10-03T18:45:50.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T19:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106455701879165034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66QkfBXlRM",
+              "end": 58,
+              "expanded_url": "https://x.com/lei47076/status/2106455701879165034/photo/1",
+              "media_key": "3_2106455693658308609",
+              "start": 35,
+              "url": "https://t.co/66QkfBXlRM"
+            },
+            {
+              "display_url": "x.com/tsinginlove/st…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/tsinginlove/status/2106300136242680179",
+              "start": 59,
+              "url": "https://t.co/EVKbx12b82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106455701879165034",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106455693658308609"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106300136242680179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "17 岁学生喵～\n想和推特的大家交朋友！请多关照！\n(*^ω^*)♡ https://t.co/66QkfBXlRM https://t.co/EVKbx12b82"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106300125450772480"
+          ]
+        },
+        "author_id": "2098782134307840000",
+        "conversation_id": "2106300136242680179",
+        "created_at": "2026-10-03T08:27:40.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106300136242680179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fFwVWxy5la",
+              "end": 43,
+              "expanded_url": "https://x.com/tsinginlove/status/2106300136242680179/photo/1",
+              "media_key": "3_2106300125450772480",
+              "start": 20,
+              "url": "https://t.co/fFwVWxy5la"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106300136242680179",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106300125450772480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 77493,
+          "like_count": 1430,
+          "quote_count": 7,
+          "reply_count": 624,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "17岁高中生喵\n想和推特的大家交朋友哦 https://t.co/fFwVWxy5la"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 74,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2106455701879165034",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 37,
+          "like_count": 5357,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 3777
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-12T14:33:49.000Z",
+        "description": "想要和大家交朋友哦😘",
+        "id": "2098782134307840000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106358068137128247",
+        "name": "青音",
+        "pinned_tweet_id": "2106300136242680179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098782134307840000/1789224213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106299186862071808/MIx6n-1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 267,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "tsinginlove",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

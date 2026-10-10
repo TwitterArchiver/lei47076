@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2107040654010228769",
+    "created_at": "2026-10-05T09:37:44.000Z",
+    "display_text_range": [
+      11,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T10:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107042546992189442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1481914707539677185",
+          "start": 0,
+          "username": "KanoYumoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107042546992189442",
+    "in_reply_to_user_id": "1481914707539677185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107040654010228769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KanoYumoe 我也爱你呀！\n抱抱～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2107040654010228769",
+        "created_at": "2026-10-05T09:37:44.000Z",
+        "display_text_range": [
+          11,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T10:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107042546992189442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1481914707539677185",
+              "start": 0,
+              "username": "KanoYumoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107042546992189442",
+        "in_reply_to_user_id": "1481914707539677185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107040654010228769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KanoYumoe 我也爱你呀！\n抱抱～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481914707539677185",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2107040654010228769",
+        "created_at": "2026-10-05T09:30:13.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T10:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107040654010228769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107040654010228769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "新的小小简介\n生日：03年5月9日\n汉语言文学本科，毕业于25年6月。\n可以叫我风铃。\nMTF，药跨，追逐了8年自己梦中的影子，如今我终于看到了那一天到来的希望，我在为此努力。\n\n有一份稳定的工作，虽然辛苦忙碌，但是可靠，安定。我想这是我的福报，所以我在试着尽自己所能去帮助那些处于困境的孩子们，看着她们的欢喜我会由衷的感到幸福。\n\n理解但并不支持od行为，化学极乐是在燃烧自己的身体换来那些珍贵的情绪，可很多时候那些情绪反而会成为悲剧的起始。我不喜欢悲剧，我更希望大家都能好好的，平平安安的。\n\n与一些精神疾病伴随多年，很多时候那些情绪已经不再是我的敌人，而更像是朋友，只是它们会偶尔遮住阳光，但总会有一些在乎着我的人们将它们拨开，让我看到那束阳光。\n\n照顾着一些孩子们，看着她们因为我变得越来越好，我会由衷的感到幸福，希望自己可以成为她们的可靠的依靠。\n\n未来会更好吗？我不知道，但我愿意去相信。我陪着大家一起。\n我爱你们。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的小小简介\n生日：03年5月9日\n汉语言文学本科，毕业于25年6月。\n可以叫我风铃。\nMTF，药跨，追逐了8年自己梦中的影子，如今我终于看到了那一天到来的希望，我在为此努力。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 74,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2107042546992189442",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 37,
+          "like_count": 5509,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3901
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-14T09:03:05.000Z",
+        "description": "MTF，药跨。经常深夜出没，头像是自设。因为有稳定工作，所以想为大家提供力所能及的帮助，也想成为大家生活中意外的小确幸。\n会及时的互关哦，每一条友善的私信都会认真回复哦。\n早上好，中午好，晚上好。在这个世界上总有人喜欢你，只是你还未曾遇见，和我一起再等等好吗？\n\n联系方式（企鹅）：752771872（风铃🎐）",
+        "id": "1481914707539677185",
+        "is_identity_verified": false,
+        "location": "兰山区",
+        "most_recent_tweet_id": "2107040654010228769",
+        "name": "今天也要吃饱🍥🎐",
+        "pinned_tweet_id": "2107040654010228769",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481914707539677185/1786579000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092787604756582400/40GT1Iq6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 508,
+          "like_count": 6476,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1141
+        },
+        "url": "",
+        "username": "KanoYumoe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

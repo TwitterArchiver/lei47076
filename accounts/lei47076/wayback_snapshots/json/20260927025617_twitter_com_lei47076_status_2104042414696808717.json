@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2020175811878481922",
+    "conversation_id": "2103973017844170958",
+    "created_at": "2026-09-27T02:56:17.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T03:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104042414696808717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559445629004300290",
+          "start": 0,
+          "username": "nomi9724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104042414696808717",
+    "in_reply_to_user_id": "1559445629004300290",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103973017844170958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nomi9724 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020175811878481922",
+        "conversation_id": "2103973017844170958",
+        "created_at": "2026-09-27T02:56:17.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T03:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104042414696808717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559445629004300290",
+              "start": 0,
+              "username": "nomi9724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104042414696808717",
+        "in_reply_to_user_id": "1559445629004300290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103973017844170958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomi9724 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559445629004300290",
+        "conversation_id": "2103973017844170958",
+        "created_at": "2026-09-26T22:20:32.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T23:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103973017844170958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103973017844170958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 272,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜测自己可能是能被hrt影响性取向的人之一\n\n昨天跟以顺男身份交往的顺男朋友出门玩，突然想到如果自己hrt了，性取向从无变男了，会不会把自己的朋友抓来当朋友\n\n这都是什么想法"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "耳机里是当下的心情，脑子里是没停过的问题。\n对世界保持善意，也允许自己偶尔下暴雨。\n好的坏的，都记在这里。\n\nKindred Spirit：@AKARIsys\nThe Unsettled Mind：@lei47067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "AKARIsys"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "lei47067"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lei47076",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lei47076",
+                "start": 0,
+                "url": "https://t.co/8k3WDVm5WG"
+              }
+            ]
+          }
+        },
+        "id": "2020175811878481922",
+        "is_identity_verified": false,
+        "location": "红魔馆-地下室",
+        "most_recent_tweet_id": "2104042414696808717",
+        "name": "『芙兰朵露·斯卡雷特』",
+        "pinned_tweet_id": "2100224104570016143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020175811878481922/1785674513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096978732133285888/jXTFU-9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 35,
+          "like_count": 4876,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 3264
+        },
+        "url": "https://t.co/8k3WDVm5WG",
+        "username": "lei47076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-16T07:43:26.000Z",
+        "description": "05年生 / 任意代词 / 功能健全 / 希望自己是MTF / 立志做中文跨圈第一repper / 疑似AuDHD / INFJ / 倒错主体 / 不墙内不线下 / 碎片化n手哲学受众 / 坚持一致的不一致 / 前进！/\n\n天堂必须是倒置的\n\n匿名信箱：https://t.co/sjR6C4qPyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nomi9742",
+                "end": 150,
+                "expanded_url": "https://ngl.link/nomi9742",
+                "start": 127,
+                "url": "https://t.co/sjR6C4qPyb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/wrSlQRG6DK"
+              }
+            ]
+          }
+        },
+        "id": "1559445629004300290",
+        "is_identity_verified": false,
+        "location": "墙内",
+        "most_recent_tweet_id": "2103977066819715467",
+        "name": "Nomi9724🏳️",
+        "pinned_tweet_id": "2103975763552964765",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100686683297771520/EtUHwGp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 858,
+          "like_count": 4005,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 628
+        },
+        "url": "https://t.co/wrSlQRG6DK",
+        "username": "nomi9724",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
